@@ -1,0 +1,47 @@
+# PRE-REGISTERED queries (committed on 29 Sep 2026, before any annotation came back and before
+# any result was computed). Do not edit after results exist; add a new version instead.
+version: q1b   # q1 = everything below except b0_literal; q1b adds b0_literal (see below)
+
+# B0: what a historian types into the archive search box.
+b0_keyword:
+  pattern: "paneurop"          # prefix match on the normalised token, like "Paneuropa*"
+
+# ADDED AFTER THE FIRST RESULTS (29 Sep 2026, 23:40; not pre-registered; reported as an extra row).
+# The literal word the historian typed. Arcanum itself matched more than this: 7 of 14 tier-1
+# extracts contain only inflected forms ("paneuropäischen"), yet the search returned them.
+b0_literal:
+  pattern: "paneuropa"
+
+# B1 and S1: an expanded lexicon, as a historian would build it by hand. Single words only:
+# a phrase like "Vereinigte Staaten von Europa" would split into words that match the USA.
+# "europa" covers it. Terms of 5+ letters also match as prefixes (German endings).
+lexicon:
+  - paneuropa
+  - paneuropäisch
+  - europa
+  - europäisch
+  - europäer
+  - coudenhove
+  - kalergi
+  - briand
+  - staatenbund
+  - föderation
+  - zollunion
+  - völkerbund
+  - verständigung
+
+# S1 only: a corpus token matches a lexicon term if its prefix (term length) has a normalised
+# Levenshtein similarity of at least this value (so "panzuropa" matches "paneuropa").
+fuzzy_min_sim: 0.8
+
+# S2: dense retrieval with short concept descriptions written by us (not taken from the corpus).
+concepts:
+  - "Die Paneuropa-Bewegung und die Idee eines geeinten Europas: Zusammenschluss der europäischen Staaten zu einer politischen und wirtschaftlichen Union."
+  - "Europäische Zusammenarbeit und Verständigung zwischen den Völkern Europas, Frieden und eine gemeinsame Ordnung für Europa."
+  - "Vereinigte Staaten von Europa, europäische Föderation, europäische Zollunion, Europa gegenüber Amerika und Russland."
+
+# S3: reciprocal rank fusion of S1 and S2 (Cormack et al. 2009).
+rrf_k: 60
+
+# Dense model, run on a machine with Hugging Face access (scripts/embed.py).
+dense_model: intfloat/multilingual-e5-base

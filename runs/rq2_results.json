@@ -1,0 +1,42 @@
+{
+  "model": "qwen3-30b-a3b-instruct-2507",
+  "articles": 16,
+  "format_failures": 0,
+  "bea_unsure": [
+    "T1-08:A1"
+  ],
+  "compared": 15,
+  "agree": 7,
+  "kappa": 0.13043478260869568,
+  "confusion_bea_rows_llm_columns": {
+    "PRO": {
+      "PRO": 5,
+      "CONTRA": 0,
+      "NEUTRAL": 0
+    },
+    "CONTRA": {
+      "PRO": 0,
+      "CONTRA": 0,
+      "NEUTRAL": 1
+    },
+    "NEUTRAL": {
+      "PRO": 7,
+      "CONTRA": 0,
+      "NEUTRAL": 2
+    }
+  },
+  "quote_check": {
+    "close": 7,
+    "exact": 5,
+    "not_found": 4
+  },
+  "host": [
+    "chat-ai.academiccloud.de"
+  ],
+  "host_note": [
+    "GWDG SAIA"
+  ],
+  "model_returned": [
+    "qwen3-30b-a3b-instruct-2507"
+  ]
+}

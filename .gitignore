@@ -1,0 +1,55 @@
+# Arcanum material: subscription content, never in git
+data/raw/
+data/packs/
+# PDFs: Arcanum pages and page crops never go in; only the paper and its figures
+*.pdf
+!report/overleaf-popline/main.pdf
+!report/overleaf-popline/figures/*.pdf
+report/overleaf-popline/figures/*.png
+docs/Popline_*/
+*.zip
+
+# secrets and local environments
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# large or machine-specific outputs
+runs/passages.jsonl
+runs/rq2_articles.jsonl
+
+# LaTeX build files (the paper sources in report/ are tracked)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# LaTeX comment package output
+*.cut
+
+# packaging and lint caches
+*.egg-info/
+.ruff_cache/
+
+# internal working notes: kept locally for the team and the Claude sessions, not published
+CLAUDE.md
+docs/PLAN.md
+docs/decisions.md
+docs/STATUS.md
+docs/paper_outline.md
+docs/udo_brief.md
+docs/memos/
+docs/sessions/
+docs/team/
+report/overleaf-popline/notes/
+report/overleaf-popline/README.md
+
+# the paper sources and PDF: submitted separately, not published here
+report/

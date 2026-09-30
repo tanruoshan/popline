@@ -1,0 +1,140 @@
+{"tier": 1, "method": "R0 reading order", "rank": 1, "pid": "T1-01:0:000", "article": null, "grade": 0, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 2, "pid": "T1-01:0:001", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 3, "pid": "T1-01:0:002", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 4, "pid": "T1-01:0:003", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 5, "pid": "T1-01:0:004", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 6, "pid": "T1-01:0:005", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 7, "pid": "T1-01:0:006", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 8, "pid": "T1-01:0:007", "article": "T1-01:A1", "grade": 2, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 9, "pid": "T1-01:0:008", "article": null, "grade": 0, "why": ""}
+{"tier": 1, "method": "R0 reading order", "rank": 10, "pid": "T1-01:0:009", "article": null, "grade": 0, "why": ""}
+{"tier": 1, "method": "B0 keyword", "rank": 1, "pid": "T1-04:1:021", "article": "T1-04:A1", "grade": 2, "why": "paneuropa, paneuropäer, paneuropäifche"}
+{"tier": 1, "method": "B0 keyword", "rank": 2, "pid": "T1-14:0:017", "article": "T1-14:A1", "grade": 2, "why": "paneuropa, paneuropa3"}
+{"tier": 1, "method": "B0 keyword", "rank": 3, "pid": "T1-04:1:003", "article": "T1-04:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0 keyword", "rank": 4, "pid": "T1-04:1:015", "article": "T1-04:A1", "grade": 2, "why": "paneuropa, paneuropäiiche"}
+{"tier": 1, "method": "B0 keyword", "rank": 5, "pid": "T1-05:1:007", "article": null, "grade": 0, "why": "paneuropäifcen, paneuropäiidhe"}
+{"tier": 1, "method": "B0 keyword", "rank": 6, "pid": "T1-08:0:004", "article": "T1-08:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0 keyword", "rank": 7, "pid": "T1-09:1:017", "article": "T1-09:A1", "grade": 2, "why": "paneuropa, paneuropas"}
+{"tier": 1, "method": "B0 keyword", "rank": 8, "pid": "T1-13:0:014", "article": "T1-13:A?", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0 keyword", "rank": 9, "pid": "T1-01:1:010", "article": "T1-01:A3", "grade": 2, "why": "paneuropäifhen"}
+{"tier": 1, "method": "B0 keyword", "rank": 10, "pid": "T1-02:0:017", "article": "T1-02:A1", "grade": 1, "why": "paneuropäiihe"}
+{"tier": 1, "method": "B0-literal", "rank": 1, "pid": "T1-14:0:017", "article": "T1-14:A1", "grade": 2, "why": "paneuropa, paneuropa3"}
+{"tier": 1, "method": "B0-literal", "rank": 2, "pid": "T1-04:1:003", "article": "T1-04:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 3, "pid": "T1-08:0:004", "article": "T1-08:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 4, "pid": "T1-09:1:017", "article": "T1-09:A1", "grade": 2, "why": "paneuropa, paneuropas"}
+{"tier": 1, "method": "B0-literal", "rank": 5, "pid": "T1-13:0:014", "article": "T1-13:A?", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 6, "pid": "T1-04:0:023", "article": "T1-04:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 7, "pid": "T1-04:1:015", "article": "T1-04:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 8, "pid": "T1-04:1:021", "article": "T1-04:A1", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 9, "pid": "T1-04:1:034", "article": "T1-04:A2", "grade": 2, "why": "paneuropa"}
+{"tier": 1, "method": "B0-literal", "rank": 10, "pid": "T1-07:0:001", "article": "T1-07:A1", "grade": 1, "why": "paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 1, "pid": "T1-13:0:012", "article": null, "grade": 0, "why": "coudenhove, europa, kalergi, paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 2, "pid": "T1-14:0:017", "article": "T1-14:A1", "grade": 2, "why": "briand, paneuropa, paneuropa3~paneuropa, völkerbundes~völkerbund"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 3, "pid": "T1-13:0:002", "article": "T1-13:A?", "grade": 2, "why": "europäer, paneuropabewegung~paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 4, "pid": "T1-14:0:019", "article": "T1-14:A1", "grade": 2, "why": "briand, europa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 5, "pid": "T1-13:0:014", "article": "T1-13:A?", "grade": 2, "why": "europa, paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 6, "pid": "T1-13:0:016", "article": "T1-13:A?", "grade": 2, "why": "briand, europa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 7, "pid": "T1-04:0:023", "article": "T1-04:A1", "grade": 2, "why": "europa, paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 8, "pid": "T1-04:1:021", "article": "T1-04:A1", "grade": 2, "why": "europa, paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 9, "pid": "T1-09:1:017", "article": "T1-09:A1", "grade": 2, "why": "paneuropa, paneuropas~paneuropa"}
+{"tier": 1, "method": "B1 lexicon exact", "rank": 10, "pid": "T1-02:0:021", "article": null, "grade": 0, "why": "briands~briand"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 1, "pid": "T1-04:1:010", "article": "T1-04:A1", "grade": 2, "why": "bölferbundes~völkerbund, bölferbundfektion~völkerbund, bölterbund~völkerbund, europäifchen~europa, paneuropäilde~paneuropa"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 2, "pid": "T1-04:1:015", "article": "T1-04:A1", "grade": 2, "why": "baneuropa~paneuropa, baneuropabewegung~paneuropa, baneuropas~paneuropa, curopas~europa, europa, europas~europa, europäiihe~europa, europäiiher~europa, europäijche~europa, paneuropa, paneuropäiiche~paneuropa"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 3, "pid": "T1-06:0:020", "article": "T1-06:A1", "grade": 2, "why": "europäifche~europa, europäiidien~europa, euvopa~europa, köderation~föderation"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 4, "pid": "T1-04:1:023", "article": "T1-04:A1", "grade": 2, "why": "curopas~europa, eumopäifchen~europäisch, europäijchen~europa, paneuropäijchen~paneuropa"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 5, "pid": "T1-09:0:026", "article": "T1-09:A1", "grade": 2, "why": "kafergi~kalergi, paneuropa, paneurppabewegung~paneuropa, soudenhove~coudenhove"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 6, "pid": "T1-04:1:007", "article": "T1-04:A1", "grade": 2, "why": "eurspäifchen~europäisch, paneuropäiichen~paneuropa, paneuvopäiiches~paneuropäisch"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 7, "pid": "T1-05:1:007", "article": null, "grade": 0, "why": "europa, europäifchen~europa, europälich~europa, paneuropäifcen~paneuropa, paneuropäiidhe~paneuropa, paneuvopäiiche~paneuropäisch"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 8, "pid": "T1-04:1:021", "article": "T1-04:A1", "grade": 2, "why": "europa, guropa~europa, paneuropa, paneuropäer~paneuropa, paneuropäifche~paneuropa"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 9, "pid": "T1-13:0:012", "article": null, "grade": 0, "why": "coudenhove, europa, kalergi, paneuropa"}
+{"tier": 1, "method": "S1 lexicon fuzzy", "rank": 10, "pid": "T1-05:1:008", "article": null, "grade": 0, "why": "bölkerbund~völkerbund, europäiichen~europa, paneuropäiihn~paneuropa"}
+{"tier": 1, "method": "S2 dense", "rank": 1, "pid": "T1-04:1:015", "article": "T1-04:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 2, "pid": "T1-13:0:029", "article": "T1-13:A?", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 3, "pid": "T1-04:1:010", "article": "T1-04:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 4, "pid": "T1-09:0:023", "article": "T1-09:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 5, "pid": "T1-04:0:016", "article": "T1-04:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 6, "pid": "T1-04:1:003", "article": "T1-04:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 7, "pid": "T1-04:1:021", "article": "T1-04:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 8, "pid": "T1-08:0:016", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 1, "method": "S2 dense", "rank": 9, "pid": "T1-04:0:023", "article": "T1-04:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S2 dense", "rank": 10, "pid": "T1-13:0:004", "article": "T1-13:A?", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 1, "pid": "T1-04:1:015", "article": "T1-04:A1", "grade": 2, "why": "baneuropa~paneuropa, baneuropabewegung~paneuropa, baneuropas~paneuropa, curopas~europa, europa, europas~europa, europäiihe~europa, europäiiher~europa, europäijche~europa, paneuropa, paneuropäiiche~paneuropa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 2, "pid": "T1-04:1:010", "article": "T1-04:A1", "grade": 2, "why": "bölferbundes~völkerbund, bölferbundfektion~völkerbund, bölterbund~völkerbund, europäifchen~europa, paneuropäilde~paneuropa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 3, "pid": "T1-06:0:020", "article": "T1-06:A1", "grade": 2, "why": "europäifche~europa, europäiidien~europa, euvopa~europa, köderation~föderation | close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 1, "method": "S3 fusion", "rank": 4, "pid": "T1-04:1:021", "article": "T1-04:A1", "grade": 2, "why": "europa, guropa~europa, paneuropa, paneuropäer~paneuropa, paneuropäifche~paneuropa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 5, "pid": "T1-04:1:023", "article": "T1-04:A1", "grade": 2, "why": "curopas~europa, eumopäifchen~europäisch, europäijchen~europa, paneuropäijchen~paneuropa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 6, "pid": "T1-05:1:007", "article": null, "grade": 0, "why": "europa, europäifchen~europa, europälich~europa, paneuropäifcen~paneuropa, paneuropäiidhe~paneuropa, paneuvopäiiche~paneuropäisch | close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 1, "method": "S3 fusion", "rank": 7, "pid": "T1-04:0:011", "article": "T1-04:A1", "grade": 2, "why": "briand, europäifch~europa, europäilch~europa | close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 1, "method": "S3 fusion", "rank": 8, "pid": "T1-04:0:016", "article": "T1-04:A1", "grade": 2, "why": "guropa~europa, paneuropäijhen~paneuropa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 9, "pid": "T1-13:0:004", "article": "T1-13:A?", "grade": 2, "why": "coudenhoe~coudenhove, europa, paneuropa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 1, "method": "S3 fusion", "rank": 10, "pid": "T1-04:1:007", "article": "T1-04:A1", "grade": 2, "why": "eurspäifchen~europäisch, paneuropäiichen~paneuropa, paneuvopäiiches~paneuropäisch | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 3, "method": "R0 reading order", "rank": 1, "pid": "T3-01:0:000", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 2, "pid": "T3-01:0:001", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 3, "pid": "T3-01:0:002", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 4, "pid": "T3-01:0:003", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 5, "pid": "T3-01:0:004", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 6, "pid": "T3-01:0:005", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 7, "pid": "T3-01:0:006", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 8, "pid": "T3-01:0:007", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 9, "pid": "T3-01:0:008", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "R0 reading order", "rank": 10, "pid": "T3-01:0:009", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 1, "pid": "T3-01:0:000", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 2, "pid": "T3-01:0:001", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 3, "pid": "T3-01:0:002", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 4, "pid": "T3-01:0:003", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 5, "pid": "T3-01:0:004", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 6, "pid": "T3-01:0:005", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 7, "pid": "T3-01:0:006", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 8, "pid": "T3-01:0:007", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 9, "pid": "T3-01:0:008", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0 keyword", "rank": 10, "pid": "T3-01:0:009", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 1, "pid": "T3-01:0:000", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 2, "pid": "T3-01:0:001", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 3, "pid": "T3-01:0:002", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 4, "pid": "T3-01:0:003", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 5, "pid": "T3-01:0:004", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 6, "pid": "T3-01:0:005", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 7, "pid": "T3-01:0:006", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 8, "pid": "T3-01:0:007", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 9, "pid": "T3-01:0:008", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B0-literal", "rank": 10, "pid": "T3-01:0:009", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 1, "pid": "T3-09:0:010", "article": "T3-09:A1", "grade": 2, "why": "europa"}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 2, "pid": "T3-09:0:020", "article": "T3-09:A1", "grade": 2, "why": "europa"}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 3, "pid": "T3-01:0:000", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 4, "pid": "T3-01:0:001", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 5, "pid": "T3-01:0:002", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 6, "pid": "T3-01:0:003", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 7, "pid": "T3-01:0:004", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 8, "pid": "T3-01:0:005", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 9, "pid": "T3-01:0:006", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "B1 lexicon exact", "rank": 10, "pid": "T3-01:0:007", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 1, "pid": "T3-06:0:007", "article": null, "grade": 0, "why": "brian~briand"}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 2, "pid": "T3-09:0:020", "article": "T3-09:A1", "grade": 2, "why": "europa, euroya~europa"}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 3, "pid": "T3-09:0:010", "article": "T3-09:A1", "grade": 2, "why": "europa"}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 4, "pid": "T3-01:0:000", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 5, "pid": "T3-01:0:001", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 6, "pid": "T3-01:0:002", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 7, "pid": "T3-01:0:003", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 8, "pid": "T3-01:0:004", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 9, "pid": "T3-01:0:005", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S1 lexicon fuzzy", "rank": 10, "pid": "T3-01:0:006", "article": null, "grade": 0, "why": ""}
+{"tier": 3, "method": "S2 dense", "rank": 1, "pid": "T3-05:0:025", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S2 dense", "rank": 2, "pid": "T3-01:0:033", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S2 dense", "rank": 3, "pid": "T3-09:0:015", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S2 dense", "rank": 4, "pid": "T3-09:0:010", "article": "T3-09:A1", "grade": 2, "why": "close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 3, "method": "S2 dense", "rank": 5, "pid": "T3-10:0:002", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S2 dense", "rank": 6, "pid": "T3-07:0:029", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S2 dense", "rank": 7, "pid": "T3-08:0:036", "article": null, "grade": 0, "why": "close to concept 3: Vereinigte Staaten von Europa, europäische Föderat..."}
+{"tier": 3, "method": "S2 dense", "rank": 8, "pid": "T3-01:0:032", "article": null, "grade": 0, "why": "close to concept 3: Vereinigte Staaten von Europa, europäische Föderat..."}
+{"tier": 3, "method": "S2 dense", "rank": 9, "pid": "T3-06:0:006", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S2 dense", "rank": 10, "pid": "T3-10:0:011", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 1, "pid": "T3-09:0:010", "article": "T3-09:A1", "grade": 2, "why": "europa | close to concept 1: Die Paneuropa-Bewegung und die Idee eines geeinten..."}
+{"tier": 3, "method": "S3 fusion", "rank": 2, "pid": "T3-09:0:020", "article": "T3-09:A1", "grade": 2, "why": "europa, euroya~europa | close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 3, "pid": "T3-06:0:007", "article": null, "grade": 0, "why": "brian~briand | close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 4, "pid": "T3-05:0:025", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 5, "pid": "T3-01:0:033", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 6, "pid": "T3-09:0:015", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 7, "pid": "T3-10:0:002", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 8, "pid": "T3-07:0:029", "article": null, "grade": 0, "why": "close to concept 2: Europäische Zusammenarbeit und Verständigung zwisc..."}
+{"tier": 3, "method": "S3 fusion", "rank": 9, "pid": "T3-08:0:036", "article": null, "grade": 0, "why": "close to concept 3: Vereinigte Staaten von Europa, europäische Föderat..."}
+{"tier": 3, "method": "S3 fusion", "rank": 10, "pid": "T3-01:0:032", "article": null, "grade": 0, "why": "close to concept 3: Vereinigte Staaten von Europa, europäische Föderat..."}

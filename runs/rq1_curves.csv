@@ -1,0 +1,6273 @@
+tier,method,n_read,found
+1,R0 reading order,1,0
+1,R0 reading order,2,1
+1,R0 reading order,3,1
+1,R0 reading order,4,1
+1,R0 reading order,5,1
+1,R0 reading order,6,1
+1,R0 reading order,7,1
+1,R0 reading order,8,1
+1,R0 reading order,9,1
+1,R0 reading order,10,1
+1,R0 reading order,11,1
+1,R0 reading order,12,1
+1,R0 reading order,13,1
+1,R0 reading order,14,1
+1,R0 reading order,15,1
+1,R0 reading order,16,1
+1,R0 reading order,17,1
+1,R0 reading order,18,1
+1,R0 reading order,19,1
+1,R0 reading order,20,1
+1,R0 reading order,21,1
+1,R0 reading order,22,1
+1,R0 reading order,23,1
+1,R0 reading order,24,1
+1,R0 reading order,25,1
+1,R0 reading order,26,1
+1,R0 reading order,27,1
+1,R0 reading order,28,1
+1,R0 reading order,29,1
+1,R0 reading order,30,1
+1,R0 reading order,31,1
+1,R0 reading order,32,1
+1,R0 reading order,33,1
+1,R0 reading order,34,2
+1,R0 reading order,35,2
+1,R0 reading order,36,2
+1,R0 reading order,37,2
+1,R0 reading order,38,2
+1,R0 reading order,39,3
+1,R0 reading order,40,3
+1,R0 reading order,41,3
+1,R0 reading order,42,3
+1,R0 reading order,43,3
+1,R0 reading order,44,3
+1,R0 reading order,45,3
+1,R0 reading order,46,3
+1,R0 reading order,47,3
+1,R0 reading order,48,3
+1,R0 reading order,49,3
+1,R0 reading order,50,3
+1,R0 reading order,51,3
+1,R0 reading order,52,4
+1,R0 reading order,53,4
+1,R0 reading order,54,4
+1,R0 reading order,55,4
+1,R0 reading order,56,4
+1,R0 reading order,57,4
+1,R0 reading order,58,4
+1,R0 reading order,59,4
+1,R0 reading order,60,4
+1,R0 reading order,61,4
+1,R0 reading order,62,4
+1,R0 reading order,63,4
+1,R0 reading order,64,4
+1,R0 reading order,65,4
+1,R0 reading order,66,4
+1,R0 reading order,67,4
+1,R0 reading order,68,4
+1,R0 reading order,69,4
+1,R0 reading order,70,4
+1,R0 reading order,71,4
+1,R0 reading order,72,4
+1,R0 reading order,73,4
+1,R0 reading order,74,4
+1,R0 reading order,75,4
+1,R0 reading order,76,4
+1,R0 reading order,77,4
+1,R0 reading order,78,4
+1,R0 reading order,79,4
+1,R0 reading order,80,4
+1,R0 reading order,81,4
+1,R0 reading order,82,4
+1,R0 reading order,83,4
+1,R0 reading order,84,4
+1,R0 reading order,85,4
+1,R0 reading order,86,4
+1,R0 reading order,87,4
+1,R0 reading order,88,4
+1,R0 reading order,89,4
+1,R0 reading order,90,4
+1,R0 reading order,91,4
+1,R0 reading order,92,4
+1,R0 reading order,93,4
+1,R0 reading order,94,4
+1,R0 reading order,95,4
+1,R0 reading order,96,4
+1,R0 reading order,97,4
+1,R0 reading order,98,4
+1,R0 reading order,99,4
+1,R0 reading order,100,4
+1,R0 reading order,101,4
+1,R0 reading order,102,4
+1,R0 reading order,103,4
+1,R0 reading order,104,4
+1,R0 reading order,105,4
+1,R0 reading order,106,4
+1,R0 reading order,107,4
+1,R0 reading order,108,4
+1,R0 reading order,109,4
+1,R0 reading order,110,4
+1,R0 reading order,111,4
+1,R0 reading order,112,4
+1,R0 reading order,113,4
+1,R0 reading order,114,4
+1,R0 reading order,115,4
+1,R0 reading order,116,4
+1,R0 reading order,117,4
+1,R0 reading order,118,4
+1,R0 reading order,119,4
+1,R0 reading order,120,5
+1,R0 reading order,121,5
+1,R0 reading order,122,5
+1,R0 reading order,123,5
+1,R0 reading order,124,5
+1,R0 reading order,125,5
+1,R0 reading order,126,5
+1,R0 reading order,127,5
+1,R0 reading order,128,6
+1,R0 reading order,129,6
+1,R0 reading order,130,6
+1,R0 reading order,131,6
+1,R0 reading order,132,6
+1,R0 reading order,133,6
+1,R0 reading order,134,6
+1,R0 reading order,135,6
+1,R0 reading order,136,6
+1,R0 reading order,137,6
+1,R0 reading order,138,6
+1,R0 reading order,139,6
+1,R0 reading order,140,6
+1,R0 reading order,141,6
+1,R0 reading order,142,6
+1,R0 reading order,143,6
+1,R0 reading order,144,6
+1,R0 reading order,145,6
+1,R0 reading order,146,6
+1,R0 reading order,147,6
+1,R0 reading order,148,6
+1,R0 reading order,149,6
+1,R0 reading order,150,6
+1,R0 reading order,151,6
+1,R0 reading order,152,6
+1,R0 reading order,153,6
+1,R0 reading order,154,6
+1,R0 reading order,155,6
+1,R0 reading order,156,6
+1,R0 reading order,157,6
+1,R0 reading order,158,6
+1,R0 reading order,159,6
+1,R0 reading order,160,6
+1,R0 reading order,161,6
+1,R0 reading order,162,6
+1,R0 reading order,163,6
+1,R0 reading order,164,6
+1,R0 reading order,165,6
+1,R0 reading order,166,6
+1,R0 reading order,167,6
+1,R0 reading order,168,6
+1,R0 reading order,169,6
+1,R0 reading order,170,6
+1,R0 reading order,171,6
+1,R0 reading order,172,6
+1,R0 reading order,173,6
+1,R0 reading order,174,6
+1,R0 reading order,175,6
+1,R0 reading order,176,6
+1,R0 reading order,177,6
+1,R0 reading order,178,6
+1,R0 reading order,179,6
+1,R0 reading order,180,6
+1,R0 reading order,181,6
+1,R0 reading order,182,6
+1,R0 reading order,183,6
+1,R0 reading order,184,6
+1,R0 reading order,185,7
+1,R0 reading order,186,7
+1,R0 reading order,187,7
+1,R0 reading order,188,7
+1,R0 reading order,189,7
+1,R0 reading order,190,8
+1,R0 reading order,191,8
+1,R0 reading order,192,8
+1,R0 reading order,193,8
+1,R0 reading order,194,8
+1,R0 reading order,195,8
+1,R0 reading order,196,8
+1,R0 reading order,197,8
+1,R0 reading order,198,8
+1,R0 reading order,199,8
+1,R0 reading order,200,8
+1,R0 reading order,201,8
+1,R0 reading order,202,8
+1,R0 reading order,203,8
+1,R0 reading order,204,8
+1,R0 reading order,205,8
+1,R0 reading order,206,8
+1,R0 reading order,207,8
+1,R0 reading order,208,8
+1,R0 reading order,209,8
+1,R0 reading order,210,8
+1,R0 reading order,211,8
+1,R0 reading order,212,8
+1,R0 reading order,213,8
+1,R0 reading order,214,8
+1,R0 reading order,215,8
+1,R0 reading order,216,8
+1,R0 reading order,217,8
+1,R0 reading order,218,8
+1,R0 reading order,219,8
+1,R0 reading order,220,8
+1,R0 reading order,221,8
+1,R0 reading order,222,8
+1,R0 reading order,223,8
+1,R0 reading order,224,8
+1,R0 reading order,225,8
+1,R0 reading order,226,8
+1,R0 reading order,227,8
+1,R0 reading order,228,8
+1,R0 reading order,229,8
+1,R0 reading order,230,8
+1,R0 reading order,231,8
+1,R0 reading order,232,8
+1,R0 reading order,233,8
+1,R0 reading order,234,8
+1,R0 reading order,235,8
+1,R0 reading order,236,8
+1,R0 reading order,237,8
+1,R0 reading order,238,8
+1,R0 reading order,239,8
+1,R0 reading order,240,8
+1,R0 reading order,241,8
+1,R0 reading order,242,8
+1,R0 reading order,243,8
+1,R0 reading order,244,8
+1,R0 reading order,245,8
+1,R0 reading order,246,8
+1,R0 reading order,247,8
+1,R0 reading order,248,8
+1,R0 reading order,249,8
+1,R0 reading order,250,8
+1,R0 reading order,251,8
+1,R0 reading order,252,8
+1,R0 reading order,253,8
+1,R0 reading order,254,8
+1,R0 reading order,255,8
+1,R0 reading order,256,8
+1,R0 reading order,257,8
+1,R0 reading order,258,8
+1,R0 reading order,259,8
+1,R0 reading order,260,8
+1,R0 reading order,261,8
+1,R0 reading order,262,8
+1,R0 reading order,263,8
+1,R0 reading order,264,8
+1,R0 reading order,265,8
+1,R0 reading order,266,8
+1,R0 reading order,267,8
+1,R0 reading order,268,8
+1,R0 reading order,269,8
+1,R0 reading order,270,8
+1,R0 reading order,271,8
+1,R0 reading order,272,8
+1,R0 reading order,273,8
+1,R0 reading order,274,8
+1,R0 reading order,275,9
+1,R0 reading order,276,9
+1,R0 reading order,277,9
+1,R0 reading order,278,9
+1,R0 reading order,279,9
+1,R0 reading order,280,9
+1,R0 reading order,281,9
+1,R0 reading order,282,9
+1,R0 reading order,283,9
+1,R0 reading order,284,9
+1,R0 reading order,285,9
+1,R0 reading order,286,9
+1,R0 reading order,287,9
+1,R0 reading order,288,9
+1,R0 reading order,289,9
+1,R0 reading order,290,9
+1,R0 reading order,291,9
+1,R0 reading order,292,9
+1,R0 reading order,293,9
+1,R0 reading order,294,9
+1,R0 reading order,295,9
+1,R0 reading order,296,9
+1,R0 reading order,297,9
+1,R0 reading order,298,9
+1,R0 reading order,299,9
+1,R0 reading order,300,9
+1,R0 reading order,301,9
+1,R0 reading order,302,9
+1,R0 reading order,303,9
+1,R0 reading order,304,9
+1,R0 reading order,305,9
+1,R0 reading order,306,9
+1,R0 reading order,307,9
+1,R0 reading order,308,9
+1,R0 reading order,309,9
+1,R0 reading order,310,9
+1,R0 reading order,311,9
+1,R0 reading order,312,9
+1,R0 reading order,313,9
+1,R0 reading order,314,9
+1,R0 reading order,315,9
+1,R0 reading order,316,9
+1,R0 reading order,317,10
+1,R0 reading order,318,10
+1,R0 reading order,319,10
+1,R0 reading order,320,10
+1,R0 reading order,321,10
+1,R0 reading order,322,10
+1,R0 reading order,323,10
+1,R0 reading order,324,10
+1,R0 reading order,325,10
+1,R0 reading order,326,10
+1,R0 reading order,327,10
+1,R0 reading order,328,10
+1,R0 reading order,329,10
+1,R0 reading order,330,10
+1,R0 reading order,331,10
+1,R0 reading order,332,10
+1,R0 reading order,333,10
+1,R0 reading order,334,10
+1,R0 reading order,335,10
+1,R0 reading order,336,10
+1,R0 reading order,337,10
+1,R0 reading order,338,10
+1,R0 reading order,339,10
+1,R0 reading order,340,10
+1,R0 reading order,341,10
+1,R0 reading order,342,10
+1,R0 reading order,343,10
+1,R0 reading order,344,10
+1,R0 reading order,345,10
+1,R0 reading order,346,10
+1,R0 reading order,347,10
+1,R0 reading order,348,10
+1,R0 reading order,349,10
+1,R0 reading order,350,10
+1,R0 reading order,351,10
+1,R0 reading order,352,10
+1,R0 reading order,353,10
+1,R0 reading order,354,10
+1,R0 reading order,355,10
+1,R0 reading order,356,10
+1,R0 reading order,357,10
+1,R0 reading order,358,10
+1,R0 reading order,359,10
+1,R0 reading order,360,10
+1,R0 reading order,361,10
+1,R0 reading order,362,10
+1,R0 reading order,363,10
+1,R0 reading order,364,10
+1,R0 reading order,365,10
+1,R0 reading order,366,10
+1,R0 reading order,367,10
+1,R0 reading order,368,10
+1,R0 reading order,369,10
+1,R0 reading order,370,10
+1,R0 reading order,371,10
+1,R0 reading order,372,10
+1,R0 reading order,373,10
+1,R0 reading order,374,10
+1,R0 reading order,375,10
+1,R0 reading order,376,10
+1,R0 reading order,377,10
+1,R0 reading order,378,10
+1,R0 reading order,379,10
+1,R0 reading order,380,10
+1,R0 reading order,381,10
+1,R0 reading order,382,10
+1,R0 reading order,383,10
+1,R0 reading order,384,10
+1,R0 reading order,385,10
+1,R0 reading order,386,10
+1,R0 reading order,387,10
+1,R0 reading order,388,10
+1,R0 reading order,389,10
+1,R0 reading order,390,10
+1,R0 reading order,391,10
+1,R0 reading order,392,10
+1,R0 reading order,393,10
+1,R0 reading order,394,10
+1,R0 reading order,395,10
+1,R0 reading order,396,10
+1,R0 reading order,397,10
+1,R0 reading order,398,10
+1,R0 reading order,399,10
+1,R0 reading order,400,10
+1,R0 reading order,401,10
+1,R0 reading order,402,10
+1,R0 reading order,403,11
+1,R0 reading order,404,11
+1,R0 reading order,405,11
+1,R0 reading order,406,11
+1,R0 reading order,407,11
+1,R0 reading order,408,11
+1,R0 reading order,409,11
+1,R0 reading order,410,11
+1,R0 reading order,411,11
+1,R0 reading order,412,11
+1,R0 reading order,413,11
+1,R0 reading order,414,11
+1,R0 reading order,415,11
+1,R0 reading order,416,11
+1,R0 reading order,417,11
+1,R0 reading order,418,11
+1,R0 reading order,419,11
+1,R0 reading order,420,11
+1,R0 reading order,421,11
+1,R0 reading order,422,11
+1,R0 reading order,423,11
+1,R0 reading order,424,11
+1,R0 reading order,425,11
+1,R0 reading order,426,11
+1,R0 reading order,427,11
+1,R0 reading order,428,11
+1,R0 reading order,429,11
+1,R0 reading order,430,11
+1,R0 reading order,431,11
+1,R0 reading order,432,11
+1,R0 reading order,433,11
+1,R0 reading order,434,11
+1,R0 reading order,435,11
+1,R0 reading order,436,11
+1,R0 reading order,437,11
+1,R0 reading order,438,11
+1,R0 reading order,439,11
+1,R0 reading order,440,11
+1,R0 reading order,441,11
+1,R0 reading order,442,11
+1,R0 reading order,443,11
+1,R0 reading order,444,12
+1,R0 reading order,445,12
+1,R0 reading order,446,12
+1,R0 reading order,447,12
+1,R0 reading order,448,12
+1,R0 reading order,449,12
+1,R0 reading order,450,12
+1,R0 reading order,451,12
+1,R0 reading order,452,12
+1,R0 reading order,453,12
+1,R0 reading order,454,12
+1,R0 reading order,455,12
+1,R0 reading order,456,12
+1,R0 reading order,457,12
+1,R0 reading order,458,12
+1,R0 reading order,459,12
+1,R0 reading order,460,12
+1,R0 reading order,461,12
+1,R0 reading order,462,12
+1,R0 reading order,463,12
+1,R0 reading order,464,12
+1,R0 reading order,465,12
+1,R0 reading order,466,12
+1,R0 reading order,467,12
+1,R0 reading order,468,12
+1,R0 reading order,469,12
+1,R0 reading order,470,12
+1,R0 reading order,471,12
+1,R0 reading order,472,12
+1,R0 reading order,473,12
+1,R0 reading order,474,12
+1,R0 reading order,475,12
+1,R0 reading order,476,12
+1,R0 reading order,477,12
+1,R0 reading order,478,12
+1,R0 reading order,479,12
+1,R0 reading order,480,12
+1,R0 reading order,481,12
+1,R0 reading order,482,12
+1,R0 reading order,483,12
+1,R0 reading order,484,12
+1,R0 reading order,485,12
+1,R0 reading order,486,12
+1,R0 reading order,487,12
+1,R0 reading order,488,12
+1,R0 reading order,489,12
+1,R0 reading order,490,12
+1,R0 reading order,491,12
+1,R0 reading order,492,12
+1,R0 reading order,493,12
+1,R0 reading order,494,12
+1,R0 reading order,495,12
+1,R0 reading order,496,12
+1,R0 reading order,497,12
+1,R0 reading order,498,12
+1,R0 reading order,499,12
+1,R0 reading order,500,12
+1,R0 reading order,501,12
+1,R0 reading order,502,12
+1,R0 reading order,503,12
+1,R0 reading order,504,12
+1,R0 reading order,505,12
+1,R0 reading order,506,12
+1,R0 reading order,507,12
+1,R0 reading order,508,12
+1,R0 reading order,509,12
+1,R0 reading order,510,12
+1,R0 reading order,511,12
+1,R0 reading order,512,12
+1,R0 reading order,513,12
+1,R0 reading order,514,12
+1,R0 reading order,515,12
+1,R0 reading order,516,12
+1,R0 reading order,517,12
+1,R0 reading order,518,12
+1,R0 reading order,519,12
+1,R0 reading order,520,12
+1,R0 reading order,521,12
+1,R0 reading order,522,12
+1,R0 reading order,523,12
+1,R0 reading order,524,12
+1,R0 reading order,525,12
+1,R0 reading order,526,12
+1,R0 reading order,527,12
+1,R0 reading order,528,12
+1,R0 reading order,529,12
+1,R0 reading order,530,12
+1,R0 reading order,531,12
+1,R0 reading order,532,12
+1,R0 reading order,533,12
+1,R0 reading order,534,12
+1,R0 reading order,535,12
+1,R0 reading order,536,12
+1,R0 reading order,537,12
+1,R0 reading order,538,13
+1,R0 reading order,539,13
+1,R0 reading order,540,13
+1,R0 reading order,541,13
+1,R0 reading order,542,13
+1,R0 reading order,543,13
+1,R0 reading order,544,13
+1,R0 reading order,545,13
+1,R0 reading order,546,13
+1,R0 reading order,547,13
+1,R0 reading order,548,13
+1,R0 reading order,549,13
+1,R0 reading order,550,13
+1,R0 reading order,551,13
+1,R0 reading order,552,13
+1,R0 reading order,553,13
+1,R0 reading order,554,13
+1,R0 reading order,555,13
+1,R0 reading order,556,13
+1,R0 reading order,557,14
+1,R0 reading order,558,14
+1,R0 reading order,559,14
+1,R0 reading order,560,14
+1,R0 reading order,561,14
+1,R0 reading order,562,14
+1,R0 reading order,563,14
+1,R0 reading order,564,14
+1,R0 reading order,565,14
+1,R0 reading order,566,14
+1,R0 reading order,567,14
+1,R0 reading order,568,14
+1,R0 reading order,569,14
+1,R0 reading order,570,14
+1,R0 reading order,571,14
+1,R0 reading order,572,14
+1,R0 reading order,573,14
+1,R0 reading order,574,14
+1,R0 reading order,575,14
+1,R0 reading order,576,14
+1,R0 reading order,577,14
+1,R0 reading order,578,14
+1,R0 reading order,579,14
+1,R0 reading order,580,14
+1,R0 reading order,581,14
+1,R0 reading order,582,14
+1,R0 reading order,583,14
+1,R0 reading order,584,14
+1,R0 reading order,585,14
+1,R0 reading order,586,14
+1,R0 reading order,587,14
+1,R0 reading order,588,14
+1,R0 reading order,589,14
+1,R0 reading order,590,14
+1,R0 reading order,591,14
+1,R0 reading order,592,14
+1,R0 reading order,593,14
+1,R0 reading order,594,14
+1,R0 reading order,595,14
+1,R0 reading order,596,14
+1,R0 reading order,597,14
+1,R0 reading order,598,14
+1,R0 reading order,599,14
+1,R0 reading order,600,14
+1,R0 reading order,601,14
+1,R0 reading order,602,14
+1,R0 reading order,603,14
+1,R0 reading order,604,15
+1,R0 reading order,605,15
+1,R0 reading order,606,15
+1,R0 reading order,607,15
+1,R0 reading order,608,15
+1,B0 keyword,1,1
+1,B0 keyword,2,2
+1,B0 keyword,3,2
+1,B0 keyword,4,2
+1,B0 keyword,5,2
+1,B0 keyword,6,3
+1,B0 keyword,7,4
+1,B0 keyword,8,5
+1,B0 keyword,9,6
+1,B0 keyword,10,6
+1,B0 keyword,11,7
+1,B0 keyword,12,7
+1,B0 keyword,13,7
+1,B0 keyword,14,7
+1,B0 keyword,15,7
+1,B0 keyword,16,7
+1,B0 keyword,17,7
+1,B0 keyword,18,8
+1,B0 keyword,19,8
+1,B0 keyword,20,9
+1,B0 keyword,21,9
+1,B0 keyword,22,9
+1,B0 keyword,23,9
+1,B0 keyword,24,10
+1,B0 keyword,25,10
+1,B0 keyword,26,10
+1,B0 keyword,27,10
+1,B0 keyword,28,10
+1,B0 keyword,29,10
+1,B0 keyword,30,10
+1,B0 keyword,31,10
+1,B0 keyword,32,10
+1,B0 keyword,33,11
+1,B0 keyword,34,11
+1,B0 keyword,35,12
+1,B0 keyword,36,12
+1,B0 keyword,37,12
+1,B0 keyword,38,12
+1,B0 keyword,39,12
+1,B0 keyword,40,12
+1,B0 keyword,41,13
+1,B0 keyword,42,13
+1,B0 keyword,43,13
+1,B0 keyword,44,13
+1,B0 keyword,45,13
+1,B0 keyword,46,13
+1,B0 keyword,47,13
+1,B0 keyword,48,13
+1,B0 keyword,49,13
+1,B0 keyword,50,13
+1,B0 keyword,51,13
+1,B0 keyword,52,13
+1,B0 keyword,53,13
+1,B0 keyword,54,13
+1,B0 keyword,55,13
+1,B0 keyword,56,13
+1,B0 keyword,57,13
+1,B0 keyword,58,13
+1,B0 keyword,59,13
+1,B0 keyword,60,13
+1,B0 keyword,61,13
+1,B0 keyword,62,13
+1,B0 keyword,63,13
+1,B0 keyword,64,13
+1,B0 keyword,65,13
+1,B0 keyword,66,13
+1,B0 keyword,67,13
+1,B0 keyword,68,13
+1,B0 keyword,69,13
+1,B0 keyword,70,13
+1,B0 keyword,71,13
+1,B0 keyword,72,13
+1,B0 keyword,73,13
+1,B0 keyword,74,13
+1,B0 keyword,75,13
+1,B0 keyword,76,13
+1,B0 keyword,77,14
+1,B0 keyword,78,14
+1,B0 keyword,79,14
+1,B0 keyword,80,14
+1,B0 keyword,81,14
+1,B0 keyword,82,14
+1,B0 keyword,83,14
+1,B0 keyword,84,14
+1,B0 keyword,85,14
+1,B0 keyword,86,14
+1,B0 keyword,87,14
+1,B0 keyword,88,14
+1,B0 keyword,89,14
+1,B0 keyword,90,15
+1,B0 keyword,91,15
+1,B0 keyword,92,15
+1,B0 keyword,93,15
+1,B0 keyword,94,15
+1,B0 keyword,95,15
+1,B0 keyword,96,15
+1,B0 keyword,97,15
+1,B0 keyword,98,15
+1,B0 keyword,99,15
+1,B0 keyword,100,15
+1,B0 keyword,101,15
+1,B0 keyword,102,15
+1,B0 keyword,103,15
+1,B0 keyword,104,15
+1,B0 keyword,105,15
+1,B0 keyword,106,15
+1,B0 keyword,107,15
+1,B0 keyword,108,15
+1,B0 keyword,109,15
+1,B0 keyword,110,15
+1,B0 keyword,111,15
+1,B0 keyword,112,15
+1,B0 keyword,113,15
+1,B0 keyword,114,15
+1,B0 keyword,115,15
+1,B0 keyword,116,15
+1,B0 keyword,117,15
+1,B0 keyword,118,15
+1,B0 keyword,119,15
+1,B0 keyword,120,15
+1,B0 keyword,121,15
+1,B0 keyword,122,15
+1,B0 keyword,123,15
+1,B0 keyword,124,15
+1,B0 keyword,125,15
+1,B0 keyword,126,15
+1,B0 keyword,127,15
+1,B0 keyword,128,15
+1,B0 keyword,129,15
+1,B0 keyword,130,15
+1,B0 keyword,131,15
+1,B0 keyword,132,15
+1,B0 keyword,133,15
+1,B0 keyword,134,15
+1,B0 keyword,135,15
+1,B0 keyword,136,15
+1,B0 keyword,137,15
+1,B0 keyword,138,15
+1,B0 keyword,139,15
+1,B0 keyword,140,15
+1,B0 keyword,141,15
+1,B0 keyword,142,15
+1,B0 keyword,143,15
+1,B0 keyword,144,15
+1,B0 keyword,145,15
+1,B0 keyword,146,15
+1,B0 keyword,147,15
+1,B0 keyword,148,15
+1,B0 keyword,149,15
+1,B0 keyword,150,15
+1,B0 keyword,151,15
+1,B0 keyword,152,15
+1,B0 keyword,153,15
+1,B0 keyword,154,15
+1,B0 keyword,155,15
+1,B0 keyword,156,15
+1,B0 keyword,157,15
+1,B0 keyword,158,15
+1,B0 keyword,159,15
+1,B0 keyword,160,15
+1,B0 keyword,161,15
+1,B0 keyword,162,15
+1,B0 keyword,163,15
+1,B0 keyword,164,15
+1,B0 keyword,165,15
+1,B0 keyword,166,15
+1,B0 keyword,167,15
+1,B0 keyword,168,15
+1,B0 keyword,169,15
+1,B0 keyword,170,15
+1,B0 keyword,171,15
+1,B0 keyword,172,15
+1,B0 keyword,173,15
+1,B0 keyword,174,15
+1,B0 keyword,175,15
+1,B0 keyword,176,15
+1,B0 keyword,177,15
+1,B0 keyword,178,15
+1,B0 keyword,179,15
+1,B0 keyword,180,15
+1,B0 keyword,181,15
+1,B0 keyword,182,15
+1,B0 keyword,183,15
+1,B0 keyword,184,15
+1,B0 keyword,185,15
+1,B0 keyword,186,15
+1,B0 keyword,187,15
+1,B0 keyword,188,15
+1,B0 keyword,189,15
+1,B0 keyword,190,15
+1,B0 keyword,191,15
+1,B0 keyword,192,15
+1,B0 keyword,193,15
+1,B0 keyword,194,15
+1,B0 keyword,195,15
+1,B0 keyword,196,15
+1,B0 keyword,197,15
+1,B0 keyword,198,15
+1,B0 keyword,199,15
+1,B0 keyword,200,15
+1,B0 keyword,201,15
+1,B0 keyword,202,15
+1,B0 keyword,203,15
+1,B0 keyword,204,15
+1,B0 keyword,205,15
+1,B0 keyword,206,15
+1,B0 keyword,207,15
+1,B0 keyword,208,15
+1,B0 keyword,209,15
+1,B0 keyword,210,15
+1,B0 keyword,211,15
+1,B0 keyword,212,15
+1,B0 keyword,213,15
+1,B0 keyword,214,15
+1,B0 keyword,215,15
+1,B0 keyword,216,15
+1,B0 keyword,217,15
+1,B0 keyword,218,15
+1,B0 keyword,219,15
+1,B0 keyword,220,15
+1,B0 keyword,221,15
+1,B0 keyword,222,15
+1,B0 keyword,223,15
+1,B0 keyword,224,15
+1,B0 keyword,225,15
+1,B0 keyword,226,15
+1,B0 keyword,227,15
+1,B0 keyword,228,15
+1,B0 keyword,229,15
+1,B0 keyword,230,15
+1,B0 keyword,231,15
+1,B0 keyword,232,15
+1,B0 keyword,233,15
+1,B0 keyword,234,15
+1,B0 keyword,235,15
+1,B0 keyword,236,15
+1,B0 keyword,237,15
+1,B0 keyword,238,15
+1,B0 keyword,239,15
+1,B0 keyword,240,15
+1,B0 keyword,241,15
+1,B0 keyword,242,15
+1,B0 keyword,243,15
+1,B0 keyword,244,15
+1,B0 keyword,245,15
+1,B0 keyword,246,15
+1,B0 keyword,247,15
+1,B0 keyword,248,15
+1,B0 keyword,249,15
+1,B0 keyword,250,15
+1,B0 keyword,251,15
+1,B0 keyword,252,15
+1,B0 keyword,253,15
+1,B0 keyword,254,15
+1,B0 keyword,255,15
+1,B0 keyword,256,15
+1,B0 keyword,257,15
+1,B0 keyword,258,15
+1,B0 keyword,259,15
+1,B0 keyword,260,15
+1,B0 keyword,261,15
+1,B0 keyword,262,15
+1,B0 keyword,263,15
+1,B0 keyword,264,15
+1,B0 keyword,265,15
+1,B0 keyword,266,15
+1,B0 keyword,267,15
+1,B0 keyword,268,15
+1,B0 keyword,269,15
+1,B0 keyword,270,15
+1,B0 keyword,271,15
+1,B0 keyword,272,15
+1,B0 keyword,273,15
+1,B0 keyword,274,15
+1,B0 keyword,275,15
+1,B0 keyword,276,15
+1,B0 keyword,277,15
+1,B0 keyword,278,15
+1,B0 keyword,279,15
+1,B0 keyword,280,15
+1,B0 keyword,281,15
+1,B0 keyword,282,15
+1,B0 keyword,283,15
+1,B0 keyword,284,15
+1,B0 keyword,285,15
+1,B0 keyword,286,15
+1,B0 keyword,287,15
+1,B0 keyword,288,15
+1,B0 keyword,289,15
+1,B0 keyword,290,15
+1,B0 keyword,291,15
+1,B0 keyword,292,15
+1,B0 keyword,293,15
+1,B0 keyword,294,15
+1,B0 keyword,295,15
+1,B0 keyword,296,15
+1,B0 keyword,297,15
+1,B0 keyword,298,15
+1,B0 keyword,299,15
+1,B0 keyword,300,15
+1,B0 keyword,301,15
+1,B0 keyword,302,15
+1,B0 keyword,303,15
+1,B0 keyword,304,15
+1,B0 keyword,305,15
+1,B0 keyword,306,15
+1,B0 keyword,307,15
+1,B0 keyword,308,15
+1,B0 keyword,309,15
+1,B0 keyword,310,15
+1,B0 keyword,311,15
+1,B0 keyword,312,15
+1,B0 keyword,313,15
+1,B0 keyword,314,15
+1,B0 keyword,315,15
+1,B0 keyword,316,15
+1,B0 keyword,317,15
+1,B0 keyword,318,15
+1,B0 keyword,319,15
+1,B0 keyword,320,15
+1,B0 keyword,321,15
+1,B0 keyword,322,15
+1,B0 keyword,323,15
+1,B0 keyword,324,15
+1,B0 keyword,325,15
+1,B0 keyword,326,15
+1,B0 keyword,327,15
+1,B0 keyword,328,15
+1,B0 keyword,329,15
+1,B0 keyword,330,15
+1,B0 keyword,331,15
+1,B0 keyword,332,15
+1,B0 keyword,333,15
+1,B0 keyword,334,15
+1,B0 keyword,335,15
+1,B0 keyword,336,15
+1,B0 keyword,337,15
+1,B0 keyword,338,15
+1,B0 keyword,339,15
+1,B0 keyword,340,15
+1,B0 keyword,341,15
+1,B0 keyword,342,15
+1,B0 keyword,343,15
+1,B0 keyword,344,15
+1,B0 keyword,345,15
+1,B0 keyword,346,15
+1,B0 keyword,347,15
+1,B0 keyword,348,15
+1,B0 keyword,349,15
+1,B0 keyword,350,15
+1,B0 keyword,351,15
+1,B0 keyword,352,15
+1,B0 keyword,353,15
+1,B0 keyword,354,15
+1,B0 keyword,355,15
+1,B0 keyword,356,15
+1,B0 keyword,357,15
+1,B0 keyword,358,15
+1,B0 keyword,359,15
+1,B0 keyword,360,15
+1,B0 keyword,361,15
+1,B0 keyword,362,15
+1,B0 keyword,363,15
+1,B0 keyword,364,15
+1,B0 keyword,365,15
+1,B0 keyword,366,15
+1,B0 keyword,367,15
+1,B0 keyword,368,15
+1,B0 keyword,369,15
+1,B0 keyword,370,15
+1,B0 keyword,371,15
+1,B0 keyword,372,15
+1,B0 keyword,373,15
+1,B0 keyword,374,15
+1,B0 keyword,375,15
+1,B0 keyword,376,15
+1,B0 keyword,377,15
+1,B0 keyword,378,15
+1,B0 keyword,379,15
+1,B0 keyword,380,15
+1,B0 keyword,381,15
+1,B0 keyword,382,15
+1,B0 keyword,383,15
+1,B0 keyword,384,15
+1,B0 keyword,385,15
+1,B0 keyword,386,15
+1,B0 keyword,387,15
+1,B0 keyword,388,15
+1,B0 keyword,389,15
+1,B0 keyword,390,15
+1,B0 keyword,391,15
+1,B0 keyword,392,15
+1,B0 keyword,393,15
+1,B0 keyword,394,15
+1,B0 keyword,395,15
+1,B0 keyword,396,15
+1,B0 keyword,397,15
+1,B0 keyword,398,15
+1,B0 keyword,399,15
+1,B0 keyword,400,15
+1,B0 keyword,401,15
+1,B0 keyword,402,15
+1,B0 keyword,403,15
+1,B0 keyword,404,15
+1,B0 keyword,405,15
+1,B0 keyword,406,15
+1,B0 keyword,407,15
+1,B0 keyword,408,15
+1,B0 keyword,409,15
+1,B0 keyword,410,15
+1,B0 keyword,411,15
+1,B0 keyword,412,15
+1,B0 keyword,413,15
+1,B0 keyword,414,15
+1,B0 keyword,415,15
+1,B0 keyword,416,15
+1,B0 keyword,417,15
+1,B0 keyword,418,15
+1,B0 keyword,419,15
+1,B0 keyword,420,15
+1,B0 keyword,421,15
+1,B0 keyword,422,15
+1,B0 keyword,423,15
+1,B0 keyword,424,15
+1,B0 keyword,425,15
+1,B0 keyword,426,15
+1,B0 keyword,427,15
+1,B0 keyword,428,15
+1,B0 keyword,429,15
+1,B0 keyword,430,15
+1,B0 keyword,431,15
+1,B0 keyword,432,15
+1,B0 keyword,433,15
+1,B0 keyword,434,15
+1,B0 keyword,435,15
+1,B0 keyword,436,15
+1,B0 keyword,437,15
+1,B0 keyword,438,15
+1,B0 keyword,439,15
+1,B0 keyword,440,15
+1,B0 keyword,441,15
+1,B0 keyword,442,15
+1,B0 keyword,443,15
+1,B0 keyword,444,15
+1,B0 keyword,445,15
+1,B0 keyword,446,15
+1,B0 keyword,447,15
+1,B0 keyword,448,15
+1,B0 keyword,449,15
+1,B0 keyword,450,15
+1,B0 keyword,451,15
+1,B0 keyword,452,15
+1,B0 keyword,453,15
+1,B0 keyword,454,15
+1,B0 keyword,455,15
+1,B0 keyword,456,15
+1,B0 keyword,457,15
+1,B0 keyword,458,15
+1,B0 keyword,459,15
+1,B0 keyword,460,15
+1,B0 keyword,461,15
+1,B0 keyword,462,15
+1,B0 keyword,463,15
+1,B0 keyword,464,15
+1,B0 keyword,465,15
+1,B0 keyword,466,15
+1,B0 keyword,467,15
+1,B0 keyword,468,15
+1,B0 keyword,469,15
+1,B0 keyword,470,15
+1,B0 keyword,471,15
+1,B0 keyword,472,15
+1,B0 keyword,473,15
+1,B0 keyword,474,15
+1,B0 keyword,475,15
+1,B0 keyword,476,15
+1,B0 keyword,477,15
+1,B0 keyword,478,15
+1,B0 keyword,479,15
+1,B0 keyword,480,15
+1,B0 keyword,481,15
+1,B0 keyword,482,15
+1,B0 keyword,483,15
+1,B0 keyword,484,15
+1,B0 keyword,485,15
+1,B0 keyword,486,15
+1,B0 keyword,487,15
+1,B0 keyword,488,15
+1,B0 keyword,489,15
+1,B0 keyword,490,15
+1,B0 keyword,491,15
+1,B0 keyword,492,15
+1,B0 keyword,493,15
+1,B0 keyword,494,15
+1,B0 keyword,495,15
+1,B0 keyword,496,15
+1,B0 keyword,497,15
+1,B0 keyword,498,15
+1,B0 keyword,499,15
+1,B0 keyword,500,15
+1,B0 keyword,501,15
+1,B0 keyword,502,15
+1,B0 keyword,503,15
+1,B0 keyword,504,15
+1,B0 keyword,505,15
+1,B0 keyword,506,15
+1,B0 keyword,507,15
+1,B0 keyword,508,15
+1,B0 keyword,509,15
+1,B0 keyword,510,15
+1,B0 keyword,511,15
+1,B0 keyword,512,15
+1,B0 keyword,513,15
+1,B0 keyword,514,15
+1,B0 keyword,515,15
+1,B0 keyword,516,15
+1,B0 keyword,517,15
+1,B0 keyword,518,15
+1,B0 keyword,519,15
+1,B0 keyword,520,15
+1,B0 keyword,521,15
+1,B0 keyword,522,15
+1,B0 keyword,523,15
+1,B0 keyword,524,15
+1,B0 keyword,525,15
+1,B0 keyword,526,15
+1,B0 keyword,527,15
+1,B0 keyword,528,15
+1,B0 keyword,529,15
+1,B0 keyword,530,15
+1,B0 keyword,531,15
+1,B0 keyword,532,15
+1,B0 keyword,533,15
+1,B0 keyword,534,15
+1,B0 keyword,535,15
+1,B0 keyword,536,15
+1,B0 keyword,537,15
+1,B0 keyword,538,15
+1,B0 keyword,539,15
+1,B0 keyword,540,15
+1,B0 keyword,541,15
+1,B0 keyword,542,15
+1,B0 keyword,543,15
+1,B0 keyword,544,15
+1,B0 keyword,545,15
+1,B0 keyword,546,15
+1,B0 keyword,547,15
+1,B0 keyword,548,15
+1,B0 keyword,549,15
+1,B0 keyword,550,15
+1,B0 keyword,551,15
+1,B0 keyword,552,15
+1,B0 keyword,553,15
+1,B0 keyword,554,15
+1,B0 keyword,555,15
+1,B0 keyword,556,15
+1,B0 keyword,557,15
+1,B0 keyword,558,15
+1,B0 keyword,559,15
+1,B0 keyword,560,15
+1,B0 keyword,561,15
+1,B0 keyword,562,15
+1,B0 keyword,563,15
+1,B0 keyword,564,15
+1,B0 keyword,565,15
+1,B0 keyword,566,15
+1,B0 keyword,567,15
+1,B0 keyword,568,15
+1,B0 keyword,569,15
+1,B0 keyword,570,15
+1,B0 keyword,571,15
+1,B0 keyword,572,15
+1,B0 keyword,573,15
+1,B0 keyword,574,15
+1,B0 keyword,575,15
+1,B0 keyword,576,15
+1,B0 keyword,577,15
+1,B0 keyword,578,15
+1,B0 keyword,579,15
+1,B0 keyword,580,15
+1,B0 keyword,581,15
+1,B0 keyword,582,15
+1,B0 keyword,583,15
+1,B0 keyword,584,15
+1,B0 keyword,585,15
+1,B0 keyword,586,15
+1,B0 keyword,587,15
+1,B0 keyword,588,15
+1,B0 keyword,589,15
+1,B0 keyword,590,15
+1,B0 keyword,591,15
+1,B0 keyword,592,15
+1,B0 keyword,593,15
+1,B0 keyword,594,15
+1,B0 keyword,595,15
+1,B0 keyword,596,15
+1,B0 keyword,597,15
+1,B0 keyword,598,15
+1,B0 keyword,599,15
+1,B0 keyword,600,15
+1,B0 keyword,601,15
+1,B0 keyword,602,15
+1,B0 keyword,603,15
+1,B0 keyword,604,15
+1,B0 keyword,605,15
+1,B0 keyword,606,15
+1,B0 keyword,607,15
+1,B0 keyword,608,15
+1,B0-literal,1,1
+1,B0-literal,2,2
+1,B0-literal,3,3
+1,B0-literal,4,4
+1,B0-literal,5,5
+1,B0-literal,6,5
+1,B0-literal,7,5
+1,B0-literal,8,5
+1,B0-literal,9,6
+1,B0-literal,10,6
+1,B0-literal,11,6
+1,B0-literal,12,6
+1,B0-literal,13,6
+1,B0-literal,14,6
+1,B0-literal,15,6
+1,B0-literal,16,6
+1,B0-literal,17,7
+1,B0-literal,18,7
+1,B0-literal,19,7
+1,B0-literal,20,7
+1,B0-literal,21,7
+1,B0-literal,22,7
+1,B0-literal,23,8
+1,B0-literal,24,8
+1,B0-literal,25,8
+1,B0-literal,26,8
+1,B0-literal,27,8
+1,B0-literal,28,8
+1,B0-literal,29,8
+1,B0-literal,30,8
+1,B0-literal,31,8
+1,B0-literal,32,8
+1,B0-literal,33,8
+1,B0-literal,34,8
+1,B0-literal,35,8
+1,B0-literal,36,8
+1,B0-literal,37,8
+1,B0-literal,38,8
+1,B0-literal,39,8
+1,B0-literal,40,8
+1,B0-literal,41,8
+1,B0-literal,42,8
+1,B0-literal,43,8
+1,B0-literal,44,8
+1,B0-literal,45,8
+1,B0-literal,46,8
+1,B0-literal,47,8
+1,B0-literal,48,8
+1,B0-literal,49,8
+1,B0-literal,50,8
+1,B0-literal,51,8
+1,B0-literal,52,8
+1,B0-literal,53,8
+1,B0-literal,54,8
+1,B0-literal,55,9
+1,B0-literal,56,9
+1,B0-literal,57,9
+1,B0-literal,58,9
+1,B0-literal,59,9
+1,B0-literal,60,10
+1,B0-literal,61,10
+1,B0-literal,62,10
+1,B0-literal,63,10
+1,B0-literal,64,10
+1,B0-literal,65,10
+1,B0-literal,66,10
+1,B0-literal,67,10
+1,B0-literal,68,10
+1,B0-literal,69,10
+1,B0-literal,70,10
+1,B0-literal,71,10
+1,B0-literal,72,10
+1,B0-literal,73,11
+1,B0-literal,74,11
+1,B0-literal,75,11
+1,B0-literal,76,11
+1,B0-literal,77,11
+1,B0-literal,78,11
+1,B0-literal,79,11
+1,B0-literal,80,11
+1,B0-literal,81,11
+1,B0-literal,82,11
+1,B0-literal,83,11
+1,B0-literal,84,11
+1,B0-literal,85,11
+1,B0-literal,86,11
+1,B0-literal,87,11
+1,B0-literal,88,11
+1,B0-literal,89,11
+1,B0-literal,90,11
+1,B0-literal,91,11
+1,B0-literal,92,11
+1,B0-literal,93,11
+1,B0-literal,94,11
+1,B0-literal,95,11
+1,B0-literal,96,11
+1,B0-literal,97,11
+1,B0-literal,98,11
+1,B0-literal,99,11
+1,B0-literal,100,11
+1,B0-literal,101,11
+1,B0-literal,102,11
+1,B0-literal,103,11
+1,B0-literal,104,11
+1,B0-literal,105,11
+1,B0-literal,106,11
+1,B0-literal,107,11
+1,B0-literal,108,11
+1,B0-literal,109,11
+1,B0-literal,110,11
+1,B0-literal,111,11
+1,B0-literal,112,11
+1,B0-literal,113,11
+1,B0-literal,114,11
+1,B0-literal,115,11
+1,B0-literal,116,11
+1,B0-literal,117,11
+1,B0-literal,118,11
+1,B0-literal,119,11
+1,B0-literal,120,11
+1,B0-literal,121,11
+1,B0-literal,122,11
+1,B0-literal,123,11
+1,B0-literal,124,11
+1,B0-literal,125,11
+1,B0-literal,126,11
+1,B0-literal,127,11
+1,B0-literal,128,11
+1,B0-literal,129,11
+1,B0-literal,130,11
+1,B0-literal,131,11
+1,B0-literal,132,11
+1,B0-literal,133,11
+1,B0-literal,134,11
+1,B0-literal,135,11
+1,B0-literal,136,11
+1,B0-literal,137,11
+1,B0-literal,138,11
+1,B0-literal,139,11
+1,B0-literal,140,11
+1,B0-literal,141,12
+1,B0-literal,142,12
+1,B0-literal,143,12
+1,B0-literal,144,12
+1,B0-literal,145,12
+1,B0-literal,146,12
+1,B0-literal,147,12
+1,B0-literal,148,12
+1,B0-literal,149,12
+1,B0-literal,150,12
+1,B0-literal,151,12
+1,B0-literal,152,12
+1,B0-literal,153,12
+1,B0-literal,154,12
+1,B0-literal,155,12
+1,B0-literal,156,12
+1,B0-literal,157,12
+1,B0-literal,158,12
+1,B0-literal,159,12
+1,B0-literal,160,12
+1,B0-literal,161,12
+1,B0-literal,162,12
+1,B0-literal,163,12
+1,B0-literal,164,12
+1,B0-literal,165,12
+1,B0-literal,166,12
+1,B0-literal,167,12
+1,B0-literal,168,12
+1,B0-literal,169,12
+1,B0-literal,170,12
+1,B0-literal,171,12
+1,B0-literal,172,12
+1,B0-literal,173,12
+1,B0-literal,174,12
+1,B0-literal,175,12
+1,B0-literal,176,12
+1,B0-literal,177,12
+1,B0-literal,178,12
+1,B0-literal,179,12
+1,B0-literal,180,12
+1,B0-literal,181,12
+1,B0-literal,182,12
+1,B0-literal,183,12
+1,B0-literal,184,12
+1,B0-literal,185,12
+1,B0-literal,186,12
+1,B0-literal,187,12
+1,B0-literal,188,12
+1,B0-literal,189,12
+1,B0-literal,190,12
+1,B0-literal,191,12
+1,B0-literal,192,12
+1,B0-literal,193,12
+1,B0-literal,194,12
+1,B0-literal,195,12
+1,B0-literal,196,12
+1,B0-literal,197,12
+1,B0-literal,198,12
+1,B0-literal,199,12
+1,B0-literal,200,12
+1,B0-literal,201,12
+1,B0-literal,202,12
+1,B0-literal,203,12
+1,B0-literal,204,12
+1,B0-literal,205,12
+1,B0-literal,206,13
+1,B0-literal,207,13
+1,B0-literal,208,13
+1,B0-literal,209,13
+1,B0-literal,210,13
+1,B0-literal,211,13
+1,B0-literal,212,13
+1,B0-literal,213,13
+1,B0-literal,214,13
+1,B0-literal,215,13
+1,B0-literal,216,13
+1,B0-literal,217,13
+1,B0-literal,218,13
+1,B0-literal,219,13
+1,B0-literal,220,13
+1,B0-literal,221,13
+1,B0-literal,222,13
+1,B0-literal,223,13
+1,B0-literal,224,13
+1,B0-literal,225,13
+1,B0-literal,226,13
+1,B0-literal,227,13
+1,B0-literal,228,13
+1,B0-literal,229,13
+1,B0-literal,230,13
+1,B0-literal,231,13
+1,B0-literal,232,13
+1,B0-literal,233,13
+1,B0-literal,234,13
+1,B0-literal,235,13
+1,B0-literal,236,13
+1,B0-literal,237,13
+1,B0-literal,238,13
+1,B0-literal,239,13
+1,B0-literal,240,13
+1,B0-literal,241,13
+1,B0-literal,242,13
+1,B0-literal,243,13
+1,B0-literal,244,13
+1,B0-literal,245,13
+1,B0-literal,246,13
+1,B0-literal,247,13
+1,B0-literal,248,13
+1,B0-literal,249,13
+1,B0-literal,250,13
+1,B0-literal,251,13
+1,B0-literal,252,13
+1,B0-literal,253,13
+1,B0-literal,254,13
+1,B0-literal,255,13
+1,B0-literal,256,13
+1,B0-literal,257,13
+1,B0-literal,258,13
+1,B0-literal,259,13
+1,B0-literal,260,13
+1,B0-literal,261,13
+1,B0-literal,262,13
+1,B0-literal,263,13
+1,B0-literal,264,13
+1,B0-literal,265,13
+1,B0-literal,266,13
+1,B0-literal,267,13
+1,B0-literal,268,13
+1,B0-literal,269,13
+1,B0-literal,270,13
+1,B0-literal,271,13
+1,B0-literal,272,13
+1,B0-literal,273,13
+1,B0-literal,274,13
+1,B0-literal,275,13
+1,B0-literal,276,13
+1,B0-literal,277,13
+1,B0-literal,278,13
+1,B0-literal,279,13
+1,B0-literal,280,13
+1,B0-literal,281,13
+1,B0-literal,282,13
+1,B0-literal,283,13
+1,B0-literal,284,13
+1,B0-literal,285,13
+1,B0-literal,286,13
+1,B0-literal,287,13
+1,B0-literal,288,13
+1,B0-literal,289,13
+1,B0-literal,290,13
+1,B0-literal,291,14
+1,B0-literal,292,14
+1,B0-literal,293,14
+1,B0-literal,294,14
+1,B0-literal,295,14
+1,B0-literal,296,14
+1,B0-literal,297,14
+1,B0-literal,298,14
+1,B0-literal,299,14
+1,B0-literal,300,14
+1,B0-literal,301,14
+1,B0-literal,302,14
+1,B0-literal,303,14
+1,B0-literal,304,14
+1,B0-literal,305,14
+1,B0-literal,306,14
+1,B0-literal,307,14
+1,B0-literal,308,14
+1,B0-literal,309,14
+1,B0-literal,310,14
+1,B0-literal,311,14
+1,B0-literal,312,14
+1,B0-literal,313,14
+1,B0-literal,314,14
+1,B0-literal,315,14
+1,B0-literal,316,14
+1,B0-literal,317,14
+1,B0-literal,318,14
+1,B0-literal,319,14
+1,B0-literal,320,14
+1,B0-literal,321,14
+1,B0-literal,322,14
+1,B0-literal,323,14
+1,B0-literal,324,14
+1,B0-literal,325,14
+1,B0-literal,326,14
+1,B0-literal,327,14
+1,B0-literal,328,14
+1,B0-literal,329,14
+1,B0-literal,330,14
+1,B0-literal,331,14
+1,B0-literal,332,14
+1,B0-literal,333,14
+1,B0-literal,334,14
+1,B0-literal,335,14
+1,B0-literal,336,14
+1,B0-literal,337,14
+1,B0-literal,338,14
+1,B0-literal,339,14
+1,B0-literal,340,14
+1,B0-literal,341,14
+1,B0-literal,342,14
+1,B0-literal,343,14
+1,B0-literal,344,14
+1,B0-literal,345,14
+1,B0-literal,346,14
+1,B0-literal,347,14
+1,B0-literal,348,14
+1,B0-literal,349,14
+1,B0-literal,350,14
+1,B0-literal,351,14
+1,B0-literal,352,14
+1,B0-literal,353,14
+1,B0-literal,354,14
+1,B0-literal,355,14
+1,B0-literal,356,14
+1,B0-literal,357,14
+1,B0-literal,358,14
+1,B0-literal,359,14
+1,B0-literal,360,14
+1,B0-literal,361,14
+1,B0-literal,362,14
+1,B0-literal,363,14
+1,B0-literal,364,14
+1,B0-literal,365,14
+1,B0-literal,366,14
+1,B0-literal,367,14
+1,B0-literal,368,14
+1,B0-literal,369,14
+1,B0-literal,370,14
+1,B0-literal,371,14
+1,B0-literal,372,14
+1,B0-literal,373,14
+1,B0-literal,374,14
+1,B0-literal,375,14
+1,B0-literal,376,14
+1,B0-literal,377,14
+1,B0-literal,378,14
+1,B0-literal,379,14
+1,B0-literal,380,14
+1,B0-literal,381,14
+1,B0-literal,382,14
+1,B0-literal,383,14
+1,B0-literal,384,14
+1,B0-literal,385,14
+1,B0-literal,386,14
+1,B0-literal,387,14
+1,B0-literal,388,14
+1,B0-literal,389,14
+1,B0-literal,390,14
+1,B0-literal,391,14
+1,B0-literal,392,14
+1,B0-literal,393,14
+1,B0-literal,394,14
+1,B0-literal,395,14
+1,B0-literal,396,14
+1,B0-literal,397,14
+1,B0-literal,398,14
+1,B0-literal,399,14
+1,B0-literal,400,14
+1,B0-literal,401,14
+1,B0-literal,402,14
+1,B0-literal,403,14
+1,B0-literal,404,14
+1,B0-literal,405,14
+1,B0-literal,406,14
+1,B0-literal,407,14
+1,B0-literal,408,14
+1,B0-literal,409,14
+1,B0-literal,410,14
+1,B0-literal,411,14
+1,B0-literal,412,14
+1,B0-literal,413,14
+1,B0-literal,414,14
+1,B0-literal,415,14
+1,B0-literal,416,14
+1,B0-literal,417,14
+1,B0-literal,418,14
+1,B0-literal,419,14
+1,B0-literal,420,14
+1,B0-literal,421,14
+1,B0-literal,422,14
+1,B0-literal,423,14
+1,B0-literal,424,14
+1,B0-literal,425,14
+1,B0-literal,426,14
+1,B0-literal,427,14
+1,B0-literal,428,14
+1,B0-literal,429,14
+1,B0-literal,430,14
+1,B0-literal,431,14
+1,B0-literal,432,14
+1,B0-literal,433,14
+1,B0-literal,434,14
+1,B0-literal,435,14
+1,B0-literal,436,14
+1,B0-literal,437,14
+1,B0-literal,438,14
+1,B0-literal,439,14
+1,B0-literal,440,14
+1,B0-literal,441,14
+1,B0-literal,442,14
+1,B0-literal,443,14
+1,B0-literal,444,14
+1,B0-literal,445,14
+1,B0-literal,446,14
+1,B0-literal,447,14
+1,B0-literal,448,14
+1,B0-literal,449,14
+1,B0-literal,450,14
+1,B0-literal,451,15
+1,B0-literal,452,15
+1,B0-literal,453,15
+1,B0-literal,454,15
+1,B0-literal,455,15
+1,B0-literal,456,15
+1,B0-literal,457,15
+1,B0-literal,458,15
+1,B0-literal,459,15
+1,B0-literal,460,15
+1,B0-literal,461,15
+1,B0-literal,462,15
+1,B0-literal,463,15
+1,B0-literal,464,15
+1,B0-literal,465,15
+1,B0-literal,466,15
+1,B0-literal,467,15
+1,B0-literal,468,15
+1,B0-literal,469,15
+1,B0-literal,470,15
+1,B0-literal,471,15
+1,B0-literal,472,15
+1,B0-literal,473,15
+1,B0-literal,474,15
+1,B0-literal,475,15
+1,B0-literal,476,15
+1,B0-literal,477,15
+1,B0-literal,478,15
+1,B0-literal,479,15
+1,B0-literal,480,15
+1,B0-literal,481,15
+1,B0-literal,482,15
+1,B0-literal,483,15
+1,B0-literal,484,15
+1,B0-literal,485,15
+1,B0-literal,486,15
+1,B0-literal,487,15
+1,B0-literal,488,15
+1,B0-literal,489,15
+1,B0-literal,490,15
+1,B0-literal,491,15
+1,B0-literal,492,15
+1,B0-literal,493,15
+1,B0-literal,494,15
+1,B0-literal,495,15
+1,B0-literal,496,15
+1,B0-literal,497,15
+1,B0-literal,498,15
+1,B0-literal,499,15
+1,B0-literal,500,15
+1,B0-literal,501,15
+1,B0-literal,502,15
+1,B0-literal,503,15
+1,B0-literal,504,15
+1,B0-literal,505,15
+1,B0-literal,506,15
+1,B0-literal,507,15
+1,B0-literal,508,15
+1,B0-literal,509,15
+1,B0-literal,510,15
+1,B0-literal,511,15
+1,B0-literal,512,15
+1,B0-literal,513,15
+1,B0-literal,514,15
+1,B0-literal,515,15
+1,B0-literal,516,15
+1,B0-literal,517,15
+1,B0-literal,518,15
+1,B0-literal,519,15
+1,B0-literal,520,15
+1,B0-literal,521,15
+1,B0-literal,522,15
+1,B0-literal,523,15
+1,B0-literal,524,15
+1,B0-literal,525,15
+1,B0-literal,526,15
+1,B0-literal,527,15
+1,B0-literal,528,15
+1,B0-literal,529,15
+1,B0-literal,530,15
+1,B0-literal,531,15
+1,B0-literal,532,15
+1,B0-literal,533,15
+1,B0-literal,534,15
+1,B0-literal,535,15
+1,B0-literal,536,15
+1,B0-literal,537,15
+1,B0-literal,538,15
+1,B0-literal,539,15
+1,B0-literal,540,15
+1,B0-literal,541,15
+1,B0-literal,542,15
+1,B0-literal,543,15
+1,B0-literal,544,15
+1,B0-literal,545,15
+1,B0-literal,546,15
+1,B0-literal,547,15
+1,B0-literal,548,15
+1,B0-literal,549,15
+1,B0-literal,550,15
+1,B0-literal,551,15
+1,B0-literal,552,15
+1,B0-literal,553,15
+1,B0-literal,554,15
+1,B0-literal,555,15
+1,B0-literal,556,15
+1,B0-literal,557,15
+1,B0-literal,558,15
+1,B0-literal,559,15
+1,B0-literal,560,15
+1,B0-literal,561,15
+1,B0-literal,562,15
+1,B0-literal,563,15
+1,B0-literal,564,15
+1,B0-literal,565,15
+1,B0-literal,566,15
+1,B0-literal,567,15
+1,B0-literal,568,15
+1,B0-literal,569,15
+1,B0-literal,570,15
+1,B0-literal,571,15
+1,B0-literal,572,15
+1,B0-literal,573,15
+1,B0-literal,574,15
+1,B0-literal,575,15
+1,B0-literal,576,15
+1,B0-literal,577,15
+1,B0-literal,578,15
+1,B0-literal,579,15
+1,B0-literal,580,15
+1,B0-literal,581,15
+1,B0-literal,582,15
+1,B0-literal,583,15
+1,B0-literal,584,15
+1,B0-literal,585,15
+1,B0-literal,586,15
+1,B0-literal,587,15
+1,B0-literal,588,15
+1,B0-literal,589,15
+1,B0-literal,590,15
+1,B0-literal,591,15
+1,B0-literal,592,15
+1,B0-literal,593,15
+1,B0-literal,594,15
+1,B0-literal,595,15
+1,B0-literal,596,15
+1,B0-literal,597,15
+1,B0-literal,598,15
+1,B0-literal,599,15
+1,B0-literal,600,15
+1,B0-literal,601,15
+1,B0-literal,602,15
+1,B0-literal,603,15
+1,B0-literal,604,15
+1,B0-literal,605,15
+1,B0-literal,606,15
+1,B0-literal,607,15
+1,B0-literal,608,15
+1,B1 lexicon exact,1,0
+1,B1 lexicon exact,2,1
+1,B1 lexicon exact,3,2
+1,B1 lexicon exact,4,2
+1,B1 lexicon exact,5,2
+1,B1 lexicon exact,6,2
+1,B1 lexicon exact,7,3
+1,B1 lexicon exact,8,3
+1,B1 lexicon exact,9,4
+1,B1 lexicon exact,10,4
+1,B1 lexicon exact,11,5
+1,B1 lexicon exact,12,5
+1,B1 lexicon exact,13,6
+1,B1 lexicon exact,14,6
+1,B1 lexicon exact,15,6
+1,B1 lexicon exact,16,7
+1,B1 lexicon exact,17,7
+1,B1 lexicon exact,18,7
+1,B1 lexicon exact,19,7
+1,B1 lexicon exact,20,8
+1,B1 lexicon exact,21,9
+1,B1 lexicon exact,22,9
+1,B1 lexicon exact,23,9
+1,B1 lexicon exact,24,9
+1,B1 lexicon exact,25,9
+1,B1 lexicon exact,26,9
+1,B1 lexicon exact,27,9
+1,B1 lexicon exact,28,9
+1,B1 lexicon exact,29,9
+1,B1 lexicon exact,30,9
+1,B1 lexicon exact,31,9
+1,B1 lexicon exact,32,9
+1,B1 lexicon exact,33,10
+1,B1 lexicon exact,34,10
+1,B1 lexicon exact,35,10
+1,B1 lexicon exact,36,10
+1,B1 lexicon exact,37,10
+1,B1 lexicon exact,38,10
+1,B1 lexicon exact,39,10
+1,B1 lexicon exact,40,11
+1,B1 lexicon exact,41,12
+1,B1 lexicon exact,42,12
+1,B1 lexicon exact,43,12
+1,B1 lexicon exact,44,12
+1,B1 lexicon exact,45,12
+1,B1 lexicon exact,46,12
+1,B1 lexicon exact,47,12
+1,B1 lexicon exact,48,12
+1,B1 lexicon exact,49,13
+1,B1 lexicon exact,50,13
+1,B1 lexicon exact,51,13
+1,B1 lexicon exact,52,13
+1,B1 lexicon exact,53,13
+1,B1 lexicon exact,54,13
+1,B1 lexicon exact,55,13
+1,B1 lexicon exact,56,13
+1,B1 lexicon exact,57,13
+1,B1 lexicon exact,58,13
+1,B1 lexicon exact,59,13
+1,B1 lexicon exact,60,13
+1,B1 lexicon exact,61,13
+1,B1 lexicon exact,62,13
+1,B1 lexicon exact,63,13
+1,B1 lexicon exact,64,13
+1,B1 lexicon exact,65,13
+1,B1 lexicon exact,66,13
+1,B1 lexicon exact,67,13
+1,B1 lexicon exact,68,13
+1,B1 lexicon exact,69,13
+1,B1 lexicon exact,70,13
+1,B1 lexicon exact,71,13
+1,B1 lexicon exact,72,13
+1,B1 lexicon exact,73,13
+1,B1 lexicon exact,74,13
+1,B1 lexicon exact,75,13
+1,B1 lexicon exact,76,13
+1,B1 lexicon exact,77,13
+1,B1 lexicon exact,78,13
+1,B1 lexicon exact,79,13
+1,B1 lexicon exact,80,13
+1,B1 lexicon exact,81,13
+1,B1 lexicon exact,82,13
+1,B1 lexicon exact,83,13
+1,B1 lexicon exact,84,13
+1,B1 lexicon exact,85,13
+1,B1 lexicon exact,86,13
+1,B1 lexicon exact,87,13
+1,B1 lexicon exact,88,13
+1,B1 lexicon exact,89,13
+1,B1 lexicon exact,90,13
+1,B1 lexicon exact,91,13
+1,B1 lexicon exact,92,13
+1,B1 lexicon exact,93,13
+1,B1 lexicon exact,94,13
+1,B1 lexicon exact,95,13
+1,B1 lexicon exact,96,13
+1,B1 lexicon exact,97,13
+1,B1 lexicon exact,98,13
+1,B1 lexicon exact,99,13
+1,B1 lexicon exact,100,13
+1,B1 lexicon exact,101,14
+1,B1 lexicon exact,102,14
+1,B1 lexicon exact,103,14
+1,B1 lexicon exact,104,14
+1,B1 lexicon exact,105,14
+1,B1 lexicon exact,106,14
+1,B1 lexicon exact,107,14
+1,B1 lexicon exact,108,14
+1,B1 lexicon exact,109,14
+1,B1 lexicon exact,110,14
+1,B1 lexicon exact,111,14
+1,B1 lexicon exact,112,14
+1,B1 lexicon exact,113,14
+1,B1 lexicon exact,114,14
+1,B1 lexicon exact,115,14
+1,B1 lexicon exact,116,14
+1,B1 lexicon exact,117,14
+1,B1 lexicon exact,118,14
+1,B1 lexicon exact,119,14
+1,B1 lexicon exact,120,14
+1,B1 lexicon exact,121,14
+1,B1 lexicon exact,122,14
+1,B1 lexicon exact,123,14
+1,B1 lexicon exact,124,14
+1,B1 lexicon exact,125,14
+1,B1 lexicon exact,126,14
+1,B1 lexicon exact,127,14
+1,B1 lexicon exact,128,14
+1,B1 lexicon exact,129,14
+1,B1 lexicon exact,130,14
+1,B1 lexicon exact,131,14
+1,B1 lexicon exact,132,14
+1,B1 lexicon exact,133,14
+1,B1 lexicon exact,134,14
+1,B1 lexicon exact,135,14
+1,B1 lexicon exact,136,14
+1,B1 lexicon exact,137,14
+1,B1 lexicon exact,138,14
+1,B1 lexicon exact,139,14
+1,B1 lexicon exact,140,14
+1,B1 lexicon exact,141,14
+1,B1 lexicon exact,142,14
+1,B1 lexicon exact,143,14
+1,B1 lexicon exact,144,14
+1,B1 lexicon exact,145,14
+1,B1 lexicon exact,146,14
+1,B1 lexicon exact,147,14
+1,B1 lexicon exact,148,14
+1,B1 lexicon exact,149,14
+1,B1 lexicon exact,150,14
+1,B1 lexicon exact,151,14
+1,B1 lexicon exact,152,14
+1,B1 lexicon exact,153,14
+1,B1 lexicon exact,154,14
+1,B1 lexicon exact,155,14
+1,B1 lexicon exact,156,14
+1,B1 lexicon exact,157,14
+1,B1 lexicon exact,158,14
+1,B1 lexicon exact,159,14
+1,B1 lexicon exact,160,14
+1,B1 lexicon exact,161,14
+1,B1 lexicon exact,162,14
+1,B1 lexicon exact,163,14
+1,B1 lexicon exact,164,14
+1,B1 lexicon exact,165,14
+1,B1 lexicon exact,166,14
+1,B1 lexicon exact,167,14
+1,B1 lexicon exact,168,14
+1,B1 lexicon exact,169,14
+1,B1 lexicon exact,170,14
+1,B1 lexicon exact,171,14
+1,B1 lexicon exact,172,14
+1,B1 lexicon exact,173,14
+1,B1 lexicon exact,174,14
+1,B1 lexicon exact,175,14
+1,B1 lexicon exact,176,14
+1,B1 lexicon exact,177,14
+1,B1 lexicon exact,178,15
+1,B1 lexicon exact,179,15
+1,B1 lexicon exact,180,15
+1,B1 lexicon exact,181,15
+1,B1 lexicon exact,182,15
+1,B1 lexicon exact,183,15
+1,B1 lexicon exact,184,15
+1,B1 lexicon exact,185,15
+1,B1 lexicon exact,186,15
+1,B1 lexicon exact,187,15
+1,B1 lexicon exact,188,15
+1,B1 lexicon exact,189,15
+1,B1 lexicon exact,190,15
+1,B1 lexicon exact,191,15
+1,B1 lexicon exact,192,15
+1,B1 lexicon exact,193,15
+1,B1 lexicon exact,194,15
+1,B1 lexicon exact,195,15
+1,B1 lexicon exact,196,15
+1,B1 lexicon exact,197,15
+1,B1 lexicon exact,198,15
+1,B1 lexicon exact,199,15
+1,B1 lexicon exact,200,15
+1,B1 lexicon exact,201,15
+1,B1 lexicon exact,202,15
+1,B1 lexicon exact,203,15
+1,B1 lexicon exact,204,15
+1,B1 lexicon exact,205,15
+1,B1 lexicon exact,206,15
+1,B1 lexicon exact,207,15
+1,B1 lexicon exact,208,15
+1,B1 lexicon exact,209,15
+1,B1 lexicon exact,210,15
+1,B1 lexicon exact,211,15
+1,B1 lexicon exact,212,15
+1,B1 lexicon exact,213,15
+1,B1 lexicon exact,214,15
+1,B1 lexicon exact,215,15
+1,B1 lexicon exact,216,15
+1,B1 lexicon exact,217,15
+1,B1 lexicon exact,218,15
+1,B1 lexicon exact,219,15
+1,B1 lexicon exact,220,15
+1,B1 lexicon exact,221,15
+1,B1 lexicon exact,222,15
+1,B1 lexicon exact,223,15
+1,B1 lexicon exact,224,15
+1,B1 lexicon exact,225,15
+1,B1 lexicon exact,226,15
+1,B1 lexicon exact,227,15
+1,B1 lexicon exact,228,15
+1,B1 lexicon exact,229,15
+1,B1 lexicon exact,230,15
+1,B1 lexicon exact,231,15
+1,B1 lexicon exact,232,15
+1,B1 lexicon exact,233,15
+1,B1 lexicon exact,234,15
+1,B1 lexicon exact,235,15
+1,B1 lexicon exact,236,15
+1,B1 lexicon exact,237,15
+1,B1 lexicon exact,238,15
+1,B1 lexicon exact,239,15
+1,B1 lexicon exact,240,15
+1,B1 lexicon exact,241,15
+1,B1 lexicon exact,242,15
+1,B1 lexicon exact,243,15
+1,B1 lexicon exact,244,15
+1,B1 lexicon exact,245,15
+1,B1 lexicon exact,246,15
+1,B1 lexicon exact,247,15
+1,B1 lexicon exact,248,15
+1,B1 lexicon exact,249,15
+1,B1 lexicon exact,250,15
+1,B1 lexicon exact,251,15
+1,B1 lexicon exact,252,15
+1,B1 lexicon exact,253,15
+1,B1 lexicon exact,254,15
+1,B1 lexicon exact,255,15
+1,B1 lexicon exact,256,15
+1,B1 lexicon exact,257,15
+1,B1 lexicon exact,258,15
+1,B1 lexicon exact,259,15
+1,B1 lexicon exact,260,15
+1,B1 lexicon exact,261,15
+1,B1 lexicon exact,262,15
+1,B1 lexicon exact,263,15
+1,B1 lexicon exact,264,15
+1,B1 lexicon exact,265,15
+1,B1 lexicon exact,266,15
+1,B1 lexicon exact,267,15
+1,B1 lexicon exact,268,15
+1,B1 lexicon exact,269,15
+1,B1 lexicon exact,270,15
+1,B1 lexicon exact,271,15
+1,B1 lexicon exact,272,15
+1,B1 lexicon exact,273,15
+1,B1 lexicon exact,274,15
+1,B1 lexicon exact,275,15
+1,B1 lexicon exact,276,15
+1,B1 lexicon exact,277,15
+1,B1 lexicon exact,278,15
+1,B1 lexicon exact,279,15
+1,B1 lexicon exact,280,15
+1,B1 lexicon exact,281,15
+1,B1 lexicon exact,282,15
+1,B1 lexicon exact,283,15
+1,B1 lexicon exact,284,15
+1,B1 lexicon exact,285,15
+1,B1 lexicon exact,286,15
+1,B1 lexicon exact,287,15
+1,B1 lexicon exact,288,15
+1,B1 lexicon exact,289,15
+1,B1 lexicon exact,290,15
+1,B1 lexicon exact,291,15
+1,B1 lexicon exact,292,15
+1,B1 lexicon exact,293,15
+1,B1 lexicon exact,294,15
+1,B1 lexicon exact,295,15
+1,B1 lexicon exact,296,15
+1,B1 lexicon exact,297,15
+1,B1 lexicon exact,298,15
+1,B1 lexicon exact,299,15
+1,B1 lexicon exact,300,15
+1,B1 lexicon exact,301,15
+1,B1 lexicon exact,302,15
+1,B1 lexicon exact,303,15
+1,B1 lexicon exact,304,15
+1,B1 lexicon exact,305,15
+1,B1 lexicon exact,306,15
+1,B1 lexicon exact,307,15
+1,B1 lexicon exact,308,15
+1,B1 lexicon exact,309,15
+1,B1 lexicon exact,310,15
+1,B1 lexicon exact,311,15
+1,B1 lexicon exact,312,15
+1,B1 lexicon exact,313,15
+1,B1 lexicon exact,314,15
+1,B1 lexicon exact,315,15
+1,B1 lexicon exact,316,15
+1,B1 lexicon exact,317,15
+1,B1 lexicon exact,318,15
+1,B1 lexicon exact,319,15
+1,B1 lexicon exact,320,15
+1,B1 lexicon exact,321,15
+1,B1 lexicon exact,322,15
+1,B1 lexicon exact,323,15
+1,B1 lexicon exact,324,15
+1,B1 lexicon exact,325,15
+1,B1 lexicon exact,326,15
+1,B1 lexicon exact,327,15
+1,B1 lexicon exact,328,15
+1,B1 lexicon exact,329,15
+1,B1 lexicon exact,330,15
+1,B1 lexicon exact,331,15
+1,B1 lexicon exact,332,15
+1,B1 lexicon exact,333,15
+1,B1 lexicon exact,334,15
+1,B1 lexicon exact,335,15
+1,B1 lexicon exact,336,15
+1,B1 lexicon exact,337,15
+1,B1 lexicon exact,338,15
+1,B1 lexicon exact,339,15
+1,B1 lexicon exact,340,15
+1,B1 lexicon exact,341,15
+1,B1 lexicon exact,342,15
+1,B1 lexicon exact,343,15
+1,B1 lexicon exact,344,15
+1,B1 lexicon exact,345,15
+1,B1 lexicon exact,346,15
+1,B1 lexicon exact,347,15
+1,B1 lexicon exact,348,15
+1,B1 lexicon exact,349,15
+1,B1 lexicon exact,350,15
+1,B1 lexicon exact,351,15
+1,B1 lexicon exact,352,15
+1,B1 lexicon exact,353,15
+1,B1 lexicon exact,354,15
+1,B1 lexicon exact,355,15
+1,B1 lexicon exact,356,15
+1,B1 lexicon exact,357,15
+1,B1 lexicon exact,358,15
+1,B1 lexicon exact,359,15
+1,B1 lexicon exact,360,15
+1,B1 lexicon exact,361,15
+1,B1 lexicon exact,362,15
+1,B1 lexicon exact,363,15
+1,B1 lexicon exact,364,15
+1,B1 lexicon exact,365,15
+1,B1 lexicon exact,366,15
+1,B1 lexicon exact,367,15
+1,B1 lexicon exact,368,15
+1,B1 lexicon exact,369,15
+1,B1 lexicon exact,370,15
+1,B1 lexicon exact,371,15
+1,B1 lexicon exact,372,15
+1,B1 lexicon exact,373,15
+1,B1 lexicon exact,374,15
+1,B1 lexicon exact,375,15
+1,B1 lexicon exact,376,15
+1,B1 lexicon exact,377,15
+1,B1 lexicon exact,378,15
+1,B1 lexicon exact,379,15
+1,B1 lexicon exact,380,15
+1,B1 lexicon exact,381,15
+1,B1 lexicon exact,382,15
+1,B1 lexicon exact,383,15
+1,B1 lexicon exact,384,15
+1,B1 lexicon exact,385,15
+1,B1 lexicon exact,386,15
+1,B1 lexicon exact,387,15
+1,B1 lexicon exact,388,15
+1,B1 lexicon exact,389,15
+1,B1 lexicon exact,390,15
+1,B1 lexicon exact,391,15
+1,B1 lexicon exact,392,15
+1,B1 lexicon exact,393,15
+1,B1 lexicon exact,394,15
+1,B1 lexicon exact,395,15
+1,B1 lexicon exact,396,15
+1,B1 lexicon exact,397,15
+1,B1 lexicon exact,398,15
+1,B1 lexicon exact,399,15
+1,B1 lexicon exact,400,15
+1,B1 lexicon exact,401,15
+1,B1 lexicon exact,402,15
+1,B1 lexicon exact,403,15
+1,B1 lexicon exact,404,15
+1,B1 lexicon exact,405,15
+1,B1 lexicon exact,406,15
+1,B1 lexicon exact,407,15
+1,B1 lexicon exact,408,15
+1,B1 lexicon exact,409,15
+1,B1 lexicon exact,410,15
+1,B1 lexicon exact,411,15
+1,B1 lexicon exact,412,15
+1,B1 lexicon exact,413,15
+1,B1 lexicon exact,414,15
+1,B1 lexicon exact,415,15
+1,B1 lexicon exact,416,15
+1,B1 lexicon exact,417,15
+1,B1 lexicon exact,418,15
+1,B1 lexicon exact,419,15
+1,B1 lexicon exact,420,15
+1,B1 lexicon exact,421,15
+1,B1 lexicon exact,422,15
+1,B1 lexicon exact,423,15
+1,B1 lexicon exact,424,15
+1,B1 lexicon exact,425,15
+1,B1 lexicon exact,426,15
+1,B1 lexicon exact,427,15
+1,B1 lexicon exact,428,15
+1,B1 lexicon exact,429,15
+1,B1 lexicon exact,430,15
+1,B1 lexicon exact,431,15
+1,B1 lexicon exact,432,15
+1,B1 lexicon exact,433,15
+1,B1 lexicon exact,434,15
+1,B1 lexicon exact,435,15
+1,B1 lexicon exact,436,15
+1,B1 lexicon exact,437,15
+1,B1 lexicon exact,438,15
+1,B1 lexicon exact,439,15
+1,B1 lexicon exact,440,15
+1,B1 lexicon exact,441,15
+1,B1 lexicon exact,442,15
+1,B1 lexicon exact,443,15
+1,B1 lexicon exact,444,15
+1,B1 lexicon exact,445,15
+1,B1 lexicon exact,446,15
+1,B1 lexicon exact,447,15
+1,B1 lexicon exact,448,15
+1,B1 lexicon exact,449,15
+1,B1 lexicon exact,450,15
+1,B1 lexicon exact,451,15
+1,B1 lexicon exact,452,15
+1,B1 lexicon exact,453,15
+1,B1 lexicon exact,454,15
+1,B1 lexicon exact,455,15
+1,B1 lexicon exact,456,15
+1,B1 lexicon exact,457,15
+1,B1 lexicon exact,458,15
+1,B1 lexicon exact,459,15
+1,B1 lexicon exact,460,15
+1,B1 lexicon exact,461,15
+1,B1 lexicon exact,462,15
+1,B1 lexicon exact,463,15
+1,B1 lexicon exact,464,15
+1,B1 lexicon exact,465,15
+1,B1 lexicon exact,466,15
+1,B1 lexicon exact,467,15
+1,B1 lexicon exact,468,15
+1,B1 lexicon exact,469,15
+1,B1 lexicon exact,470,15
+1,B1 lexicon exact,471,15
+1,B1 lexicon exact,472,15
+1,B1 lexicon exact,473,15
+1,B1 lexicon exact,474,15
+1,B1 lexicon exact,475,15
+1,B1 lexicon exact,476,15
+1,B1 lexicon exact,477,15
+1,B1 lexicon exact,478,15
+1,B1 lexicon exact,479,15
+1,B1 lexicon exact,480,15
+1,B1 lexicon exact,481,15
+1,B1 lexicon exact,482,15
+1,B1 lexicon exact,483,15
+1,B1 lexicon exact,484,15
+1,B1 lexicon exact,485,15
+1,B1 lexicon exact,486,15
+1,B1 lexicon exact,487,15
+1,B1 lexicon exact,488,15
+1,B1 lexicon exact,489,15
+1,B1 lexicon exact,490,15
+1,B1 lexicon exact,491,15
+1,B1 lexicon exact,492,15
+1,B1 lexicon exact,493,15
+1,B1 lexicon exact,494,15
+1,B1 lexicon exact,495,15
+1,B1 lexicon exact,496,15
+1,B1 lexicon exact,497,15
+1,B1 lexicon exact,498,15
+1,B1 lexicon exact,499,15
+1,B1 lexicon exact,500,15
+1,B1 lexicon exact,501,15
+1,B1 lexicon exact,502,15
+1,B1 lexicon exact,503,15
+1,B1 lexicon exact,504,15
+1,B1 lexicon exact,505,15
+1,B1 lexicon exact,506,15
+1,B1 lexicon exact,507,15
+1,B1 lexicon exact,508,15
+1,B1 lexicon exact,509,15
+1,B1 lexicon exact,510,15
+1,B1 lexicon exact,511,15
+1,B1 lexicon exact,512,15
+1,B1 lexicon exact,513,15
+1,B1 lexicon exact,514,15
+1,B1 lexicon exact,515,15
+1,B1 lexicon exact,516,15
+1,B1 lexicon exact,517,15
+1,B1 lexicon exact,518,15
+1,B1 lexicon exact,519,15
+1,B1 lexicon exact,520,15
+1,B1 lexicon exact,521,15
+1,B1 lexicon exact,522,15
+1,B1 lexicon exact,523,15
+1,B1 lexicon exact,524,15
+1,B1 lexicon exact,525,15
+1,B1 lexicon exact,526,15
+1,B1 lexicon exact,527,15
+1,B1 lexicon exact,528,15
+1,B1 lexicon exact,529,15
+1,B1 lexicon exact,530,15
+1,B1 lexicon exact,531,15
+1,B1 lexicon exact,532,15
+1,B1 lexicon exact,533,15
+1,B1 lexicon exact,534,15
+1,B1 lexicon exact,535,15
+1,B1 lexicon exact,536,15
+1,B1 lexicon exact,537,15
+1,B1 lexicon exact,538,15
+1,B1 lexicon exact,539,15
+1,B1 lexicon exact,540,15
+1,B1 lexicon exact,541,15
+1,B1 lexicon exact,542,15
+1,B1 lexicon exact,543,15
+1,B1 lexicon exact,544,15
+1,B1 lexicon exact,545,15
+1,B1 lexicon exact,546,15
+1,B1 lexicon exact,547,15
+1,B1 lexicon exact,548,15
+1,B1 lexicon exact,549,15
+1,B1 lexicon exact,550,15
+1,B1 lexicon exact,551,15
+1,B1 lexicon exact,552,15
+1,B1 lexicon exact,553,15
+1,B1 lexicon exact,554,15
+1,B1 lexicon exact,555,15
+1,B1 lexicon exact,556,15
+1,B1 lexicon exact,557,15
+1,B1 lexicon exact,558,15
+1,B1 lexicon exact,559,15
+1,B1 lexicon exact,560,15
+1,B1 lexicon exact,561,15
+1,B1 lexicon exact,562,15
+1,B1 lexicon exact,563,15
+1,B1 lexicon exact,564,15
+1,B1 lexicon exact,565,15
+1,B1 lexicon exact,566,15
+1,B1 lexicon exact,567,15
+1,B1 lexicon exact,568,15
+1,B1 lexicon exact,569,15
+1,B1 lexicon exact,570,15
+1,B1 lexicon exact,571,15
+1,B1 lexicon exact,572,15
+1,B1 lexicon exact,573,15
+1,B1 lexicon exact,574,15
+1,B1 lexicon exact,575,15
+1,B1 lexicon exact,576,15
+1,B1 lexicon exact,577,15
+1,B1 lexicon exact,578,15
+1,B1 lexicon exact,579,15
+1,B1 lexicon exact,580,15
+1,B1 lexicon exact,581,15
+1,B1 lexicon exact,582,15
+1,B1 lexicon exact,583,15
+1,B1 lexicon exact,584,15
+1,B1 lexicon exact,585,15
+1,B1 lexicon exact,586,15
+1,B1 lexicon exact,587,15
+1,B1 lexicon exact,588,15
+1,B1 lexicon exact,589,15
+1,B1 lexicon exact,590,15
+1,B1 lexicon exact,591,15
+1,B1 lexicon exact,592,15
+1,B1 lexicon exact,593,15
+1,B1 lexicon exact,594,15
+1,B1 lexicon exact,595,15
+1,B1 lexicon exact,596,15
+1,B1 lexicon exact,597,15
+1,B1 lexicon exact,598,15
+1,B1 lexicon exact,599,15
+1,B1 lexicon exact,600,15
+1,B1 lexicon exact,601,15
+1,B1 lexicon exact,602,15
+1,B1 lexicon exact,603,15
+1,B1 lexicon exact,604,15
+1,B1 lexicon exact,605,15
+1,B1 lexicon exact,606,15
+1,B1 lexicon exact,607,15
+1,B1 lexicon exact,608,15
+1,S1 lexicon fuzzy,1,1
+1,S1 lexicon fuzzy,2,1
+1,S1 lexicon fuzzy,3,2
+1,S1 lexicon fuzzy,4,2
+1,S1 lexicon fuzzy,5,3
+1,S1 lexicon fuzzy,6,3
+1,S1 lexicon fuzzy,7,3
+1,S1 lexicon fuzzy,8,3
+1,S1 lexicon fuzzy,9,3
+1,S1 lexicon fuzzy,10,3
+1,S1 lexicon fuzzy,11,3
+1,S1 lexicon fuzzy,12,4
+1,S1 lexicon fuzzy,13,4
+1,S1 lexicon fuzzy,14,5
+1,S1 lexicon fuzzy,15,5
+1,S1 lexicon fuzzy,16,5
+1,S1 lexicon fuzzy,17,6
+1,S1 lexicon fuzzy,18,7
+1,S1 lexicon fuzzy,19,7
+1,S1 lexicon fuzzy,20,7
+1,S1 lexicon fuzzy,21,7
+1,S1 lexicon fuzzy,22,7
+1,S1 lexicon fuzzy,23,7
+1,S1 lexicon fuzzy,24,7
+1,S1 lexicon fuzzy,25,7
+1,S1 lexicon fuzzy,26,7
+1,S1 lexicon fuzzy,27,8
+1,S1 lexicon fuzzy,28,9
+1,S1 lexicon fuzzy,29,9
+1,S1 lexicon fuzzy,30,9
+1,S1 lexicon fuzzy,31,9
+1,S1 lexicon fuzzy,32,9
+1,S1 lexicon fuzzy,33,9
+1,S1 lexicon fuzzy,34,9
+1,S1 lexicon fuzzy,35,9
+1,S1 lexicon fuzzy,36,9
+1,S1 lexicon fuzzy,37,9
+1,S1 lexicon fuzzy,38,9
+1,S1 lexicon fuzzy,39,9
+1,S1 lexicon fuzzy,40,9
+1,S1 lexicon fuzzy,41,9
+1,S1 lexicon fuzzy,42,9
+1,S1 lexicon fuzzy,43,9
+1,S1 lexicon fuzzy,44,9
+1,S1 lexicon fuzzy,45,9
+1,S1 lexicon fuzzy,46,10
+1,S1 lexicon fuzzy,47,10
+1,S1 lexicon fuzzy,48,11
+1,S1 lexicon fuzzy,49,11
+1,S1 lexicon fuzzy,50,11
+1,S1 lexicon fuzzy,51,11
+1,S1 lexicon fuzzy,52,11
+1,S1 lexicon fuzzy,53,11
+1,S1 lexicon fuzzy,54,11
+1,S1 lexicon fuzzy,55,11
+1,S1 lexicon fuzzy,56,11
+1,S1 lexicon fuzzy,57,11
+1,S1 lexicon fuzzy,58,12
+1,S1 lexicon fuzzy,59,12
+1,S1 lexicon fuzzy,60,12
+1,S1 lexicon fuzzy,61,12
+1,S1 lexicon fuzzy,62,12
+1,S1 lexicon fuzzy,63,12
+1,S1 lexicon fuzzy,64,12
+1,S1 lexicon fuzzy,65,12
+1,S1 lexicon fuzzy,66,12
+1,S1 lexicon fuzzy,67,12
+1,S1 lexicon fuzzy,68,12
+1,S1 lexicon fuzzy,69,12
+1,S1 lexicon fuzzy,70,12
+1,S1 lexicon fuzzy,71,12
+1,S1 lexicon fuzzy,72,12
+1,S1 lexicon fuzzy,73,12
+1,S1 lexicon fuzzy,74,12
+1,S1 lexicon fuzzy,75,12
+1,S1 lexicon fuzzy,76,12
+1,S1 lexicon fuzzy,77,12
+1,S1 lexicon fuzzy,78,12
+1,S1 lexicon fuzzy,79,12
+1,S1 lexicon fuzzy,80,12
+1,S1 lexicon fuzzy,81,12
+1,S1 lexicon fuzzy,82,12
+1,S1 lexicon fuzzy,83,12
+1,S1 lexicon fuzzy,84,12
+1,S1 lexicon fuzzy,85,12
+1,S1 lexicon fuzzy,86,12
+1,S1 lexicon fuzzy,87,12
+1,S1 lexicon fuzzy,88,12
+1,S1 lexicon fuzzy,89,12
+1,S1 lexicon fuzzy,90,13
+1,S1 lexicon fuzzy,91,13
+1,S1 lexicon fuzzy,92,13
+1,S1 lexicon fuzzy,93,13
+1,S1 lexicon fuzzy,94,13
+1,S1 lexicon fuzzy,95,13
+1,S1 lexicon fuzzy,96,13
+1,S1 lexicon fuzzy,97,13
+1,S1 lexicon fuzzy,98,13
+1,S1 lexicon fuzzy,99,13
+1,S1 lexicon fuzzy,100,13
+1,S1 lexicon fuzzy,101,13
+1,S1 lexicon fuzzy,102,13
+1,S1 lexicon fuzzy,103,13
+1,S1 lexicon fuzzy,104,13
+1,S1 lexicon fuzzy,105,13
+1,S1 lexicon fuzzy,106,14
+1,S1 lexicon fuzzy,107,14
+1,S1 lexicon fuzzy,108,14
+1,S1 lexicon fuzzy,109,14
+1,S1 lexicon fuzzy,110,14
+1,S1 lexicon fuzzy,111,14
+1,S1 lexicon fuzzy,112,14
+1,S1 lexicon fuzzy,113,14
+1,S1 lexicon fuzzy,114,14
+1,S1 lexicon fuzzy,115,14
+1,S1 lexicon fuzzy,116,14
+1,S1 lexicon fuzzy,117,14
+1,S1 lexicon fuzzy,118,14
+1,S1 lexicon fuzzy,119,14
+1,S1 lexicon fuzzy,120,14
+1,S1 lexicon fuzzy,121,14
+1,S1 lexicon fuzzy,122,14
+1,S1 lexicon fuzzy,123,14
+1,S1 lexicon fuzzy,124,14
+1,S1 lexicon fuzzy,125,15
+1,S1 lexicon fuzzy,126,15
+1,S1 lexicon fuzzy,127,15
+1,S1 lexicon fuzzy,128,15
+1,S1 lexicon fuzzy,129,15
+1,S1 lexicon fuzzy,130,15
+1,S1 lexicon fuzzy,131,15
+1,S1 lexicon fuzzy,132,15
+1,S1 lexicon fuzzy,133,15
+1,S1 lexicon fuzzy,134,15
+1,S1 lexicon fuzzy,135,15
+1,S1 lexicon fuzzy,136,15
+1,S1 lexicon fuzzy,137,15
+1,S1 lexicon fuzzy,138,15
+1,S1 lexicon fuzzy,139,15
+1,S1 lexicon fuzzy,140,15
+1,S1 lexicon fuzzy,141,15
+1,S1 lexicon fuzzy,142,15
+1,S1 lexicon fuzzy,143,15
+1,S1 lexicon fuzzy,144,15
+1,S1 lexicon fuzzy,145,15
+1,S1 lexicon fuzzy,146,15
+1,S1 lexicon fuzzy,147,15
+1,S1 lexicon fuzzy,148,15
+1,S1 lexicon fuzzy,149,15
+1,S1 lexicon fuzzy,150,15
+1,S1 lexicon fuzzy,151,15
+1,S1 lexicon fuzzy,152,15
+1,S1 lexicon fuzzy,153,15
+1,S1 lexicon fuzzy,154,15
+1,S1 lexicon fuzzy,155,15
+1,S1 lexicon fuzzy,156,15
+1,S1 lexicon fuzzy,157,15
+1,S1 lexicon fuzzy,158,15
+1,S1 lexicon fuzzy,159,15
+1,S1 lexicon fuzzy,160,15
+1,S1 lexicon fuzzy,161,15
+1,S1 lexicon fuzzy,162,15
+1,S1 lexicon fuzzy,163,15
+1,S1 lexicon fuzzy,164,15
+1,S1 lexicon fuzzy,165,15
+1,S1 lexicon fuzzy,166,15
+1,S1 lexicon fuzzy,167,15
+1,S1 lexicon fuzzy,168,15
+1,S1 lexicon fuzzy,169,15
+1,S1 lexicon fuzzy,170,15
+1,S1 lexicon fuzzy,171,15
+1,S1 lexicon fuzzy,172,15
+1,S1 lexicon fuzzy,173,15
+1,S1 lexicon fuzzy,174,15
+1,S1 lexicon fuzzy,175,15
+1,S1 lexicon fuzzy,176,15
+1,S1 lexicon fuzzy,177,15
+1,S1 lexicon fuzzy,178,15
+1,S1 lexicon fuzzy,179,15
+1,S1 lexicon fuzzy,180,15
+1,S1 lexicon fuzzy,181,15
+1,S1 lexicon fuzzy,182,15
+1,S1 lexicon fuzzy,183,15
+1,S1 lexicon fuzzy,184,15
+1,S1 lexicon fuzzy,185,15
+1,S1 lexicon fuzzy,186,15
+1,S1 lexicon fuzzy,187,15
+1,S1 lexicon fuzzy,188,15
+1,S1 lexicon fuzzy,189,15
+1,S1 lexicon fuzzy,190,15
+1,S1 lexicon fuzzy,191,15
+1,S1 lexicon fuzzy,192,15
+1,S1 lexicon fuzzy,193,15
+1,S1 lexicon fuzzy,194,15
+1,S1 lexicon fuzzy,195,15
+1,S1 lexicon fuzzy,196,15
+1,S1 lexicon fuzzy,197,15
+1,S1 lexicon fuzzy,198,15
+1,S1 lexicon fuzzy,199,15
+1,S1 lexicon fuzzy,200,15
+1,S1 lexicon fuzzy,201,15
+1,S1 lexicon fuzzy,202,15
+1,S1 lexicon fuzzy,203,15
+1,S1 lexicon fuzzy,204,15
+1,S1 lexicon fuzzy,205,15
+1,S1 lexicon fuzzy,206,15
+1,S1 lexicon fuzzy,207,15
+1,S1 lexicon fuzzy,208,15
+1,S1 lexicon fuzzy,209,15
+1,S1 lexicon fuzzy,210,15
+1,S1 lexicon fuzzy,211,15
+1,S1 lexicon fuzzy,212,15
+1,S1 lexicon fuzzy,213,15
+1,S1 lexicon fuzzy,214,15
+1,S1 lexicon fuzzy,215,15
+1,S1 lexicon fuzzy,216,15
+1,S1 lexicon fuzzy,217,15
+1,S1 lexicon fuzzy,218,15
+1,S1 lexicon fuzzy,219,15
+1,S1 lexicon fuzzy,220,15
+1,S1 lexicon fuzzy,221,15
+1,S1 lexicon fuzzy,222,15
+1,S1 lexicon fuzzy,223,15
+1,S1 lexicon fuzzy,224,15
+1,S1 lexicon fuzzy,225,15
+1,S1 lexicon fuzzy,226,15
+1,S1 lexicon fuzzy,227,15
+1,S1 lexicon fuzzy,228,15
+1,S1 lexicon fuzzy,229,15
+1,S1 lexicon fuzzy,230,15
+1,S1 lexicon fuzzy,231,15
+1,S1 lexicon fuzzy,232,15
+1,S1 lexicon fuzzy,233,15
+1,S1 lexicon fuzzy,234,15
+1,S1 lexicon fuzzy,235,15
+1,S1 lexicon fuzzy,236,15
+1,S1 lexicon fuzzy,237,15
+1,S1 lexicon fuzzy,238,15
+1,S1 lexicon fuzzy,239,15
+1,S1 lexicon fuzzy,240,15
+1,S1 lexicon fuzzy,241,15
+1,S1 lexicon fuzzy,242,15
+1,S1 lexicon fuzzy,243,15
+1,S1 lexicon fuzzy,244,15
+1,S1 lexicon fuzzy,245,15
+1,S1 lexicon fuzzy,246,15
+1,S1 lexicon fuzzy,247,15
+1,S1 lexicon fuzzy,248,15
+1,S1 lexicon fuzzy,249,15
+1,S1 lexicon fuzzy,250,15
+1,S1 lexicon fuzzy,251,15
+1,S1 lexicon fuzzy,252,15
+1,S1 lexicon fuzzy,253,15
+1,S1 lexicon fuzzy,254,15
+1,S1 lexicon fuzzy,255,15
+1,S1 lexicon fuzzy,256,15
+1,S1 lexicon fuzzy,257,15
+1,S1 lexicon fuzzy,258,15
+1,S1 lexicon fuzzy,259,15
+1,S1 lexicon fuzzy,260,15
+1,S1 lexicon fuzzy,261,15
+1,S1 lexicon fuzzy,262,15
+1,S1 lexicon fuzzy,263,15
+1,S1 lexicon fuzzy,264,15
+1,S1 lexicon fuzzy,265,15
+1,S1 lexicon fuzzy,266,15
+1,S1 lexicon fuzzy,267,15
+1,S1 lexicon fuzzy,268,15
+1,S1 lexicon fuzzy,269,15
+1,S1 lexicon fuzzy,270,15
+1,S1 lexicon fuzzy,271,15
+1,S1 lexicon fuzzy,272,15
+1,S1 lexicon fuzzy,273,15
+1,S1 lexicon fuzzy,274,15
+1,S1 lexicon fuzzy,275,15
+1,S1 lexicon fuzzy,276,15
+1,S1 lexicon fuzzy,277,15
+1,S1 lexicon fuzzy,278,15
+1,S1 lexicon fuzzy,279,15
+1,S1 lexicon fuzzy,280,15
+1,S1 lexicon fuzzy,281,15
+1,S1 lexicon fuzzy,282,15
+1,S1 lexicon fuzzy,283,15
+1,S1 lexicon fuzzy,284,15
+1,S1 lexicon fuzzy,285,15
+1,S1 lexicon fuzzy,286,15
+1,S1 lexicon fuzzy,287,15
+1,S1 lexicon fuzzy,288,15
+1,S1 lexicon fuzzy,289,15
+1,S1 lexicon fuzzy,290,15
+1,S1 lexicon fuzzy,291,15
+1,S1 lexicon fuzzy,292,15
+1,S1 lexicon fuzzy,293,15
+1,S1 lexicon fuzzy,294,15
+1,S1 lexicon fuzzy,295,15
+1,S1 lexicon fuzzy,296,15
+1,S1 lexicon fuzzy,297,15
+1,S1 lexicon fuzzy,298,15
+1,S1 lexicon fuzzy,299,15
+1,S1 lexicon fuzzy,300,15
+1,S1 lexicon fuzzy,301,15
+1,S1 lexicon fuzzy,302,15
+1,S1 lexicon fuzzy,303,15
+1,S1 lexicon fuzzy,304,15
+1,S1 lexicon fuzzy,305,15
+1,S1 lexicon fuzzy,306,15
+1,S1 lexicon fuzzy,307,15
+1,S1 lexicon fuzzy,308,15
+1,S1 lexicon fuzzy,309,15
+1,S1 lexicon fuzzy,310,15
+1,S1 lexicon fuzzy,311,15
+1,S1 lexicon fuzzy,312,15
+1,S1 lexicon fuzzy,313,15
+1,S1 lexicon fuzzy,314,15
+1,S1 lexicon fuzzy,315,15
+1,S1 lexicon fuzzy,316,15
+1,S1 lexicon fuzzy,317,15
+1,S1 lexicon fuzzy,318,15
+1,S1 lexicon fuzzy,319,15
+1,S1 lexicon fuzzy,320,15
+1,S1 lexicon fuzzy,321,15
+1,S1 lexicon fuzzy,322,15
+1,S1 lexicon fuzzy,323,15
+1,S1 lexicon fuzzy,324,15
+1,S1 lexicon fuzzy,325,15
+1,S1 lexicon fuzzy,326,15
+1,S1 lexicon fuzzy,327,15
+1,S1 lexicon fuzzy,328,15
+1,S1 lexicon fuzzy,329,15
+1,S1 lexicon fuzzy,330,15
+1,S1 lexicon fuzzy,331,15
+1,S1 lexicon fuzzy,332,15
+1,S1 lexicon fuzzy,333,15
+1,S1 lexicon fuzzy,334,15
+1,S1 lexicon fuzzy,335,15
+1,S1 lexicon fuzzy,336,15
+1,S1 lexicon fuzzy,337,15
+1,S1 lexicon fuzzy,338,15
+1,S1 lexicon fuzzy,339,15
+1,S1 lexicon fuzzy,340,15
+1,S1 lexicon fuzzy,341,15
+1,S1 lexicon fuzzy,342,15
+1,S1 lexicon fuzzy,343,15
+1,S1 lexicon fuzzy,344,15
+1,S1 lexicon fuzzy,345,15
+1,S1 lexicon fuzzy,346,15
+1,S1 lexicon fuzzy,347,15
+1,S1 lexicon fuzzy,348,15
+1,S1 lexicon fuzzy,349,15
+1,S1 lexicon fuzzy,350,15
+1,S1 lexicon fuzzy,351,15
+1,S1 lexicon fuzzy,352,15
+1,S1 lexicon fuzzy,353,15
+1,S1 lexicon fuzzy,354,15
+1,S1 lexicon fuzzy,355,15
+1,S1 lexicon fuzzy,356,15
+1,S1 lexicon fuzzy,357,15
+1,S1 lexicon fuzzy,358,15
+1,S1 lexicon fuzzy,359,15
+1,S1 lexicon fuzzy,360,15
+1,S1 lexicon fuzzy,361,15
+1,S1 lexicon fuzzy,362,15
+1,S1 lexicon fuzzy,363,15
+1,S1 lexicon fuzzy,364,15
+1,S1 lexicon fuzzy,365,15
+1,S1 lexicon fuzzy,366,15
+1,S1 lexicon fuzzy,367,15
+1,S1 lexicon fuzzy,368,15
+1,S1 lexicon fuzzy,369,15
+1,S1 lexicon fuzzy,370,15
+1,S1 lexicon fuzzy,371,15
+1,S1 lexicon fuzzy,372,15
+1,S1 lexicon fuzzy,373,15
+1,S1 lexicon fuzzy,374,15
+1,S1 lexicon fuzzy,375,15
+1,S1 lexicon fuzzy,376,15
+1,S1 lexicon fuzzy,377,15
+1,S1 lexicon fuzzy,378,15
+1,S1 lexicon fuzzy,379,15
+1,S1 lexicon fuzzy,380,15
+1,S1 lexicon fuzzy,381,15
+1,S1 lexicon fuzzy,382,15
+1,S1 lexicon fuzzy,383,15
+1,S1 lexicon fuzzy,384,15
+1,S1 lexicon fuzzy,385,15
+1,S1 lexicon fuzzy,386,15
+1,S1 lexicon fuzzy,387,15
+1,S1 lexicon fuzzy,388,15
+1,S1 lexicon fuzzy,389,15
+1,S1 lexicon fuzzy,390,15
+1,S1 lexicon fuzzy,391,15
+1,S1 lexicon fuzzy,392,15
+1,S1 lexicon fuzzy,393,15
+1,S1 lexicon fuzzy,394,15
+1,S1 lexicon fuzzy,395,15
+1,S1 lexicon fuzzy,396,15
+1,S1 lexicon fuzzy,397,15
+1,S1 lexicon fuzzy,398,15
+1,S1 lexicon fuzzy,399,15
+1,S1 lexicon fuzzy,400,15
+1,S1 lexicon fuzzy,401,15
+1,S1 lexicon fuzzy,402,15
+1,S1 lexicon fuzzy,403,15
+1,S1 lexicon fuzzy,404,15
+1,S1 lexicon fuzzy,405,15
+1,S1 lexicon fuzzy,406,15
+1,S1 lexicon fuzzy,407,15
+1,S1 lexicon fuzzy,408,15
+1,S1 lexicon fuzzy,409,15
+1,S1 lexicon fuzzy,410,15
+1,S1 lexicon fuzzy,411,15
+1,S1 lexicon fuzzy,412,15
+1,S1 lexicon fuzzy,413,15
+1,S1 lexicon fuzzy,414,15
+1,S1 lexicon fuzzy,415,15
+1,S1 lexicon fuzzy,416,15
+1,S1 lexicon fuzzy,417,15
+1,S1 lexicon fuzzy,418,15
+1,S1 lexicon fuzzy,419,15
+1,S1 lexicon fuzzy,420,15
+1,S1 lexicon fuzzy,421,15
+1,S1 lexicon fuzzy,422,15
+1,S1 lexicon fuzzy,423,15
+1,S1 lexicon fuzzy,424,15
+1,S1 lexicon fuzzy,425,15
+1,S1 lexicon fuzzy,426,15
+1,S1 lexicon fuzzy,427,15
+1,S1 lexicon fuzzy,428,15
+1,S1 lexicon fuzzy,429,15
+1,S1 lexicon fuzzy,430,15
+1,S1 lexicon fuzzy,431,15
+1,S1 lexicon fuzzy,432,15
+1,S1 lexicon fuzzy,433,15
+1,S1 lexicon fuzzy,434,15
+1,S1 lexicon fuzzy,435,15
+1,S1 lexicon fuzzy,436,15
+1,S1 lexicon fuzzy,437,15
+1,S1 lexicon fuzzy,438,15
+1,S1 lexicon fuzzy,439,15
+1,S1 lexicon fuzzy,440,15
+1,S1 lexicon fuzzy,441,15
+1,S1 lexicon fuzzy,442,15
+1,S1 lexicon fuzzy,443,15
+1,S1 lexicon fuzzy,444,15
+1,S1 lexicon fuzzy,445,15
+1,S1 lexicon fuzzy,446,15
+1,S1 lexicon fuzzy,447,15
+1,S1 lexicon fuzzy,448,15
+1,S1 lexicon fuzzy,449,15
+1,S1 lexicon fuzzy,450,15
+1,S1 lexicon fuzzy,451,15
+1,S1 lexicon fuzzy,452,15
+1,S1 lexicon fuzzy,453,15
+1,S1 lexicon fuzzy,454,15
+1,S1 lexicon fuzzy,455,15
+1,S1 lexicon fuzzy,456,15
+1,S1 lexicon fuzzy,457,15
+1,S1 lexicon fuzzy,458,15
+1,S1 lexicon fuzzy,459,15
+1,S1 lexicon fuzzy,460,15
+1,S1 lexicon fuzzy,461,15
+1,S1 lexicon fuzzy,462,15
+1,S1 lexicon fuzzy,463,15
+1,S1 lexicon fuzzy,464,15
+1,S1 lexicon fuzzy,465,15
+1,S1 lexicon fuzzy,466,15
+1,S1 lexicon fuzzy,467,15
+1,S1 lexicon fuzzy,468,15
+1,S1 lexicon fuzzy,469,15
+1,S1 lexicon fuzzy,470,15
+1,S1 lexicon fuzzy,471,15
+1,S1 lexicon fuzzy,472,15
+1,S1 lexicon fuzzy,473,15
+1,S1 lexicon fuzzy,474,15
+1,S1 lexicon fuzzy,475,15
+1,S1 lexicon fuzzy,476,15
+1,S1 lexicon fuzzy,477,15
+1,S1 lexicon fuzzy,478,15
+1,S1 lexicon fuzzy,479,15
+1,S1 lexicon fuzzy,480,15
+1,S1 lexicon fuzzy,481,15
+1,S1 lexicon fuzzy,482,15
+1,S1 lexicon fuzzy,483,15
+1,S1 lexicon fuzzy,484,15
+1,S1 lexicon fuzzy,485,15
+1,S1 lexicon fuzzy,486,15
+1,S1 lexicon fuzzy,487,15
+1,S1 lexicon fuzzy,488,15
+1,S1 lexicon fuzzy,489,15
+1,S1 lexicon fuzzy,490,15
+1,S1 lexicon fuzzy,491,15
+1,S1 lexicon fuzzy,492,15
+1,S1 lexicon fuzzy,493,15
+1,S1 lexicon fuzzy,494,15
+1,S1 lexicon fuzzy,495,15
+1,S1 lexicon fuzzy,496,15
+1,S1 lexicon fuzzy,497,15
+1,S1 lexicon fuzzy,498,15
+1,S1 lexicon fuzzy,499,15
+1,S1 lexicon fuzzy,500,15
+1,S1 lexicon fuzzy,501,15
+1,S1 lexicon fuzzy,502,15
+1,S1 lexicon fuzzy,503,15
+1,S1 lexicon fuzzy,504,15
+1,S1 lexicon fuzzy,505,15
+1,S1 lexicon fuzzy,506,15
+1,S1 lexicon fuzzy,507,15
+1,S1 lexicon fuzzy,508,15
+1,S1 lexicon fuzzy,509,15
+1,S1 lexicon fuzzy,510,15
+1,S1 lexicon fuzzy,511,15
+1,S1 lexicon fuzzy,512,15
+1,S1 lexicon fuzzy,513,15
+1,S1 lexicon fuzzy,514,15
+1,S1 lexicon fuzzy,515,15
+1,S1 lexicon fuzzy,516,15
+1,S1 lexicon fuzzy,517,15
+1,S1 lexicon fuzzy,518,15
+1,S1 lexicon fuzzy,519,15
+1,S1 lexicon fuzzy,520,15
+1,S1 lexicon fuzzy,521,15
+1,S1 lexicon fuzzy,522,15
+1,S1 lexicon fuzzy,523,15
+1,S1 lexicon fuzzy,524,15
+1,S1 lexicon fuzzy,525,15
+1,S1 lexicon fuzzy,526,15
+1,S1 lexicon fuzzy,527,15
+1,S1 lexicon fuzzy,528,15
+1,S1 lexicon fuzzy,529,15
+1,S1 lexicon fuzzy,530,15
+1,S1 lexicon fuzzy,531,15
+1,S1 lexicon fuzzy,532,15
+1,S1 lexicon fuzzy,533,15
+1,S1 lexicon fuzzy,534,15
+1,S1 lexicon fuzzy,535,15
+1,S1 lexicon fuzzy,536,15
+1,S1 lexicon fuzzy,537,15
+1,S1 lexicon fuzzy,538,15
+1,S1 lexicon fuzzy,539,15
+1,S1 lexicon fuzzy,540,15
+1,S1 lexicon fuzzy,541,15
+1,S1 lexicon fuzzy,542,15
+1,S1 lexicon fuzzy,543,15
+1,S1 lexicon fuzzy,544,15
+1,S1 lexicon fuzzy,545,15
+1,S1 lexicon fuzzy,546,15
+1,S1 lexicon fuzzy,547,15
+1,S1 lexicon fuzzy,548,15
+1,S1 lexicon fuzzy,549,15
+1,S1 lexicon fuzzy,550,15
+1,S1 lexicon fuzzy,551,15
+1,S1 lexicon fuzzy,552,15
+1,S1 lexicon fuzzy,553,15
+1,S1 lexicon fuzzy,554,15
+1,S1 lexicon fuzzy,555,15
+1,S1 lexicon fuzzy,556,15
+1,S1 lexicon fuzzy,557,15
+1,S1 lexicon fuzzy,558,15
+1,S1 lexicon fuzzy,559,15
+1,S1 lexicon fuzzy,560,15
+1,S1 lexicon fuzzy,561,15
+1,S1 lexicon fuzzy,562,15
+1,S1 lexicon fuzzy,563,15
+1,S1 lexicon fuzzy,564,15
+1,S1 lexicon fuzzy,565,15
+1,S1 lexicon fuzzy,566,15
+1,S1 lexicon fuzzy,567,15
+1,S1 lexicon fuzzy,568,15
+1,S1 lexicon fuzzy,569,15
+1,S1 lexicon fuzzy,570,15
+1,S1 lexicon fuzzy,571,15
+1,S1 lexicon fuzzy,572,15
+1,S1 lexicon fuzzy,573,15
+1,S1 lexicon fuzzy,574,15
+1,S1 lexicon fuzzy,575,15
+1,S1 lexicon fuzzy,576,15
+1,S1 lexicon fuzzy,577,15
+1,S1 lexicon fuzzy,578,15
+1,S1 lexicon fuzzy,579,15
+1,S1 lexicon fuzzy,580,15
+1,S1 lexicon fuzzy,581,15
+1,S1 lexicon fuzzy,582,15
+1,S1 lexicon fuzzy,583,15
+1,S1 lexicon fuzzy,584,15
+1,S1 lexicon fuzzy,585,15
+1,S1 lexicon fuzzy,586,15
+1,S1 lexicon fuzzy,587,15
+1,S1 lexicon fuzzy,588,15
+1,S1 lexicon fuzzy,589,15
+1,S1 lexicon fuzzy,590,15
+1,S1 lexicon fuzzy,591,15
+1,S1 lexicon fuzzy,592,15
+1,S1 lexicon fuzzy,593,15
+1,S1 lexicon fuzzy,594,15
+1,S1 lexicon fuzzy,595,15
+1,S1 lexicon fuzzy,596,15
+1,S1 lexicon fuzzy,597,15
+1,S1 lexicon fuzzy,598,15
+1,S1 lexicon fuzzy,599,15
+1,S1 lexicon fuzzy,600,15
+1,S1 lexicon fuzzy,601,15
+1,S1 lexicon fuzzy,602,15
+1,S1 lexicon fuzzy,603,15
+1,S1 lexicon fuzzy,604,15
+1,S1 lexicon fuzzy,605,15
+1,S1 lexicon fuzzy,606,15
+1,S1 lexicon fuzzy,607,15
+1,S1 lexicon fuzzy,608,15
+1,S2 dense,1,1
+1,S2 dense,2,2
+1,S2 dense,3,2
+1,S2 dense,4,3
+1,S2 dense,5,3
+1,S2 dense,6,3
+1,S2 dense,7,3
+1,S2 dense,8,3
+1,S2 dense,9,3
+1,S2 dense,10,3
+1,S2 dense,11,3
+1,S2 dense,12,4
+1,S2 dense,13,4
+1,S2 dense,14,5
+1,S2 dense,15,5
+1,S2 dense,16,6
+1,S2 dense,17,6
+1,S2 dense,18,6
+1,S2 dense,19,7
+1,S2 dense,20,7
+1,S2 dense,21,7
+1,S2 dense,22,7
+1,S2 dense,23,7
+1,S2 dense,24,8
+1,S2 dense,25,8
+1,S2 dense,26,8
+1,S2 dense,27,9
+1,S2 dense,28,9
+1,S2 dense,29,9
+1,S2 dense,30,9
+1,S2 dense,31,9
+1,S2 dense,32,9
+1,S2 dense,33,9
+1,S2 dense,34,9
+1,S2 dense,35,9
+1,S2 dense,36,9
+1,S2 dense,37,9
+1,S2 dense,38,9
+1,S2 dense,39,9
+1,S2 dense,40,10
+1,S2 dense,41,10
+1,S2 dense,42,10
+1,S2 dense,43,10
+1,S2 dense,44,11
+1,S2 dense,45,11
+1,S2 dense,46,11
+1,S2 dense,47,11
+1,S2 dense,48,11
+1,S2 dense,49,11
+1,S2 dense,50,11
+1,S2 dense,51,11
+1,S2 dense,52,11
+1,S2 dense,53,11
+1,S2 dense,54,11
+1,S2 dense,55,11
+1,S2 dense,56,11
+1,S2 dense,57,11
+1,S2 dense,58,11
+1,S2 dense,59,11
+1,S2 dense,60,12
+1,S2 dense,61,12
+1,S2 dense,62,12
+1,S2 dense,63,12
+1,S2 dense,64,12
+1,S2 dense,65,12
+1,S2 dense,66,12
+1,S2 dense,67,12
+1,S2 dense,68,12
+1,S2 dense,69,12
+1,S2 dense,70,12
+1,S2 dense,71,12
+1,S2 dense,72,12
+1,S2 dense,73,12
+1,S2 dense,74,12
+1,S2 dense,75,12
+1,S2 dense,76,12
+1,S2 dense,77,13
+1,S2 dense,78,13
+1,S2 dense,79,13
+1,S2 dense,80,13
+1,S2 dense,81,13
+1,S2 dense,82,13
+1,S2 dense,83,13
+1,S2 dense,84,13
+1,S2 dense,85,13
+1,S2 dense,86,13
+1,S2 dense,87,13
+1,S2 dense,88,13
+1,S2 dense,89,13
+1,S2 dense,90,13
+1,S2 dense,91,13
+1,S2 dense,92,13
+1,S2 dense,93,14
+1,S2 dense,94,14
+1,S2 dense,95,14
+1,S2 dense,96,14
+1,S2 dense,97,14
+1,S2 dense,98,14
+1,S2 dense,99,14
+1,S2 dense,100,14
+1,S2 dense,101,15
+1,S2 dense,102,15
+1,S2 dense,103,15
+1,S2 dense,104,15
+1,S2 dense,105,15
+1,S2 dense,106,15
+1,S2 dense,107,15
+1,S2 dense,108,15
+1,S2 dense,109,15
+1,S2 dense,110,15
+1,S2 dense,111,15
+1,S2 dense,112,15
+1,S2 dense,113,15
+1,S2 dense,114,15
+1,S2 dense,115,15
+1,S2 dense,116,15
+1,S2 dense,117,15
+1,S2 dense,118,15
+1,S2 dense,119,15
+1,S2 dense,120,15
+1,S2 dense,121,15
+1,S2 dense,122,15
+1,S2 dense,123,15
+1,S2 dense,124,15
+1,S2 dense,125,15
+1,S2 dense,126,15
+1,S2 dense,127,15
+1,S2 dense,128,15
+1,S2 dense,129,15
+1,S2 dense,130,15
+1,S2 dense,131,15
+1,S2 dense,132,15
+1,S2 dense,133,15
+1,S2 dense,134,15
+1,S2 dense,135,15
+1,S2 dense,136,15
+1,S2 dense,137,15
+1,S2 dense,138,15
+1,S2 dense,139,15
+1,S2 dense,140,15
+1,S2 dense,141,15
+1,S2 dense,142,15
+1,S2 dense,143,15
+1,S2 dense,144,15
+1,S2 dense,145,15
+1,S2 dense,146,15
+1,S2 dense,147,15
+1,S2 dense,148,15
+1,S2 dense,149,15
+1,S2 dense,150,15
+1,S2 dense,151,15
+1,S2 dense,152,15
+1,S2 dense,153,15
+1,S2 dense,154,15
+1,S2 dense,155,15
+1,S2 dense,156,15
+1,S2 dense,157,15
+1,S2 dense,158,15
+1,S2 dense,159,15
+1,S2 dense,160,15
+1,S2 dense,161,15
+1,S2 dense,162,15
+1,S2 dense,163,15
+1,S2 dense,164,15
+1,S2 dense,165,15
+1,S2 dense,166,15
+1,S2 dense,167,15
+1,S2 dense,168,15
+1,S2 dense,169,15
+1,S2 dense,170,15
+1,S2 dense,171,15
+1,S2 dense,172,15
+1,S2 dense,173,15
+1,S2 dense,174,15
+1,S2 dense,175,15
+1,S2 dense,176,15
+1,S2 dense,177,15
+1,S2 dense,178,15
+1,S2 dense,179,15
+1,S2 dense,180,15
+1,S2 dense,181,15
+1,S2 dense,182,15
+1,S2 dense,183,15
+1,S2 dense,184,15
+1,S2 dense,185,15
+1,S2 dense,186,15
+1,S2 dense,187,15
+1,S2 dense,188,15
+1,S2 dense,189,15
+1,S2 dense,190,15
+1,S2 dense,191,15
+1,S2 dense,192,15
+1,S2 dense,193,15
+1,S2 dense,194,15
+1,S2 dense,195,15
+1,S2 dense,196,15
+1,S2 dense,197,15
+1,S2 dense,198,15
+1,S2 dense,199,15
+1,S2 dense,200,15
+1,S2 dense,201,15
+1,S2 dense,202,15
+1,S2 dense,203,15
+1,S2 dense,204,15
+1,S2 dense,205,15
+1,S2 dense,206,15
+1,S2 dense,207,15
+1,S2 dense,208,15
+1,S2 dense,209,15
+1,S2 dense,210,15
+1,S2 dense,211,15
+1,S2 dense,212,15
+1,S2 dense,213,15
+1,S2 dense,214,15
+1,S2 dense,215,15
+1,S2 dense,216,15
+1,S2 dense,217,15
+1,S2 dense,218,15
+1,S2 dense,219,15
+1,S2 dense,220,15
+1,S2 dense,221,15
+1,S2 dense,222,15
+1,S2 dense,223,15
+1,S2 dense,224,15
+1,S2 dense,225,15
+1,S2 dense,226,15
+1,S2 dense,227,15
+1,S2 dense,228,15
+1,S2 dense,229,15
+1,S2 dense,230,15
+1,S2 dense,231,15
+1,S2 dense,232,15
+1,S2 dense,233,15
+1,S2 dense,234,15
+1,S2 dense,235,15
+1,S2 dense,236,15
+1,S2 dense,237,15
+1,S2 dense,238,15
+1,S2 dense,239,15
+1,S2 dense,240,15
+1,S2 dense,241,15
+1,S2 dense,242,15
+1,S2 dense,243,15
+1,S2 dense,244,15
+1,S2 dense,245,15
+1,S2 dense,246,15
+1,S2 dense,247,15
+1,S2 dense,248,15
+1,S2 dense,249,15
+1,S2 dense,250,15
+1,S2 dense,251,15
+1,S2 dense,252,15
+1,S2 dense,253,15
+1,S2 dense,254,15
+1,S2 dense,255,15
+1,S2 dense,256,15
+1,S2 dense,257,15
+1,S2 dense,258,15
+1,S2 dense,259,15
+1,S2 dense,260,15
+1,S2 dense,261,15
+1,S2 dense,262,15
+1,S2 dense,263,15
+1,S2 dense,264,15
+1,S2 dense,265,15
+1,S2 dense,266,15
+1,S2 dense,267,15
+1,S2 dense,268,15
+1,S2 dense,269,15
+1,S2 dense,270,15
+1,S2 dense,271,15
+1,S2 dense,272,15
+1,S2 dense,273,15
+1,S2 dense,274,15
+1,S2 dense,275,15
+1,S2 dense,276,15
+1,S2 dense,277,15
+1,S2 dense,278,15
+1,S2 dense,279,15
+1,S2 dense,280,15
+1,S2 dense,281,15
+1,S2 dense,282,15
+1,S2 dense,283,15
+1,S2 dense,284,15
+1,S2 dense,285,15
+1,S2 dense,286,15
+1,S2 dense,287,15
+1,S2 dense,288,15
+1,S2 dense,289,15
+1,S2 dense,290,15
+1,S2 dense,291,15
+1,S2 dense,292,15
+1,S2 dense,293,15
+1,S2 dense,294,15
+1,S2 dense,295,15
+1,S2 dense,296,15
+1,S2 dense,297,15
+1,S2 dense,298,15
+1,S2 dense,299,15
+1,S2 dense,300,15
+1,S2 dense,301,15
+1,S2 dense,302,15
+1,S2 dense,303,15
+1,S2 dense,304,15
+1,S2 dense,305,15
+1,S2 dense,306,15
+1,S2 dense,307,15
+1,S2 dense,308,15
+1,S2 dense,309,15
+1,S2 dense,310,15
+1,S2 dense,311,15
+1,S2 dense,312,15
+1,S2 dense,313,15
+1,S2 dense,314,15
+1,S2 dense,315,15
+1,S2 dense,316,15
+1,S2 dense,317,15
+1,S2 dense,318,15
+1,S2 dense,319,15
+1,S2 dense,320,15
+1,S2 dense,321,15
+1,S2 dense,322,15
+1,S2 dense,323,15
+1,S2 dense,324,15
+1,S2 dense,325,15
+1,S2 dense,326,15
+1,S2 dense,327,15
+1,S2 dense,328,15
+1,S2 dense,329,15
+1,S2 dense,330,15
+1,S2 dense,331,15
+1,S2 dense,332,15
+1,S2 dense,333,15
+1,S2 dense,334,15
+1,S2 dense,335,15
+1,S2 dense,336,15
+1,S2 dense,337,15
+1,S2 dense,338,15
+1,S2 dense,339,15
+1,S2 dense,340,15
+1,S2 dense,341,15
+1,S2 dense,342,15
+1,S2 dense,343,15
+1,S2 dense,344,15
+1,S2 dense,345,15
+1,S2 dense,346,15
+1,S2 dense,347,15
+1,S2 dense,348,15
+1,S2 dense,349,15
+1,S2 dense,350,15
+1,S2 dense,351,15
+1,S2 dense,352,15
+1,S2 dense,353,15
+1,S2 dense,354,15
+1,S2 dense,355,15
+1,S2 dense,356,15
+1,S2 dense,357,15
+1,S2 dense,358,15
+1,S2 dense,359,15
+1,S2 dense,360,15
+1,S2 dense,361,15
+1,S2 dense,362,15
+1,S2 dense,363,15
+1,S2 dense,364,15
+1,S2 dense,365,15
+1,S2 dense,366,15
+1,S2 dense,367,15
+1,S2 dense,368,15
+1,S2 dense,369,15
+1,S2 dense,370,15
+1,S2 dense,371,15
+1,S2 dense,372,15
+1,S2 dense,373,15
+1,S2 dense,374,15
+1,S2 dense,375,15
+1,S2 dense,376,15
+1,S2 dense,377,15
+1,S2 dense,378,15
+1,S2 dense,379,15
+1,S2 dense,380,15
+1,S2 dense,381,15
+1,S2 dense,382,15
+1,S2 dense,383,15
+1,S2 dense,384,15
+1,S2 dense,385,15
+1,S2 dense,386,15
+1,S2 dense,387,15
+1,S2 dense,388,15
+1,S2 dense,389,15
+1,S2 dense,390,15
+1,S2 dense,391,15
+1,S2 dense,392,15
+1,S2 dense,393,15
+1,S2 dense,394,15
+1,S2 dense,395,15
+1,S2 dense,396,15
+1,S2 dense,397,15
+1,S2 dense,398,15
+1,S2 dense,399,15
+1,S2 dense,400,15
+1,S2 dense,401,15
+1,S2 dense,402,15
+1,S2 dense,403,15
+1,S2 dense,404,15
+1,S2 dense,405,15
+1,S2 dense,406,15
+1,S2 dense,407,15
+1,S2 dense,408,15
+1,S2 dense,409,15
+1,S2 dense,410,15
+1,S2 dense,411,15
+1,S2 dense,412,15
+1,S2 dense,413,15
+1,S2 dense,414,15
+1,S2 dense,415,15
+1,S2 dense,416,15
+1,S2 dense,417,15
+1,S2 dense,418,15
+1,S2 dense,419,15
+1,S2 dense,420,15
+1,S2 dense,421,15
+1,S2 dense,422,15
+1,S2 dense,423,15
+1,S2 dense,424,15
+1,S2 dense,425,15
+1,S2 dense,426,15
+1,S2 dense,427,15
+1,S2 dense,428,15
+1,S2 dense,429,15
+1,S2 dense,430,15
+1,S2 dense,431,15
+1,S2 dense,432,15
+1,S2 dense,433,15
+1,S2 dense,434,15
+1,S2 dense,435,15
+1,S2 dense,436,15
+1,S2 dense,437,15
+1,S2 dense,438,15
+1,S2 dense,439,15
+1,S2 dense,440,15
+1,S2 dense,441,15
+1,S2 dense,442,15
+1,S2 dense,443,15
+1,S2 dense,444,15
+1,S2 dense,445,15
+1,S2 dense,446,15
+1,S2 dense,447,15
+1,S2 dense,448,15
+1,S2 dense,449,15
+1,S2 dense,450,15
+1,S2 dense,451,15
+1,S2 dense,452,15
+1,S2 dense,453,15
+1,S2 dense,454,15
+1,S2 dense,455,15
+1,S2 dense,456,15
+1,S2 dense,457,15
+1,S2 dense,458,15
+1,S2 dense,459,15
+1,S2 dense,460,15
+1,S2 dense,461,15
+1,S2 dense,462,15
+1,S2 dense,463,15
+1,S2 dense,464,15
+1,S2 dense,465,15
+1,S2 dense,466,15
+1,S2 dense,467,15
+1,S2 dense,468,15
+1,S2 dense,469,15
+1,S2 dense,470,15
+1,S2 dense,471,15
+1,S2 dense,472,15
+1,S2 dense,473,15
+1,S2 dense,474,15
+1,S2 dense,475,15
+1,S2 dense,476,15
+1,S2 dense,477,15
+1,S2 dense,478,15
+1,S2 dense,479,15
+1,S2 dense,480,15
+1,S2 dense,481,15
+1,S2 dense,482,15
+1,S2 dense,483,15
+1,S2 dense,484,15
+1,S2 dense,485,15
+1,S2 dense,486,15
+1,S2 dense,487,15
+1,S2 dense,488,15
+1,S2 dense,489,15
+1,S2 dense,490,15
+1,S2 dense,491,15
+1,S2 dense,492,15
+1,S2 dense,493,15
+1,S2 dense,494,15
+1,S2 dense,495,15
+1,S2 dense,496,15
+1,S2 dense,497,15
+1,S2 dense,498,15
+1,S2 dense,499,15
+1,S2 dense,500,15
+1,S2 dense,501,15
+1,S2 dense,502,15
+1,S2 dense,503,15
+1,S2 dense,504,15
+1,S2 dense,505,15
+1,S2 dense,506,15
+1,S2 dense,507,15
+1,S2 dense,508,15
+1,S2 dense,509,15
+1,S2 dense,510,15
+1,S2 dense,511,15
+1,S2 dense,512,15
+1,S2 dense,513,15
+1,S2 dense,514,15
+1,S2 dense,515,15
+1,S2 dense,516,15
+1,S2 dense,517,15
+1,S2 dense,518,15
+1,S2 dense,519,15
+1,S2 dense,520,15
+1,S2 dense,521,15
+1,S2 dense,522,15
+1,S2 dense,523,15
+1,S2 dense,524,15
+1,S2 dense,525,15
+1,S2 dense,526,15
+1,S2 dense,527,15
+1,S2 dense,528,15
+1,S2 dense,529,15
+1,S2 dense,530,15
+1,S2 dense,531,15
+1,S2 dense,532,15
+1,S2 dense,533,15
+1,S2 dense,534,15
+1,S2 dense,535,15
+1,S2 dense,536,15
+1,S2 dense,537,15
+1,S2 dense,538,15
+1,S2 dense,539,15
+1,S2 dense,540,15
+1,S2 dense,541,15
+1,S2 dense,542,15
+1,S2 dense,543,15
+1,S2 dense,544,15
+1,S2 dense,545,15
+1,S2 dense,546,15
+1,S2 dense,547,15
+1,S2 dense,548,15
+1,S2 dense,549,15
+1,S2 dense,550,15
+1,S2 dense,551,15
+1,S2 dense,552,15
+1,S2 dense,553,15
+1,S2 dense,554,15
+1,S2 dense,555,15
+1,S2 dense,556,15
+1,S2 dense,557,15
+1,S2 dense,558,15
+1,S2 dense,559,15
+1,S2 dense,560,15
+1,S2 dense,561,15
+1,S2 dense,562,15
+1,S2 dense,563,15
+1,S2 dense,564,15
+1,S2 dense,565,15
+1,S2 dense,566,15
+1,S2 dense,567,15
+1,S2 dense,568,15
+1,S2 dense,569,15
+1,S2 dense,570,15
+1,S2 dense,571,15
+1,S2 dense,572,15
+1,S2 dense,573,15
+1,S2 dense,574,15
+1,S2 dense,575,15
+1,S2 dense,576,15
+1,S2 dense,577,15
+1,S2 dense,578,15
+1,S2 dense,579,15
+1,S2 dense,580,15
+1,S2 dense,581,15
+1,S2 dense,582,15
+1,S2 dense,583,15
+1,S2 dense,584,15
+1,S2 dense,585,15
+1,S2 dense,586,15
+1,S2 dense,587,15
+1,S2 dense,588,15
+1,S2 dense,589,15
+1,S2 dense,590,15
+1,S2 dense,591,15
+1,S2 dense,592,15
+1,S2 dense,593,15
+1,S2 dense,594,15
+1,S2 dense,595,15
+1,S2 dense,596,15
+1,S2 dense,597,15
+1,S2 dense,598,15
+1,S2 dense,599,15
+1,S2 dense,600,15
+1,S2 dense,601,15
+1,S2 dense,602,15
+1,S2 dense,603,15
+1,S2 dense,604,15
+1,S2 dense,605,15
+1,S2 dense,606,15
+1,S2 dense,607,15
+1,S2 dense,608,15
+1,S3 fusion,1,1
+1,S3 fusion,2,1
+1,S3 fusion,3,2
+1,S3 fusion,4,2
+1,S3 fusion,5,2
+1,S3 fusion,6,2
+1,S3 fusion,7,2
+1,S3 fusion,8,2
+1,S3 fusion,9,3
+1,S3 fusion,10,3
+1,S3 fusion,11,3
+1,S3 fusion,12,3
+1,S3 fusion,13,4
+1,S3 fusion,14,4
+1,S3 fusion,15,4
+1,S3 fusion,16,4
+1,S3 fusion,17,4
+1,S3 fusion,18,5
+1,S3 fusion,19,6
+1,S3 fusion,20,6
+1,S3 fusion,21,6
+1,S3 fusion,22,6
+1,S3 fusion,23,6
+1,S3 fusion,24,7
+1,S3 fusion,25,8
+1,S3 fusion,26,9
+1,S3 fusion,27,10
+1,S3 fusion,28,10
+1,S3 fusion,29,10
+1,S3 fusion,30,10
+1,S3 fusion,31,10
+1,S3 fusion,32,10
+1,S3 fusion,33,10
+1,S3 fusion,34,10
+1,S3 fusion,35,10
+1,S3 fusion,36,10
+1,S3 fusion,37,10
+1,S3 fusion,38,10
+1,S3 fusion,39,10
+1,S3 fusion,40,10
+1,S3 fusion,41,10
+1,S3 fusion,42,10
+1,S3 fusion,43,10
+1,S3 fusion,44,10
+1,S3 fusion,45,10
+1,S3 fusion,46,10
+1,S3 fusion,47,10
+1,S3 fusion,48,10
+1,S3 fusion,49,10
+1,S3 fusion,50,10
+1,S3 fusion,51,10
+1,S3 fusion,52,10
+1,S3 fusion,53,10
+1,S3 fusion,54,11
+1,S3 fusion,55,11
+1,S3 fusion,56,11
+1,S3 fusion,57,11
+1,S3 fusion,58,11
+1,S3 fusion,59,11
+1,S3 fusion,60,11
+1,S3 fusion,61,11
+1,S3 fusion,62,12
+1,S3 fusion,63,12
+1,S3 fusion,64,12
+1,S3 fusion,65,12
+1,S3 fusion,66,12
+1,S3 fusion,67,12
+1,S3 fusion,68,12
+1,S3 fusion,69,12
+1,S3 fusion,70,12
+1,S3 fusion,71,12
+1,S3 fusion,72,12
+1,S3 fusion,73,12
+1,S3 fusion,74,13
+1,S3 fusion,75,13
+1,S3 fusion,76,13
+1,S3 fusion,77,13
+1,S3 fusion,78,13
+1,S3 fusion,79,13
+1,S3 fusion,80,13
+1,S3 fusion,81,13
+1,S3 fusion,82,13
+1,S3 fusion,83,13
+1,S3 fusion,84,13
+1,S3 fusion,85,13
+1,S3 fusion,86,13
+1,S3 fusion,87,13
+1,S3 fusion,88,13
+1,S3 fusion,89,13
+1,S3 fusion,90,13
+1,S3 fusion,91,13
+1,S3 fusion,92,13
+1,S3 fusion,93,13
+1,S3 fusion,94,13
+1,S3 fusion,95,13
+1,S3 fusion,96,13
+1,S3 fusion,97,13
+1,S3 fusion,98,13
+1,S3 fusion,99,13
+1,S3 fusion,100,13
+1,S3 fusion,101,13
+1,S3 fusion,102,13
+1,S3 fusion,103,13
+1,S3 fusion,104,13
+1,S3 fusion,105,14
+1,S3 fusion,106,14
+1,S3 fusion,107,14
+1,S3 fusion,108,14
+1,S3 fusion,109,14
+1,S3 fusion,110,14
+1,S3 fusion,111,14
+1,S3 fusion,112,14
+1,S3 fusion,113,14
+1,S3 fusion,114,14
+1,S3 fusion,115,14
+1,S3 fusion,116,14
+1,S3 fusion,117,14
+1,S3 fusion,118,14
+1,S3 fusion,119,14
+1,S3 fusion,120,14
+1,S3 fusion,121,14
+1,S3 fusion,122,14
+1,S3 fusion,123,14
+1,S3 fusion,124,14
+1,S3 fusion,125,14
+1,S3 fusion,126,14
+1,S3 fusion,127,14
+1,S3 fusion,128,14
+1,S3 fusion,129,14
+1,S3 fusion,130,14
+1,S3 fusion,131,14
+1,S3 fusion,132,14
+1,S3 fusion,133,14
+1,S3 fusion,134,15
+1,S3 fusion,135,15
+1,S3 fusion,136,15
+1,S3 fusion,137,15
+1,S3 fusion,138,15
+1,S3 fusion,139,15
+1,S3 fusion,140,15
+1,S3 fusion,141,15
+1,S3 fusion,142,15
+1,S3 fusion,143,15
+1,S3 fusion,144,15
+1,S3 fusion,145,15
+1,S3 fusion,146,15
+1,S3 fusion,147,15
+1,S3 fusion,148,15
+1,S3 fusion,149,15
+1,S3 fusion,150,15
+1,S3 fusion,151,15
+1,S3 fusion,152,15
+1,S3 fusion,153,15
+1,S3 fusion,154,15
+1,S3 fusion,155,15
+1,S3 fusion,156,15
+1,S3 fusion,157,15
+1,S3 fusion,158,15
+1,S3 fusion,159,15
+1,S3 fusion,160,15
+1,S3 fusion,161,15
+1,S3 fusion,162,15
+1,S3 fusion,163,15
+1,S3 fusion,164,15
+1,S3 fusion,165,15
+1,S3 fusion,166,15
+1,S3 fusion,167,15
+1,S3 fusion,168,15
+1,S3 fusion,169,15
+1,S3 fusion,170,15
+1,S3 fusion,171,15
+1,S3 fusion,172,15
+1,S3 fusion,173,15
+1,S3 fusion,174,15
+1,S3 fusion,175,15
+1,S3 fusion,176,15
+1,S3 fusion,177,15
+1,S3 fusion,178,15
+1,S3 fusion,179,15
+1,S3 fusion,180,15
+1,S3 fusion,181,15
+1,S3 fusion,182,15
+1,S3 fusion,183,15
+1,S3 fusion,184,15
+1,S3 fusion,185,15
+1,S3 fusion,186,15
+1,S3 fusion,187,15
+1,S3 fusion,188,15
+1,S3 fusion,189,15
+1,S3 fusion,190,15
+1,S3 fusion,191,15
+1,S3 fusion,192,15
+1,S3 fusion,193,15
+1,S3 fusion,194,15
+1,S3 fusion,195,15
+1,S3 fusion,196,15
+1,S3 fusion,197,15
+1,S3 fusion,198,15
+1,S3 fusion,199,15
+1,S3 fusion,200,15
+1,S3 fusion,201,15
+1,S3 fusion,202,15
+1,S3 fusion,203,15
+1,S3 fusion,204,15
+1,S3 fusion,205,15
+1,S3 fusion,206,15
+1,S3 fusion,207,15
+1,S3 fusion,208,15
+1,S3 fusion,209,15
+1,S3 fusion,210,15
+1,S3 fusion,211,15
+1,S3 fusion,212,15
+1,S3 fusion,213,15
+1,S3 fusion,214,15
+1,S3 fusion,215,15
+1,S3 fusion,216,15
+1,S3 fusion,217,15
+1,S3 fusion,218,15
+1,S3 fusion,219,15
+1,S3 fusion,220,15
+1,S3 fusion,221,15
+1,S3 fusion,222,15
+1,S3 fusion,223,15
+1,S3 fusion,224,15
+1,S3 fusion,225,15
+1,S3 fusion,226,15
+1,S3 fusion,227,15
+1,S3 fusion,228,15
+1,S3 fusion,229,15
+1,S3 fusion,230,15
+1,S3 fusion,231,15
+1,S3 fusion,232,15
+1,S3 fusion,233,15
+1,S3 fusion,234,15
+1,S3 fusion,235,15
+1,S3 fusion,236,15
+1,S3 fusion,237,15
+1,S3 fusion,238,15
+1,S3 fusion,239,15
+1,S3 fusion,240,15
+1,S3 fusion,241,15
+1,S3 fusion,242,15
+1,S3 fusion,243,15
+1,S3 fusion,244,15
+1,S3 fusion,245,15
+1,S3 fusion,246,15
+1,S3 fusion,247,15
+1,S3 fusion,248,15
+1,S3 fusion,249,15
+1,S3 fusion,250,15
+1,S3 fusion,251,15
+1,S3 fusion,252,15
+1,S3 fusion,253,15
+1,S3 fusion,254,15
+1,S3 fusion,255,15
+1,S3 fusion,256,15
+1,S3 fusion,257,15
+1,S3 fusion,258,15
+1,S3 fusion,259,15
+1,S3 fusion,260,15
+1,S3 fusion,261,15
+1,S3 fusion,262,15
+1,S3 fusion,263,15
+1,S3 fusion,264,15
+1,S3 fusion,265,15
+1,S3 fusion,266,15
+1,S3 fusion,267,15
+1,S3 fusion,268,15
+1,S3 fusion,269,15
+1,S3 fusion,270,15
+1,S3 fusion,271,15
+1,S3 fusion,272,15
+1,S3 fusion,273,15
+1,S3 fusion,274,15
+1,S3 fusion,275,15
+1,S3 fusion,276,15
+1,S3 fusion,277,15
+1,S3 fusion,278,15
+1,S3 fusion,279,15
+1,S3 fusion,280,15
+1,S3 fusion,281,15
+1,S3 fusion,282,15
+1,S3 fusion,283,15
+1,S3 fusion,284,15
+1,S3 fusion,285,15
+1,S3 fusion,286,15
+1,S3 fusion,287,15
+1,S3 fusion,288,15
+1,S3 fusion,289,15
+1,S3 fusion,290,15
+1,S3 fusion,291,15
+1,S3 fusion,292,15
+1,S3 fusion,293,15
+1,S3 fusion,294,15
+1,S3 fusion,295,15
+1,S3 fusion,296,15
+1,S3 fusion,297,15
+1,S3 fusion,298,15
+1,S3 fusion,299,15
+1,S3 fusion,300,15
+1,S3 fusion,301,15
+1,S3 fusion,302,15
+1,S3 fusion,303,15
+1,S3 fusion,304,15
+1,S3 fusion,305,15
+1,S3 fusion,306,15
+1,S3 fusion,307,15
+1,S3 fusion,308,15
+1,S3 fusion,309,15
+1,S3 fusion,310,15
+1,S3 fusion,311,15
+1,S3 fusion,312,15
+1,S3 fusion,313,15
+1,S3 fusion,314,15
+1,S3 fusion,315,15
+1,S3 fusion,316,15
+1,S3 fusion,317,15
+1,S3 fusion,318,15
+1,S3 fusion,319,15
+1,S3 fusion,320,15
+1,S3 fusion,321,15
+1,S3 fusion,322,15
+1,S3 fusion,323,15
+1,S3 fusion,324,15
+1,S3 fusion,325,15
+1,S3 fusion,326,15
+1,S3 fusion,327,15
+1,S3 fusion,328,15
+1,S3 fusion,329,15
+1,S3 fusion,330,15
+1,S3 fusion,331,15
+1,S3 fusion,332,15
+1,S3 fusion,333,15
+1,S3 fusion,334,15
+1,S3 fusion,335,15
+1,S3 fusion,336,15
+1,S3 fusion,337,15
+1,S3 fusion,338,15
+1,S3 fusion,339,15
+1,S3 fusion,340,15
+1,S3 fusion,341,15
+1,S3 fusion,342,15
+1,S3 fusion,343,15
+1,S3 fusion,344,15
+1,S3 fusion,345,15
+1,S3 fusion,346,15
+1,S3 fusion,347,15
+1,S3 fusion,348,15
+1,S3 fusion,349,15
+1,S3 fusion,350,15
+1,S3 fusion,351,15
+1,S3 fusion,352,15
+1,S3 fusion,353,15
+1,S3 fusion,354,15
+1,S3 fusion,355,15
+1,S3 fusion,356,15
+1,S3 fusion,357,15
+1,S3 fusion,358,15
+1,S3 fusion,359,15
+1,S3 fusion,360,15
+1,S3 fusion,361,15
+1,S3 fusion,362,15
+1,S3 fusion,363,15
+1,S3 fusion,364,15
+1,S3 fusion,365,15
+1,S3 fusion,366,15
+1,S3 fusion,367,15
+1,S3 fusion,368,15
+1,S3 fusion,369,15
+1,S3 fusion,370,15
+1,S3 fusion,371,15
+1,S3 fusion,372,15
+1,S3 fusion,373,15
+1,S3 fusion,374,15
+1,S3 fusion,375,15
+1,S3 fusion,376,15
+1,S3 fusion,377,15
+1,S3 fusion,378,15
+1,S3 fusion,379,15
+1,S3 fusion,380,15
+1,S3 fusion,381,15
+1,S3 fusion,382,15
+1,S3 fusion,383,15
+1,S3 fusion,384,15
+1,S3 fusion,385,15
+1,S3 fusion,386,15
+1,S3 fusion,387,15
+1,S3 fusion,388,15
+1,S3 fusion,389,15
+1,S3 fusion,390,15
+1,S3 fusion,391,15
+1,S3 fusion,392,15
+1,S3 fusion,393,15
+1,S3 fusion,394,15
+1,S3 fusion,395,15
+1,S3 fusion,396,15
+1,S3 fusion,397,15
+1,S3 fusion,398,15
+1,S3 fusion,399,15
+1,S3 fusion,400,15
+1,S3 fusion,401,15
+1,S3 fusion,402,15
+1,S3 fusion,403,15
+1,S3 fusion,404,15
+1,S3 fusion,405,15
+1,S3 fusion,406,15
+1,S3 fusion,407,15
+1,S3 fusion,408,15
+1,S3 fusion,409,15
+1,S3 fusion,410,15
+1,S3 fusion,411,15
+1,S3 fusion,412,15
+1,S3 fusion,413,15
+1,S3 fusion,414,15
+1,S3 fusion,415,15
+1,S3 fusion,416,15
+1,S3 fusion,417,15
+1,S3 fusion,418,15
+1,S3 fusion,419,15
+1,S3 fusion,420,15
+1,S3 fusion,421,15
+1,S3 fusion,422,15
+1,S3 fusion,423,15
+1,S3 fusion,424,15
+1,S3 fusion,425,15
+1,S3 fusion,426,15
+1,S3 fusion,427,15
+1,S3 fusion,428,15
+1,S3 fusion,429,15
+1,S3 fusion,430,15
+1,S3 fusion,431,15
+1,S3 fusion,432,15
+1,S3 fusion,433,15
+1,S3 fusion,434,15
+1,S3 fusion,435,15
+1,S3 fusion,436,15
+1,S3 fusion,437,15
+1,S3 fusion,438,15
+1,S3 fusion,439,15
+1,S3 fusion,440,15
+1,S3 fusion,441,15
+1,S3 fusion,442,15
+1,S3 fusion,443,15
+1,S3 fusion,444,15
+1,S3 fusion,445,15
+1,S3 fusion,446,15
+1,S3 fusion,447,15
+1,S3 fusion,448,15
+1,S3 fusion,449,15
+1,S3 fusion,450,15
+1,S3 fusion,451,15
+1,S3 fusion,452,15
+1,S3 fusion,453,15
+1,S3 fusion,454,15
+1,S3 fusion,455,15
+1,S3 fusion,456,15
+1,S3 fusion,457,15
+1,S3 fusion,458,15
+1,S3 fusion,459,15
+1,S3 fusion,460,15
+1,S3 fusion,461,15
+1,S3 fusion,462,15
+1,S3 fusion,463,15
+1,S3 fusion,464,15
+1,S3 fusion,465,15
+1,S3 fusion,466,15
+1,S3 fusion,467,15
+1,S3 fusion,468,15
+1,S3 fusion,469,15
+1,S3 fusion,470,15
+1,S3 fusion,471,15
+1,S3 fusion,472,15
+1,S3 fusion,473,15
+1,S3 fusion,474,15
+1,S3 fusion,475,15
+1,S3 fusion,476,15
+1,S3 fusion,477,15
+1,S3 fusion,478,15
+1,S3 fusion,479,15
+1,S3 fusion,480,15
+1,S3 fusion,481,15
+1,S3 fusion,482,15
+1,S3 fusion,483,15
+1,S3 fusion,484,15
+1,S3 fusion,485,15
+1,S3 fusion,486,15
+1,S3 fusion,487,15
+1,S3 fusion,488,15
+1,S3 fusion,489,15
+1,S3 fusion,490,15
+1,S3 fusion,491,15
+1,S3 fusion,492,15
+1,S3 fusion,493,15
+1,S3 fusion,494,15
+1,S3 fusion,495,15
+1,S3 fusion,496,15
+1,S3 fusion,497,15
+1,S3 fusion,498,15
+1,S3 fusion,499,15
+1,S3 fusion,500,15
+1,S3 fusion,501,15
+1,S3 fusion,502,15
+1,S3 fusion,503,15
+1,S3 fusion,504,15
+1,S3 fusion,505,15
+1,S3 fusion,506,15
+1,S3 fusion,507,15
+1,S3 fusion,508,15
+1,S3 fusion,509,15
+1,S3 fusion,510,15
+1,S3 fusion,511,15
+1,S3 fusion,512,15
+1,S3 fusion,513,15
+1,S3 fusion,514,15
+1,S3 fusion,515,15
+1,S3 fusion,516,15
+1,S3 fusion,517,15
+1,S3 fusion,518,15
+1,S3 fusion,519,15
+1,S3 fusion,520,15
+1,S3 fusion,521,15
+1,S3 fusion,522,15
+1,S3 fusion,523,15
+1,S3 fusion,524,15
+1,S3 fusion,525,15
+1,S3 fusion,526,15
+1,S3 fusion,527,15
+1,S3 fusion,528,15
+1,S3 fusion,529,15
+1,S3 fusion,530,15
+1,S3 fusion,531,15
+1,S3 fusion,532,15
+1,S3 fusion,533,15
+1,S3 fusion,534,15
+1,S3 fusion,535,15
+1,S3 fusion,536,15
+1,S3 fusion,537,15
+1,S3 fusion,538,15
+1,S3 fusion,539,15
+1,S3 fusion,540,15
+1,S3 fusion,541,15
+1,S3 fusion,542,15
+1,S3 fusion,543,15
+1,S3 fusion,544,15
+1,S3 fusion,545,15
+1,S3 fusion,546,15
+1,S3 fusion,547,15
+1,S3 fusion,548,15
+1,S3 fusion,549,15
+1,S3 fusion,550,15
+1,S3 fusion,551,15
+1,S3 fusion,552,15
+1,S3 fusion,553,15
+1,S3 fusion,554,15
+1,S3 fusion,555,15
+1,S3 fusion,556,15
+1,S3 fusion,557,15
+1,S3 fusion,558,15
+1,S3 fusion,559,15
+1,S3 fusion,560,15
+1,S3 fusion,561,15
+1,S3 fusion,562,15
+1,S3 fusion,563,15
+1,S3 fusion,564,15
+1,S3 fusion,565,15
+1,S3 fusion,566,15
+1,S3 fusion,567,15
+1,S3 fusion,568,15
+1,S3 fusion,569,15
+1,S3 fusion,570,15
+1,S3 fusion,571,15
+1,S3 fusion,572,15
+1,S3 fusion,573,15
+1,S3 fusion,574,15
+1,S3 fusion,575,15
+1,S3 fusion,576,15
+1,S3 fusion,577,15
+1,S3 fusion,578,15
+1,S3 fusion,579,15
+1,S3 fusion,580,15
+1,S3 fusion,581,15
+1,S3 fusion,582,15
+1,S3 fusion,583,15
+1,S3 fusion,584,15
+1,S3 fusion,585,15
+1,S3 fusion,586,15
+1,S3 fusion,587,15
+1,S3 fusion,588,15
+1,S3 fusion,589,15
+1,S3 fusion,590,15
+1,S3 fusion,591,15
+1,S3 fusion,592,15
+1,S3 fusion,593,15
+1,S3 fusion,594,15
+1,S3 fusion,595,15
+1,S3 fusion,596,15
+1,S3 fusion,597,15
+1,S3 fusion,598,15
+1,S3 fusion,599,15
+1,S3 fusion,600,15
+1,S3 fusion,601,15
+1,S3 fusion,602,15
+1,S3 fusion,603,15
+1,S3 fusion,604,15
+1,S3 fusion,605,15
+1,S3 fusion,606,15
+1,S3 fusion,607,15
+1,S3 fusion,608,15
+3,R0 reading order,1,0
+3,R0 reading order,2,0
+3,R0 reading order,3,0
+3,R0 reading order,4,0
+3,R0 reading order,5,0
+3,R0 reading order,6,0
+3,R0 reading order,7,0
+3,R0 reading order,8,0
+3,R0 reading order,9,0
+3,R0 reading order,10,0
+3,R0 reading order,11,0
+3,R0 reading order,12,0
+3,R0 reading order,13,0
+3,R0 reading order,14,0
+3,R0 reading order,15,0
+3,R0 reading order,16,0
+3,R0 reading order,17,0
+3,R0 reading order,18,0
+3,R0 reading order,19,0
+3,R0 reading order,20,0
+3,R0 reading order,21,0
+3,R0 reading order,22,0
+3,R0 reading order,23,0
+3,R0 reading order,24,0
+3,R0 reading order,25,0
+3,R0 reading order,26,0
+3,R0 reading order,27,0
+3,R0 reading order,28,0
+3,R0 reading order,29,0
+3,R0 reading order,30,0
+3,R0 reading order,31,0
+3,R0 reading order,32,0
+3,R0 reading order,33,0
+3,R0 reading order,34,0
+3,R0 reading order,35,0
+3,R0 reading order,36,0
+3,R0 reading order,37,0
+3,R0 reading order,38,0
+3,R0 reading order,39,0
+3,R0 reading order,40,0
+3,R0 reading order,41,0
+3,R0 reading order,42,0
+3,R0 reading order,43,0
+3,R0 reading order,44,0
+3,R0 reading order,45,0
+3,R0 reading order,46,0
+3,R0 reading order,47,0
+3,R0 reading order,48,0
+3,R0 reading order,49,0
+3,R0 reading order,50,0
+3,R0 reading order,51,0
+3,R0 reading order,52,0
+3,R0 reading order,53,0
+3,R0 reading order,54,0
+3,R0 reading order,55,0
+3,R0 reading order,56,0
+3,R0 reading order,57,0
+3,R0 reading order,58,0
+3,R0 reading order,59,0
+3,R0 reading order,60,0
+3,R0 reading order,61,0
+3,R0 reading order,62,0
+3,R0 reading order,63,0
+3,R0 reading order,64,0
+3,R0 reading order,65,0
+3,R0 reading order,66,0
+3,R0 reading order,67,0
+3,R0 reading order,68,0
+3,R0 reading order,69,0
+3,R0 reading order,70,0
+3,R0 reading order,71,0
+3,R0 reading order,72,0
+3,R0 reading order,73,0
+3,R0 reading order,74,0
+3,R0 reading order,75,0
+3,R0 reading order,76,0
+3,R0 reading order,77,0
+3,R0 reading order,78,0
+3,R0 reading order,79,0
+3,R0 reading order,80,0
+3,R0 reading order,81,0
+3,R0 reading order,82,0
+3,R0 reading order,83,0
+3,R0 reading order,84,0
+3,R0 reading order,85,0
+3,R0 reading order,86,0
+3,R0 reading order,87,0
+3,R0 reading order,88,0
+3,R0 reading order,89,0
+3,R0 reading order,90,0
+3,R0 reading order,91,0
+3,R0 reading order,92,0
+3,R0 reading order,93,0
+3,R0 reading order,94,0
+3,R0 reading order,95,0
+3,R0 reading order,96,0
+3,R0 reading order,97,0
+3,R0 reading order,98,0
+3,R0 reading order,99,0
+3,R0 reading order,100,0
+3,R0 reading order,101,0
+3,R0 reading order,102,0
+3,R0 reading order,103,0
+3,R0 reading order,104,0
+3,R0 reading order,105,0
+3,R0 reading order,106,0
+3,R0 reading order,107,0
+3,R0 reading order,108,0
+3,R0 reading order,109,0
+3,R0 reading order,110,0
+3,R0 reading order,111,0
+3,R0 reading order,112,0
+3,R0 reading order,113,0
+3,R0 reading order,114,0
+3,R0 reading order,115,0
+3,R0 reading order,116,0
+3,R0 reading order,117,0
+3,R0 reading order,118,0
+3,R0 reading order,119,0
+3,R0 reading order,120,0
+3,R0 reading order,121,0
+3,R0 reading order,122,0
+3,R0 reading order,123,0
+3,R0 reading order,124,0
+3,R0 reading order,125,0
+3,R0 reading order,126,0
+3,R0 reading order,127,0
+3,R0 reading order,128,0
+3,R0 reading order,129,0
+3,R0 reading order,130,0
+3,R0 reading order,131,0
+3,R0 reading order,132,0
+3,R0 reading order,133,0
+3,R0 reading order,134,0
+3,R0 reading order,135,0
+3,R0 reading order,136,0
+3,R0 reading order,137,0
+3,R0 reading order,138,0
+3,R0 reading order,139,0
+3,R0 reading order,140,0
+3,R0 reading order,141,0
+3,R0 reading order,142,0
+3,R0 reading order,143,0
+3,R0 reading order,144,0
+3,R0 reading order,145,0
+3,R0 reading order,146,0
+3,R0 reading order,147,0
+3,R0 reading order,148,0
+3,R0 reading order,149,0
+3,R0 reading order,150,0
+3,R0 reading order,151,0
+3,R0 reading order,152,0
+3,R0 reading order,153,0
+3,R0 reading order,154,0
+3,R0 reading order,155,0
+3,R0 reading order,156,0
+3,R0 reading order,157,0
+3,R0 reading order,158,0
+3,R0 reading order,159,0
+3,R0 reading order,160,0
+3,R0 reading order,161,0
+3,R0 reading order,162,0
+3,R0 reading order,163,0
+3,R0 reading order,164,0
+3,R0 reading order,165,0
+3,R0 reading order,166,0
+3,R0 reading order,167,0
+3,R0 reading order,168,0
+3,R0 reading order,169,0
+3,R0 reading order,170,0
+3,R0 reading order,171,0
+3,R0 reading order,172,0
+3,R0 reading order,173,0
+3,R0 reading order,174,0
+3,R0 reading order,175,0
+3,R0 reading order,176,0
+3,R0 reading order,177,0
+3,R0 reading order,178,0
+3,R0 reading order,179,0
+3,R0 reading order,180,0
+3,R0 reading order,181,0
+3,R0 reading order,182,0
+3,R0 reading order,183,0
+3,R0 reading order,184,0
+3,R0 reading order,185,0
+3,R0 reading order,186,0
+3,R0 reading order,187,0
+3,R0 reading order,188,0
+3,R0 reading order,189,0
+3,R0 reading order,190,0
+3,R0 reading order,191,0
+3,R0 reading order,192,0
+3,R0 reading order,193,0
+3,R0 reading order,194,0
+3,R0 reading order,195,0
+3,R0 reading order,196,0
+3,R0 reading order,197,0
+3,R0 reading order,198,0
+3,R0 reading order,199,0
+3,R0 reading order,200,0
+3,R0 reading order,201,0
+3,R0 reading order,202,0
+3,R0 reading order,203,0
+3,R0 reading order,204,0
+3,R0 reading order,205,0
+3,R0 reading order,206,0
+3,R0 reading order,207,0
+3,R0 reading order,208,0
+3,R0 reading order,209,0
+3,R0 reading order,210,0
+3,R0 reading order,211,0
+3,R0 reading order,212,0
+3,R0 reading order,213,0
+3,R0 reading order,214,0
+3,R0 reading order,215,0
+3,R0 reading order,216,0
+3,R0 reading order,217,0
+3,R0 reading order,218,0
+3,R0 reading order,219,0
+3,R0 reading order,220,0
+3,R0 reading order,221,0
+3,R0 reading order,222,0
+3,R0 reading order,223,0
+3,R0 reading order,224,0
+3,R0 reading order,225,0
+3,R0 reading order,226,0
+3,R0 reading order,227,0
+3,R0 reading order,228,0
+3,R0 reading order,229,0
+3,R0 reading order,230,0
+3,R0 reading order,231,0
+3,R0 reading order,232,0
+3,R0 reading order,233,0
+3,R0 reading order,234,0
+3,R0 reading order,235,0
+3,R0 reading order,236,0
+3,R0 reading order,237,0
+3,R0 reading order,238,1
+3,R0 reading order,239,1
+3,R0 reading order,240,1
+3,R0 reading order,241,1
+3,R0 reading order,242,1
+3,R0 reading order,243,1
+3,R0 reading order,244,1
+3,R0 reading order,245,1
+3,R0 reading order,246,1
+3,R0 reading order,247,1
+3,R0 reading order,248,1
+3,R0 reading order,249,1
+3,R0 reading order,250,1
+3,R0 reading order,251,1
+3,R0 reading order,252,1
+3,R0 reading order,253,1
+3,R0 reading order,254,1
+3,R0 reading order,255,1
+3,R0 reading order,256,1
+3,R0 reading order,257,1
+3,R0 reading order,258,1
+3,R0 reading order,259,1
+3,R0 reading order,260,1
+3,R0 reading order,261,1
+3,R0 reading order,262,1
+3,R0 reading order,263,1
+3,R0 reading order,264,1
+3,R0 reading order,265,1
+3,R0 reading order,266,1
+3,R0 reading order,267,1
+3,R0 reading order,268,1
+3,R0 reading order,269,1
+3,R0 reading order,270,1
+3,R0 reading order,271,1
+3,R0 reading order,272,1
+3,R0 reading order,273,1
+3,R0 reading order,274,1
+3,R0 reading order,275,1
+3,R0 reading order,276,1
+3,R0 reading order,277,1
+3,R0 reading order,278,1
+3,R0 reading order,279,1
+3,R0 reading order,280,1
+3,R0 reading order,281,1
+3,R0 reading order,282,1
+3,R0 reading order,283,1
+3,R0 reading order,284,1
+3,R0 reading order,285,1
+3,R0 reading order,286,1
+3,R0 reading order,287,1
+3,R0 reading order,288,1
+3,B0 keyword,1,0
+3,B0 keyword,2,0
+3,B0 keyword,3,0
+3,B0 keyword,4,0
+3,B0 keyword,5,0
+3,B0 keyword,6,0
+3,B0 keyword,7,0
+3,B0 keyword,8,0
+3,B0 keyword,9,0
+3,B0 keyword,10,0
+3,B0 keyword,11,0
+3,B0 keyword,12,0
+3,B0 keyword,13,0
+3,B0 keyword,14,0
+3,B0 keyword,15,0
+3,B0 keyword,16,0
+3,B0 keyword,17,0
+3,B0 keyword,18,0
+3,B0 keyword,19,0
+3,B0 keyword,20,0
+3,B0 keyword,21,0
+3,B0 keyword,22,0
+3,B0 keyword,23,0
+3,B0 keyword,24,0
+3,B0 keyword,25,0
+3,B0 keyword,26,0
+3,B0 keyword,27,0
+3,B0 keyword,28,0
+3,B0 keyword,29,0
+3,B0 keyword,30,0
+3,B0 keyword,31,0
+3,B0 keyword,32,0
+3,B0 keyword,33,0
+3,B0 keyword,34,0
+3,B0 keyword,35,0
+3,B0 keyword,36,0
+3,B0 keyword,37,0
+3,B0 keyword,38,0
+3,B0 keyword,39,0
+3,B0 keyword,40,0
+3,B0 keyword,41,0
+3,B0 keyword,42,0
+3,B0 keyword,43,0
+3,B0 keyword,44,0
+3,B0 keyword,45,0
+3,B0 keyword,46,0
+3,B0 keyword,47,0
+3,B0 keyword,48,0
+3,B0 keyword,49,0
+3,B0 keyword,50,0
+3,B0 keyword,51,0
+3,B0 keyword,52,0
+3,B0 keyword,53,0
+3,B0 keyword,54,0
+3,B0 keyword,55,0
+3,B0 keyword,56,0
+3,B0 keyword,57,0
+3,B0 keyword,58,0
+3,B0 keyword,59,0
+3,B0 keyword,60,0
+3,B0 keyword,61,0
+3,B0 keyword,62,0
+3,B0 keyword,63,0
+3,B0 keyword,64,0
+3,B0 keyword,65,0
+3,B0 keyword,66,0
+3,B0 keyword,67,0
+3,B0 keyword,68,0
+3,B0 keyword,69,0
+3,B0 keyword,70,0
+3,B0 keyword,71,0
+3,B0 keyword,72,0
+3,B0 keyword,73,0
+3,B0 keyword,74,0
+3,B0 keyword,75,0
+3,B0 keyword,76,0
+3,B0 keyword,77,0
+3,B0 keyword,78,0
+3,B0 keyword,79,0
+3,B0 keyword,80,0
+3,B0 keyword,81,0
+3,B0 keyword,82,0
+3,B0 keyword,83,0
+3,B0 keyword,84,0
+3,B0 keyword,85,0
+3,B0 keyword,86,0
+3,B0 keyword,87,0
+3,B0 keyword,88,0
+3,B0 keyword,89,0
+3,B0 keyword,90,0
+3,B0 keyword,91,0
+3,B0 keyword,92,0
+3,B0 keyword,93,0
+3,B0 keyword,94,0
+3,B0 keyword,95,0
+3,B0 keyword,96,0
+3,B0 keyword,97,0
+3,B0 keyword,98,0
+3,B0 keyword,99,0
+3,B0 keyword,100,0
+3,B0 keyword,101,0
+3,B0 keyword,102,0
+3,B0 keyword,103,0
+3,B0 keyword,104,0
+3,B0 keyword,105,0
+3,B0 keyword,106,0
+3,B0 keyword,107,0
+3,B0 keyword,108,0
+3,B0 keyword,109,0
+3,B0 keyword,110,0
+3,B0 keyword,111,0
+3,B0 keyword,112,0
+3,B0 keyword,113,0
+3,B0 keyword,114,0
+3,B0 keyword,115,0
+3,B0 keyword,116,0
+3,B0 keyword,117,0
+3,B0 keyword,118,0
+3,B0 keyword,119,0
+3,B0 keyword,120,0
+3,B0 keyword,121,0
+3,B0 keyword,122,0
+3,B0 keyword,123,0
+3,B0 keyword,124,0
+3,B0 keyword,125,0
+3,B0 keyword,126,0
+3,B0 keyword,127,0
+3,B0 keyword,128,0
+3,B0 keyword,129,0
+3,B0 keyword,130,0
+3,B0 keyword,131,0
+3,B0 keyword,132,0
+3,B0 keyword,133,0
+3,B0 keyword,134,0
+3,B0 keyword,135,0
+3,B0 keyword,136,0
+3,B0 keyword,137,0
+3,B0 keyword,138,0
+3,B0 keyword,139,0
+3,B0 keyword,140,0
+3,B0 keyword,141,0
+3,B0 keyword,142,0
+3,B0 keyword,143,0
+3,B0 keyword,144,0
+3,B0 keyword,145,0
+3,B0 keyword,146,0
+3,B0 keyword,147,0
+3,B0 keyword,148,0
+3,B0 keyword,149,0
+3,B0 keyword,150,0
+3,B0 keyword,151,0
+3,B0 keyword,152,0
+3,B0 keyword,153,0
+3,B0 keyword,154,0
+3,B0 keyword,155,0
+3,B0 keyword,156,0
+3,B0 keyword,157,0
+3,B0 keyword,158,0
+3,B0 keyword,159,0
+3,B0 keyword,160,0
+3,B0 keyword,161,0
+3,B0 keyword,162,0
+3,B0 keyword,163,0
+3,B0 keyword,164,0
+3,B0 keyword,165,0
+3,B0 keyword,166,0
+3,B0 keyword,167,0
+3,B0 keyword,168,0
+3,B0 keyword,169,0
+3,B0 keyword,170,0
+3,B0 keyword,171,0
+3,B0 keyword,172,0
+3,B0 keyword,173,0
+3,B0 keyword,174,0
+3,B0 keyword,175,0
+3,B0 keyword,176,0
+3,B0 keyword,177,0
+3,B0 keyword,178,0
+3,B0 keyword,179,0
+3,B0 keyword,180,0
+3,B0 keyword,181,0
+3,B0 keyword,182,0
+3,B0 keyword,183,0
+3,B0 keyword,184,0
+3,B0 keyword,185,0
+3,B0 keyword,186,0
+3,B0 keyword,187,0
+3,B0 keyword,188,0
+3,B0 keyword,189,0
+3,B0 keyword,190,0
+3,B0 keyword,191,0
+3,B0 keyword,192,0
+3,B0 keyword,193,0
+3,B0 keyword,194,0
+3,B0 keyword,195,0
+3,B0 keyword,196,0
+3,B0 keyword,197,0
+3,B0 keyword,198,0
+3,B0 keyword,199,0
+3,B0 keyword,200,0
+3,B0 keyword,201,0
+3,B0 keyword,202,0
+3,B0 keyword,203,0
+3,B0 keyword,204,0
+3,B0 keyword,205,0
+3,B0 keyword,206,0
+3,B0 keyword,207,0
+3,B0 keyword,208,0
+3,B0 keyword,209,0
+3,B0 keyword,210,0
+3,B0 keyword,211,0
+3,B0 keyword,212,0
+3,B0 keyword,213,0
+3,B0 keyword,214,0
+3,B0 keyword,215,0
+3,B0 keyword,216,0
+3,B0 keyword,217,0
+3,B0 keyword,218,0
+3,B0 keyword,219,0
+3,B0 keyword,220,0
+3,B0 keyword,221,0
+3,B0 keyword,222,0
+3,B0 keyword,223,0
+3,B0 keyword,224,0
+3,B0 keyword,225,0
+3,B0 keyword,226,0
+3,B0 keyword,227,0
+3,B0 keyword,228,0
+3,B0 keyword,229,0
+3,B0 keyword,230,0
+3,B0 keyword,231,0
+3,B0 keyword,232,0
+3,B0 keyword,233,0
+3,B0 keyword,234,0
+3,B0 keyword,235,0
+3,B0 keyword,236,0
+3,B0 keyword,237,0
+3,B0 keyword,238,1
+3,B0 keyword,239,1
+3,B0 keyword,240,1
+3,B0 keyword,241,1
+3,B0 keyword,242,1
+3,B0 keyword,243,1
+3,B0 keyword,244,1
+3,B0 keyword,245,1
+3,B0 keyword,246,1
+3,B0 keyword,247,1
+3,B0 keyword,248,1
+3,B0 keyword,249,1
+3,B0 keyword,250,1
+3,B0 keyword,251,1
+3,B0 keyword,252,1
+3,B0 keyword,253,1
+3,B0 keyword,254,1
+3,B0 keyword,255,1
+3,B0 keyword,256,1
+3,B0 keyword,257,1
+3,B0 keyword,258,1
+3,B0 keyword,259,1
+3,B0 keyword,260,1
+3,B0 keyword,261,1
+3,B0 keyword,262,1
+3,B0 keyword,263,1
+3,B0 keyword,264,1
+3,B0 keyword,265,1
+3,B0 keyword,266,1
+3,B0 keyword,267,1
+3,B0 keyword,268,1
+3,B0 keyword,269,1
+3,B0 keyword,270,1
+3,B0 keyword,271,1
+3,B0 keyword,272,1
+3,B0 keyword,273,1
+3,B0 keyword,274,1
+3,B0 keyword,275,1
+3,B0 keyword,276,1
+3,B0 keyword,277,1
+3,B0 keyword,278,1
+3,B0 keyword,279,1
+3,B0 keyword,280,1
+3,B0 keyword,281,1
+3,B0 keyword,282,1
+3,B0 keyword,283,1
+3,B0 keyword,284,1
+3,B0 keyword,285,1
+3,B0 keyword,286,1
+3,B0 keyword,287,1
+3,B0 keyword,288,1
+3,B0-literal,1,0
+3,B0-literal,2,0
+3,B0-literal,3,0
+3,B0-literal,4,0
+3,B0-literal,5,0
+3,B0-literal,6,0
+3,B0-literal,7,0
+3,B0-literal,8,0
+3,B0-literal,9,0
+3,B0-literal,10,0
+3,B0-literal,11,0
+3,B0-literal,12,0
+3,B0-literal,13,0
+3,B0-literal,14,0
+3,B0-literal,15,0
+3,B0-literal,16,0
+3,B0-literal,17,0
+3,B0-literal,18,0
+3,B0-literal,19,0
+3,B0-literal,20,0
+3,B0-literal,21,0
+3,B0-literal,22,0
+3,B0-literal,23,0
+3,B0-literal,24,0
+3,B0-literal,25,0
+3,B0-literal,26,0
+3,B0-literal,27,0
+3,B0-literal,28,0
+3,B0-literal,29,0
+3,B0-literal,30,0
+3,B0-literal,31,0
+3,B0-literal,32,0
+3,B0-literal,33,0
+3,B0-literal,34,0
+3,B0-literal,35,0
+3,B0-literal,36,0
+3,B0-literal,37,0
+3,B0-literal,38,0
+3,B0-literal,39,0
+3,B0-literal,40,0
+3,B0-literal,41,0
+3,B0-literal,42,0
+3,B0-literal,43,0
+3,B0-literal,44,0
+3,B0-literal,45,0
+3,B0-literal,46,0
+3,B0-literal,47,0
+3,B0-literal,48,0
+3,B0-literal,49,0
+3,B0-literal,50,0
+3,B0-literal,51,0
+3,B0-literal,52,0
+3,B0-literal,53,0
+3,B0-literal,54,0
+3,B0-literal,55,0
+3,B0-literal,56,0
+3,B0-literal,57,0
+3,B0-literal,58,0
+3,B0-literal,59,0
+3,B0-literal,60,0
+3,B0-literal,61,0
+3,B0-literal,62,0
+3,B0-literal,63,0
+3,B0-literal,64,0
+3,B0-literal,65,0
+3,B0-literal,66,0
+3,B0-literal,67,0
+3,B0-literal,68,0
+3,B0-literal,69,0
+3,B0-literal,70,0
+3,B0-literal,71,0
+3,B0-literal,72,0
+3,B0-literal,73,0
+3,B0-literal,74,0
+3,B0-literal,75,0
+3,B0-literal,76,0
+3,B0-literal,77,0
+3,B0-literal,78,0
+3,B0-literal,79,0
+3,B0-literal,80,0
+3,B0-literal,81,0
+3,B0-literal,82,0
+3,B0-literal,83,0
+3,B0-literal,84,0
+3,B0-literal,85,0
+3,B0-literal,86,0
+3,B0-literal,87,0
+3,B0-literal,88,0
+3,B0-literal,89,0
+3,B0-literal,90,0
+3,B0-literal,91,0
+3,B0-literal,92,0
+3,B0-literal,93,0
+3,B0-literal,94,0
+3,B0-literal,95,0
+3,B0-literal,96,0
+3,B0-literal,97,0
+3,B0-literal,98,0
+3,B0-literal,99,0
+3,B0-literal,100,0
+3,B0-literal,101,0
+3,B0-literal,102,0
+3,B0-literal,103,0
+3,B0-literal,104,0
+3,B0-literal,105,0
+3,B0-literal,106,0
+3,B0-literal,107,0
+3,B0-literal,108,0
+3,B0-literal,109,0
+3,B0-literal,110,0
+3,B0-literal,111,0
+3,B0-literal,112,0
+3,B0-literal,113,0
+3,B0-literal,114,0
+3,B0-literal,115,0
+3,B0-literal,116,0
+3,B0-literal,117,0
+3,B0-literal,118,0
+3,B0-literal,119,0
+3,B0-literal,120,0
+3,B0-literal,121,0
+3,B0-literal,122,0
+3,B0-literal,123,0
+3,B0-literal,124,0
+3,B0-literal,125,0
+3,B0-literal,126,0
+3,B0-literal,127,0
+3,B0-literal,128,0
+3,B0-literal,129,0
+3,B0-literal,130,0
+3,B0-literal,131,0
+3,B0-literal,132,0
+3,B0-literal,133,0
+3,B0-literal,134,0
+3,B0-literal,135,0
+3,B0-literal,136,0
+3,B0-literal,137,0
+3,B0-literal,138,0
+3,B0-literal,139,0
+3,B0-literal,140,0
+3,B0-literal,141,0
+3,B0-literal,142,0
+3,B0-literal,143,0
+3,B0-literal,144,0
+3,B0-literal,145,0
+3,B0-literal,146,0
+3,B0-literal,147,0
+3,B0-literal,148,0
+3,B0-literal,149,0
+3,B0-literal,150,0
+3,B0-literal,151,0
+3,B0-literal,152,0
+3,B0-literal,153,0
+3,B0-literal,154,0
+3,B0-literal,155,0
+3,B0-literal,156,0
+3,B0-literal,157,0
+3,B0-literal,158,0
+3,B0-literal,159,0
+3,B0-literal,160,0
+3,B0-literal,161,0
+3,B0-literal,162,0
+3,B0-literal,163,0
+3,B0-literal,164,0
+3,B0-literal,165,0
+3,B0-literal,166,0
+3,B0-literal,167,0
+3,B0-literal,168,0
+3,B0-literal,169,0
+3,B0-literal,170,0
+3,B0-literal,171,0
+3,B0-literal,172,0
+3,B0-literal,173,0
+3,B0-literal,174,0
+3,B0-literal,175,0
+3,B0-literal,176,0
+3,B0-literal,177,0
+3,B0-literal,178,0
+3,B0-literal,179,0
+3,B0-literal,180,0
+3,B0-literal,181,0
+3,B0-literal,182,0
+3,B0-literal,183,0
+3,B0-literal,184,0
+3,B0-literal,185,0
+3,B0-literal,186,0
+3,B0-literal,187,0
+3,B0-literal,188,0
+3,B0-literal,189,0
+3,B0-literal,190,0
+3,B0-literal,191,0
+3,B0-literal,192,0
+3,B0-literal,193,0
+3,B0-literal,194,0
+3,B0-literal,195,0
+3,B0-literal,196,0
+3,B0-literal,197,0
+3,B0-literal,198,0
+3,B0-literal,199,0
+3,B0-literal,200,0
+3,B0-literal,201,0
+3,B0-literal,202,0
+3,B0-literal,203,0
+3,B0-literal,204,0
+3,B0-literal,205,0
+3,B0-literal,206,0
+3,B0-literal,207,0
+3,B0-literal,208,0
+3,B0-literal,209,0
+3,B0-literal,210,0
+3,B0-literal,211,0
+3,B0-literal,212,0
+3,B0-literal,213,0
+3,B0-literal,214,0
+3,B0-literal,215,0
+3,B0-literal,216,0
+3,B0-literal,217,0
+3,B0-literal,218,0
+3,B0-literal,219,0
+3,B0-literal,220,0
+3,B0-literal,221,0
+3,B0-literal,222,0
+3,B0-literal,223,0
+3,B0-literal,224,0
+3,B0-literal,225,0
+3,B0-literal,226,0
+3,B0-literal,227,0
+3,B0-literal,228,0
+3,B0-literal,229,0
+3,B0-literal,230,0
+3,B0-literal,231,0
+3,B0-literal,232,0
+3,B0-literal,233,0
+3,B0-literal,234,0
+3,B0-literal,235,0
+3,B0-literal,236,0
+3,B0-literal,237,0
+3,B0-literal,238,1
+3,B0-literal,239,1
+3,B0-literal,240,1
+3,B0-literal,241,1
+3,B0-literal,242,1
+3,B0-literal,243,1
+3,B0-literal,244,1
+3,B0-literal,245,1
+3,B0-literal,246,1
+3,B0-literal,247,1
+3,B0-literal,248,1
+3,B0-literal,249,1
+3,B0-literal,250,1
+3,B0-literal,251,1
+3,B0-literal,252,1
+3,B0-literal,253,1
+3,B0-literal,254,1
+3,B0-literal,255,1
+3,B0-literal,256,1
+3,B0-literal,257,1
+3,B0-literal,258,1
+3,B0-literal,259,1
+3,B0-literal,260,1
+3,B0-literal,261,1
+3,B0-literal,262,1
+3,B0-literal,263,1
+3,B0-literal,264,1
+3,B0-literal,265,1
+3,B0-literal,266,1
+3,B0-literal,267,1
+3,B0-literal,268,1
+3,B0-literal,269,1
+3,B0-literal,270,1
+3,B0-literal,271,1
+3,B0-literal,272,1
+3,B0-literal,273,1
+3,B0-literal,274,1
+3,B0-literal,275,1
+3,B0-literal,276,1
+3,B0-literal,277,1
+3,B0-literal,278,1
+3,B0-literal,279,1
+3,B0-literal,280,1
+3,B0-literal,281,1
+3,B0-literal,282,1
+3,B0-literal,283,1
+3,B0-literal,284,1
+3,B0-literal,285,1
+3,B0-literal,286,1
+3,B0-literal,287,1
+3,B0-literal,288,1
+3,B1 lexicon exact,1,1
+3,B1 lexicon exact,2,1
+3,B1 lexicon exact,3,1
+3,B1 lexicon exact,4,1
+3,B1 lexicon exact,5,1
+3,B1 lexicon exact,6,1
+3,B1 lexicon exact,7,1
+3,B1 lexicon exact,8,1
+3,B1 lexicon exact,9,1
+3,B1 lexicon exact,10,1
+3,B1 lexicon exact,11,1
+3,B1 lexicon exact,12,1
+3,B1 lexicon exact,13,1
+3,B1 lexicon exact,14,1
+3,B1 lexicon exact,15,1
+3,B1 lexicon exact,16,1
+3,B1 lexicon exact,17,1
+3,B1 lexicon exact,18,1
+3,B1 lexicon exact,19,1
+3,B1 lexicon exact,20,1
+3,B1 lexicon exact,21,1
+3,B1 lexicon exact,22,1
+3,B1 lexicon exact,23,1
+3,B1 lexicon exact,24,1
+3,B1 lexicon exact,25,1
+3,B1 lexicon exact,26,1
+3,B1 lexicon exact,27,1
+3,B1 lexicon exact,28,1
+3,B1 lexicon exact,29,1
+3,B1 lexicon exact,30,1
+3,B1 lexicon exact,31,1
+3,B1 lexicon exact,32,1
+3,B1 lexicon exact,33,1
+3,B1 lexicon exact,34,1
+3,B1 lexicon exact,35,1
+3,B1 lexicon exact,36,1
+3,B1 lexicon exact,37,1
+3,B1 lexicon exact,38,1
+3,B1 lexicon exact,39,1
+3,B1 lexicon exact,40,1
+3,B1 lexicon exact,41,1
+3,B1 lexicon exact,42,1
+3,B1 lexicon exact,43,1
+3,B1 lexicon exact,44,1
+3,B1 lexicon exact,45,1
+3,B1 lexicon exact,46,1
+3,B1 lexicon exact,47,1
+3,B1 lexicon exact,48,1
+3,B1 lexicon exact,49,1
+3,B1 lexicon exact,50,1
+3,B1 lexicon exact,51,1
+3,B1 lexicon exact,52,1
+3,B1 lexicon exact,53,1
+3,B1 lexicon exact,54,1
+3,B1 lexicon exact,55,1
+3,B1 lexicon exact,56,1
+3,B1 lexicon exact,57,1
+3,B1 lexicon exact,58,1
+3,B1 lexicon exact,59,1
+3,B1 lexicon exact,60,1
+3,B1 lexicon exact,61,1
+3,B1 lexicon exact,62,1
+3,B1 lexicon exact,63,1
+3,B1 lexicon exact,64,1
+3,B1 lexicon exact,65,1
+3,B1 lexicon exact,66,1
+3,B1 lexicon exact,67,1
+3,B1 lexicon exact,68,1
+3,B1 lexicon exact,69,1
+3,B1 lexicon exact,70,1
+3,B1 lexicon exact,71,1
+3,B1 lexicon exact,72,1
+3,B1 lexicon exact,73,1
+3,B1 lexicon exact,74,1
+3,B1 lexicon exact,75,1
+3,B1 lexicon exact,76,1
+3,B1 lexicon exact,77,1
+3,B1 lexicon exact,78,1
+3,B1 lexicon exact,79,1
+3,B1 lexicon exact,80,1
+3,B1 lexicon exact,81,1
+3,B1 lexicon exact,82,1
+3,B1 lexicon exact,83,1
+3,B1 lexicon exact,84,1
+3,B1 lexicon exact,85,1
+3,B1 lexicon exact,86,1
+3,B1 lexicon exact,87,1
+3,B1 lexicon exact,88,1
+3,B1 lexicon exact,89,1
+3,B1 lexicon exact,90,1
+3,B1 lexicon exact,91,1
+3,B1 lexicon exact,92,1
+3,B1 lexicon exact,93,1
+3,B1 lexicon exact,94,1
+3,B1 lexicon exact,95,1
+3,B1 lexicon exact,96,1
+3,B1 lexicon exact,97,1
+3,B1 lexicon exact,98,1
+3,B1 lexicon exact,99,1
+3,B1 lexicon exact,100,1
+3,B1 lexicon exact,101,1
+3,B1 lexicon exact,102,1
+3,B1 lexicon exact,103,1
+3,B1 lexicon exact,104,1
+3,B1 lexicon exact,105,1
+3,B1 lexicon exact,106,1
+3,B1 lexicon exact,107,1
+3,B1 lexicon exact,108,1
+3,B1 lexicon exact,109,1
+3,B1 lexicon exact,110,1
+3,B1 lexicon exact,111,1
+3,B1 lexicon exact,112,1
+3,B1 lexicon exact,113,1
+3,B1 lexicon exact,114,1
+3,B1 lexicon exact,115,1
+3,B1 lexicon exact,116,1
+3,B1 lexicon exact,117,1
+3,B1 lexicon exact,118,1
+3,B1 lexicon exact,119,1
+3,B1 lexicon exact,120,1
+3,B1 lexicon exact,121,1
+3,B1 lexicon exact,122,1
+3,B1 lexicon exact,123,1
+3,B1 lexicon exact,124,1
+3,B1 lexicon exact,125,1
+3,B1 lexicon exact,126,1
+3,B1 lexicon exact,127,1
+3,B1 lexicon exact,128,1
+3,B1 lexicon exact,129,1
+3,B1 lexicon exact,130,1
+3,B1 lexicon exact,131,1
+3,B1 lexicon exact,132,1
+3,B1 lexicon exact,133,1
+3,B1 lexicon exact,134,1
+3,B1 lexicon exact,135,1
+3,B1 lexicon exact,136,1
+3,B1 lexicon exact,137,1
+3,B1 lexicon exact,138,1
+3,B1 lexicon exact,139,1
+3,B1 lexicon exact,140,1
+3,B1 lexicon exact,141,1
+3,B1 lexicon exact,142,1
+3,B1 lexicon exact,143,1
+3,B1 lexicon exact,144,1
+3,B1 lexicon exact,145,1
+3,B1 lexicon exact,146,1
+3,B1 lexicon exact,147,1
+3,B1 lexicon exact,148,1
+3,B1 lexicon exact,149,1
+3,B1 lexicon exact,150,1
+3,B1 lexicon exact,151,1
+3,B1 lexicon exact,152,1
+3,B1 lexicon exact,153,1
+3,B1 lexicon exact,154,1
+3,B1 lexicon exact,155,1
+3,B1 lexicon exact,156,1
+3,B1 lexicon exact,157,1
+3,B1 lexicon exact,158,1
+3,B1 lexicon exact,159,1
+3,B1 lexicon exact,160,1
+3,B1 lexicon exact,161,1
+3,B1 lexicon exact,162,1
+3,B1 lexicon exact,163,1
+3,B1 lexicon exact,164,1
+3,B1 lexicon exact,165,1
+3,B1 lexicon exact,166,1
+3,B1 lexicon exact,167,1
+3,B1 lexicon exact,168,1
+3,B1 lexicon exact,169,1
+3,B1 lexicon exact,170,1
+3,B1 lexicon exact,171,1
+3,B1 lexicon exact,172,1
+3,B1 lexicon exact,173,1
+3,B1 lexicon exact,174,1
+3,B1 lexicon exact,175,1
+3,B1 lexicon exact,176,1
+3,B1 lexicon exact,177,1
+3,B1 lexicon exact,178,1
+3,B1 lexicon exact,179,1
+3,B1 lexicon exact,180,1
+3,B1 lexicon exact,181,1
+3,B1 lexicon exact,182,1
+3,B1 lexicon exact,183,1
+3,B1 lexicon exact,184,1
+3,B1 lexicon exact,185,1
+3,B1 lexicon exact,186,1
+3,B1 lexicon exact,187,1
+3,B1 lexicon exact,188,1
+3,B1 lexicon exact,189,1
+3,B1 lexicon exact,190,1
+3,B1 lexicon exact,191,1
+3,B1 lexicon exact,192,1
+3,B1 lexicon exact,193,1
+3,B1 lexicon exact,194,1
+3,B1 lexicon exact,195,1
+3,B1 lexicon exact,196,1
+3,B1 lexicon exact,197,1
+3,B1 lexicon exact,198,1
+3,B1 lexicon exact,199,1
+3,B1 lexicon exact,200,1
+3,B1 lexicon exact,201,1
+3,B1 lexicon exact,202,1
+3,B1 lexicon exact,203,1
+3,B1 lexicon exact,204,1
+3,B1 lexicon exact,205,1
+3,B1 lexicon exact,206,1
+3,B1 lexicon exact,207,1
+3,B1 lexicon exact,208,1
+3,B1 lexicon exact,209,1
+3,B1 lexicon exact,210,1
+3,B1 lexicon exact,211,1
+3,B1 lexicon exact,212,1
+3,B1 lexicon exact,213,1
+3,B1 lexicon exact,214,1
+3,B1 lexicon exact,215,1
+3,B1 lexicon exact,216,1
+3,B1 lexicon exact,217,1
+3,B1 lexicon exact,218,1
+3,B1 lexicon exact,219,1
+3,B1 lexicon exact,220,1
+3,B1 lexicon exact,221,1
+3,B1 lexicon exact,222,1
+3,B1 lexicon exact,223,1
+3,B1 lexicon exact,224,1
+3,B1 lexicon exact,225,1
+3,B1 lexicon exact,226,1
+3,B1 lexicon exact,227,1
+3,B1 lexicon exact,228,1
+3,B1 lexicon exact,229,1
+3,B1 lexicon exact,230,1
+3,B1 lexicon exact,231,1
+3,B1 lexicon exact,232,1
+3,B1 lexicon exact,233,1
+3,B1 lexicon exact,234,1
+3,B1 lexicon exact,235,1
+3,B1 lexicon exact,236,1
+3,B1 lexicon exact,237,1
+3,B1 lexicon exact,238,1
+3,B1 lexicon exact,239,1
+3,B1 lexicon exact,240,1
+3,B1 lexicon exact,241,1
+3,B1 lexicon exact,242,1
+3,B1 lexicon exact,243,1
+3,B1 lexicon exact,244,1
+3,B1 lexicon exact,245,1
+3,B1 lexicon exact,246,1
+3,B1 lexicon exact,247,1
+3,B1 lexicon exact,248,1
+3,B1 lexicon exact,249,1
+3,B1 lexicon exact,250,1
+3,B1 lexicon exact,251,1
+3,B1 lexicon exact,252,1
+3,B1 lexicon exact,253,1
+3,B1 lexicon exact,254,1
+3,B1 lexicon exact,255,1
+3,B1 lexicon exact,256,1
+3,B1 lexicon exact,257,1
+3,B1 lexicon exact,258,1
+3,B1 lexicon exact,259,1
+3,B1 lexicon exact,260,1
+3,B1 lexicon exact,261,1
+3,B1 lexicon exact,262,1
+3,B1 lexicon exact,263,1
+3,B1 lexicon exact,264,1
+3,B1 lexicon exact,265,1
+3,B1 lexicon exact,266,1
+3,B1 lexicon exact,267,1
+3,B1 lexicon exact,268,1
+3,B1 lexicon exact,269,1
+3,B1 lexicon exact,270,1
+3,B1 lexicon exact,271,1
+3,B1 lexicon exact,272,1
+3,B1 lexicon exact,273,1
+3,B1 lexicon exact,274,1
+3,B1 lexicon exact,275,1
+3,B1 lexicon exact,276,1
+3,B1 lexicon exact,277,1
+3,B1 lexicon exact,278,1
+3,B1 lexicon exact,279,1
+3,B1 lexicon exact,280,1
+3,B1 lexicon exact,281,1
+3,B1 lexicon exact,282,1
+3,B1 lexicon exact,283,1
+3,B1 lexicon exact,284,1
+3,B1 lexicon exact,285,1
+3,B1 lexicon exact,286,1
+3,B1 lexicon exact,287,1
+3,B1 lexicon exact,288,1
+3,S1 lexicon fuzzy,1,0
+3,S1 lexicon fuzzy,2,1
+3,S1 lexicon fuzzy,3,1
+3,S1 lexicon fuzzy,4,1
+3,S1 lexicon fuzzy,5,1
+3,S1 lexicon fuzzy,6,1
+3,S1 lexicon fuzzy,7,1
+3,S1 lexicon fuzzy,8,1
+3,S1 lexicon fuzzy,9,1
+3,S1 lexicon fuzzy,10,1
+3,S1 lexicon fuzzy,11,1
+3,S1 lexicon fuzzy,12,1
+3,S1 lexicon fuzzy,13,1
+3,S1 lexicon fuzzy,14,1
+3,S1 lexicon fuzzy,15,1
+3,S1 lexicon fuzzy,16,1
+3,S1 lexicon fuzzy,17,1
+3,S1 lexicon fuzzy,18,1
+3,S1 lexicon fuzzy,19,1
+3,S1 lexicon fuzzy,20,1
+3,S1 lexicon fuzzy,21,1
+3,S1 lexicon fuzzy,22,1
+3,S1 lexicon fuzzy,23,1
+3,S1 lexicon fuzzy,24,1
+3,S1 lexicon fuzzy,25,1
+3,S1 lexicon fuzzy,26,1
+3,S1 lexicon fuzzy,27,1
+3,S1 lexicon fuzzy,28,1
+3,S1 lexicon fuzzy,29,1
+3,S1 lexicon fuzzy,30,1
+3,S1 lexicon fuzzy,31,1
+3,S1 lexicon fuzzy,32,1
+3,S1 lexicon fuzzy,33,1
+3,S1 lexicon fuzzy,34,1
+3,S1 lexicon fuzzy,35,1
+3,S1 lexicon fuzzy,36,1
+3,S1 lexicon fuzzy,37,1
+3,S1 lexicon fuzzy,38,1
+3,S1 lexicon fuzzy,39,1
+3,S1 lexicon fuzzy,40,1
+3,S1 lexicon fuzzy,41,1
+3,S1 lexicon fuzzy,42,1
+3,S1 lexicon fuzzy,43,1
+3,S1 lexicon fuzzy,44,1
+3,S1 lexicon fuzzy,45,1
+3,S1 lexicon fuzzy,46,1
+3,S1 lexicon fuzzy,47,1
+3,S1 lexicon fuzzy,48,1
+3,S1 lexicon fuzzy,49,1
+3,S1 lexicon fuzzy,50,1
+3,S1 lexicon fuzzy,51,1
+3,S1 lexicon fuzzy,52,1
+3,S1 lexicon fuzzy,53,1
+3,S1 lexicon fuzzy,54,1
+3,S1 lexicon fuzzy,55,1
+3,S1 lexicon fuzzy,56,1
+3,S1 lexicon fuzzy,57,1
+3,S1 lexicon fuzzy,58,1
+3,S1 lexicon fuzzy,59,1
+3,S1 lexicon fuzzy,60,1
+3,S1 lexicon fuzzy,61,1
+3,S1 lexicon fuzzy,62,1
+3,S1 lexicon fuzzy,63,1
+3,S1 lexicon fuzzy,64,1
+3,S1 lexicon fuzzy,65,1
+3,S1 lexicon fuzzy,66,1
+3,S1 lexicon fuzzy,67,1
+3,S1 lexicon fuzzy,68,1
+3,S1 lexicon fuzzy,69,1
+3,S1 lexicon fuzzy,70,1
+3,S1 lexicon fuzzy,71,1
+3,S1 lexicon fuzzy,72,1
+3,S1 lexicon fuzzy,73,1
+3,S1 lexicon fuzzy,74,1
+3,S1 lexicon fuzzy,75,1
+3,S1 lexicon fuzzy,76,1
+3,S1 lexicon fuzzy,77,1
+3,S1 lexicon fuzzy,78,1
+3,S1 lexicon fuzzy,79,1
+3,S1 lexicon fuzzy,80,1
+3,S1 lexicon fuzzy,81,1
+3,S1 lexicon fuzzy,82,1
+3,S1 lexicon fuzzy,83,1
+3,S1 lexicon fuzzy,84,1
+3,S1 lexicon fuzzy,85,1
+3,S1 lexicon fuzzy,86,1
+3,S1 lexicon fuzzy,87,1
+3,S1 lexicon fuzzy,88,1
+3,S1 lexicon fuzzy,89,1
+3,S1 lexicon fuzzy,90,1
+3,S1 lexicon fuzzy,91,1
+3,S1 lexicon fuzzy,92,1
+3,S1 lexicon fuzzy,93,1
+3,S1 lexicon fuzzy,94,1
+3,S1 lexicon fuzzy,95,1
+3,S1 lexicon fuzzy,96,1
+3,S1 lexicon fuzzy,97,1
+3,S1 lexicon fuzzy,98,1
+3,S1 lexicon fuzzy,99,1
+3,S1 lexicon fuzzy,100,1
+3,S1 lexicon fuzzy,101,1
+3,S1 lexicon fuzzy,102,1
+3,S1 lexicon fuzzy,103,1
+3,S1 lexicon fuzzy,104,1
+3,S1 lexicon fuzzy,105,1
+3,S1 lexicon fuzzy,106,1
+3,S1 lexicon fuzzy,107,1
+3,S1 lexicon fuzzy,108,1
+3,S1 lexicon fuzzy,109,1
+3,S1 lexicon fuzzy,110,1
+3,S1 lexicon fuzzy,111,1
+3,S1 lexicon fuzzy,112,1
+3,S1 lexicon fuzzy,113,1
+3,S1 lexicon fuzzy,114,1
+3,S1 lexicon fuzzy,115,1
+3,S1 lexicon fuzzy,116,1
+3,S1 lexicon fuzzy,117,1
+3,S1 lexicon fuzzy,118,1
+3,S1 lexicon fuzzy,119,1
+3,S1 lexicon fuzzy,120,1
+3,S1 lexicon fuzzy,121,1
+3,S1 lexicon fuzzy,122,1
+3,S1 lexicon fuzzy,123,1
+3,S1 lexicon fuzzy,124,1
+3,S1 lexicon fuzzy,125,1
+3,S1 lexicon fuzzy,126,1
+3,S1 lexicon fuzzy,127,1
+3,S1 lexicon fuzzy,128,1
+3,S1 lexicon fuzzy,129,1
+3,S1 lexicon fuzzy,130,1
+3,S1 lexicon fuzzy,131,1
+3,S1 lexicon fuzzy,132,1
+3,S1 lexicon fuzzy,133,1
+3,S1 lexicon fuzzy,134,1
+3,S1 lexicon fuzzy,135,1
+3,S1 lexicon fuzzy,136,1
+3,S1 lexicon fuzzy,137,1
+3,S1 lexicon fuzzy,138,1
+3,S1 lexicon fuzzy,139,1
+3,S1 lexicon fuzzy,140,1
+3,S1 lexicon fuzzy,141,1
+3,S1 lexicon fuzzy,142,1
+3,S1 lexicon fuzzy,143,1
+3,S1 lexicon fuzzy,144,1
+3,S1 lexicon fuzzy,145,1
+3,S1 lexicon fuzzy,146,1
+3,S1 lexicon fuzzy,147,1
+3,S1 lexicon fuzzy,148,1
+3,S1 lexicon fuzzy,149,1
+3,S1 lexicon fuzzy,150,1
+3,S1 lexicon fuzzy,151,1
+3,S1 lexicon fuzzy,152,1
+3,S1 lexicon fuzzy,153,1
+3,S1 lexicon fuzzy,154,1
+3,S1 lexicon fuzzy,155,1
+3,S1 lexicon fuzzy,156,1
+3,S1 lexicon fuzzy,157,1
+3,S1 lexicon fuzzy,158,1
+3,S1 lexicon fuzzy,159,1
+3,S1 lexicon fuzzy,160,1
+3,S1 lexicon fuzzy,161,1
+3,S1 lexicon fuzzy,162,1
+3,S1 lexicon fuzzy,163,1
+3,S1 lexicon fuzzy,164,1
+3,S1 lexicon fuzzy,165,1
+3,S1 lexicon fuzzy,166,1
+3,S1 lexicon fuzzy,167,1
+3,S1 lexicon fuzzy,168,1
+3,S1 lexicon fuzzy,169,1
+3,S1 lexicon fuzzy,170,1
+3,S1 lexicon fuzzy,171,1
+3,S1 lexicon fuzzy,172,1
+3,S1 lexicon fuzzy,173,1
+3,S1 lexicon fuzzy,174,1
+3,S1 lexicon fuzzy,175,1
+3,S1 lexicon fuzzy,176,1
+3,S1 lexicon fuzzy,177,1
+3,S1 lexicon fuzzy,178,1
+3,S1 lexicon fuzzy,179,1
+3,S1 lexicon fuzzy,180,1
+3,S1 lexicon fuzzy,181,1
+3,S1 lexicon fuzzy,182,1
+3,S1 lexicon fuzzy,183,1
+3,S1 lexicon fuzzy,184,1
+3,S1 lexicon fuzzy,185,1
+3,S1 lexicon fuzzy,186,1
+3,S1 lexicon fuzzy,187,1
+3,S1 lexicon fuzzy,188,1
+3,S1 lexicon fuzzy,189,1
+3,S1 lexicon fuzzy,190,1
+3,S1 lexicon fuzzy,191,1
+3,S1 lexicon fuzzy,192,1
+3,S1 lexicon fuzzy,193,1
+3,S1 lexicon fuzzy,194,1
+3,S1 lexicon fuzzy,195,1
+3,S1 lexicon fuzzy,196,1
+3,S1 lexicon fuzzy,197,1
+3,S1 lexicon fuzzy,198,1
+3,S1 lexicon fuzzy,199,1
+3,S1 lexicon fuzzy,200,1
+3,S1 lexicon fuzzy,201,1
+3,S1 lexicon fuzzy,202,1
+3,S1 lexicon fuzzy,203,1
+3,S1 lexicon fuzzy,204,1
+3,S1 lexicon fuzzy,205,1
+3,S1 lexicon fuzzy,206,1
+3,S1 lexicon fuzzy,207,1
+3,S1 lexicon fuzzy,208,1
+3,S1 lexicon fuzzy,209,1
+3,S1 lexicon fuzzy,210,1
+3,S1 lexicon fuzzy,211,1
+3,S1 lexicon fuzzy,212,1
+3,S1 lexicon fuzzy,213,1
+3,S1 lexicon fuzzy,214,1
+3,S1 lexicon fuzzy,215,1
+3,S1 lexicon fuzzy,216,1
+3,S1 lexicon fuzzy,217,1
+3,S1 lexicon fuzzy,218,1
+3,S1 lexicon fuzzy,219,1
+3,S1 lexicon fuzzy,220,1
+3,S1 lexicon fuzzy,221,1
+3,S1 lexicon fuzzy,222,1
+3,S1 lexicon fuzzy,223,1
+3,S1 lexicon fuzzy,224,1
+3,S1 lexicon fuzzy,225,1
+3,S1 lexicon fuzzy,226,1
+3,S1 lexicon fuzzy,227,1
+3,S1 lexicon fuzzy,228,1
+3,S1 lexicon fuzzy,229,1
+3,S1 lexicon fuzzy,230,1
+3,S1 lexicon fuzzy,231,1
+3,S1 lexicon fuzzy,232,1
+3,S1 lexicon fuzzy,233,1
+3,S1 lexicon fuzzy,234,1
+3,S1 lexicon fuzzy,235,1
+3,S1 lexicon fuzzy,236,1
+3,S1 lexicon fuzzy,237,1
+3,S1 lexicon fuzzy,238,1
+3,S1 lexicon fuzzy,239,1
+3,S1 lexicon fuzzy,240,1
+3,S1 lexicon fuzzy,241,1
+3,S1 lexicon fuzzy,242,1
+3,S1 lexicon fuzzy,243,1
+3,S1 lexicon fuzzy,244,1
+3,S1 lexicon fuzzy,245,1
+3,S1 lexicon fuzzy,246,1
+3,S1 lexicon fuzzy,247,1
+3,S1 lexicon fuzzy,248,1
+3,S1 lexicon fuzzy,249,1
+3,S1 lexicon fuzzy,250,1
+3,S1 lexicon fuzzy,251,1
+3,S1 lexicon fuzzy,252,1
+3,S1 lexicon fuzzy,253,1
+3,S1 lexicon fuzzy,254,1
+3,S1 lexicon fuzzy,255,1
+3,S1 lexicon fuzzy,256,1
+3,S1 lexicon fuzzy,257,1
+3,S1 lexicon fuzzy,258,1
+3,S1 lexicon fuzzy,259,1
+3,S1 lexicon fuzzy,260,1
+3,S1 lexicon fuzzy,261,1
+3,S1 lexicon fuzzy,262,1
+3,S1 lexicon fuzzy,263,1
+3,S1 lexicon fuzzy,264,1
+3,S1 lexicon fuzzy,265,1
+3,S1 lexicon fuzzy,266,1
+3,S1 lexicon fuzzy,267,1
+3,S1 lexicon fuzzy,268,1
+3,S1 lexicon fuzzy,269,1
+3,S1 lexicon fuzzy,270,1
+3,S1 lexicon fuzzy,271,1
+3,S1 lexicon fuzzy,272,1
+3,S1 lexicon fuzzy,273,1
+3,S1 lexicon fuzzy,274,1
+3,S1 lexicon fuzzy,275,1
+3,S1 lexicon fuzzy,276,1
+3,S1 lexicon fuzzy,277,1
+3,S1 lexicon fuzzy,278,1
+3,S1 lexicon fuzzy,279,1
+3,S1 lexicon fuzzy,280,1
+3,S1 lexicon fuzzy,281,1
+3,S1 lexicon fuzzy,282,1
+3,S1 lexicon fuzzy,283,1
+3,S1 lexicon fuzzy,284,1
+3,S1 lexicon fuzzy,285,1
+3,S1 lexicon fuzzy,286,1
+3,S1 lexicon fuzzy,287,1
+3,S1 lexicon fuzzy,288,1
+3,S2 dense,1,0
+3,S2 dense,2,0
+3,S2 dense,3,0
+3,S2 dense,4,1
+3,S2 dense,5,1
+3,S2 dense,6,1
+3,S2 dense,7,1
+3,S2 dense,8,1
+3,S2 dense,9,1
+3,S2 dense,10,1
+3,S2 dense,11,1
+3,S2 dense,12,1
+3,S2 dense,13,1
+3,S2 dense,14,1
+3,S2 dense,15,1
+3,S2 dense,16,1
+3,S2 dense,17,1
+3,S2 dense,18,1
+3,S2 dense,19,1
+3,S2 dense,20,1
+3,S2 dense,21,1
+3,S2 dense,22,1
+3,S2 dense,23,1
+3,S2 dense,24,1
+3,S2 dense,25,1
+3,S2 dense,26,1
+3,S2 dense,27,1
+3,S2 dense,28,1
+3,S2 dense,29,1
+3,S2 dense,30,1
+3,S2 dense,31,1
+3,S2 dense,32,1
+3,S2 dense,33,1
+3,S2 dense,34,1
+3,S2 dense,35,1
+3,S2 dense,36,1
+3,S2 dense,37,1
+3,S2 dense,38,1
+3,S2 dense,39,1
+3,S2 dense,40,1
+3,S2 dense,41,1
+3,S2 dense,42,1
+3,S2 dense,43,1
+3,S2 dense,44,1
+3,S2 dense,45,1
+3,S2 dense,46,1
+3,S2 dense,47,1
+3,S2 dense,48,1
+3,S2 dense,49,1
+3,S2 dense,50,1
+3,S2 dense,51,1
+3,S2 dense,52,1
+3,S2 dense,53,1
+3,S2 dense,54,1
+3,S2 dense,55,1
+3,S2 dense,56,1
+3,S2 dense,57,1
+3,S2 dense,58,1
+3,S2 dense,59,1
+3,S2 dense,60,1
+3,S2 dense,61,1
+3,S2 dense,62,1
+3,S2 dense,63,1
+3,S2 dense,64,1
+3,S2 dense,65,1
+3,S2 dense,66,1
+3,S2 dense,67,1
+3,S2 dense,68,1
+3,S2 dense,69,1
+3,S2 dense,70,1
+3,S2 dense,71,1
+3,S2 dense,72,1
+3,S2 dense,73,1
+3,S2 dense,74,1
+3,S2 dense,75,1
+3,S2 dense,76,1
+3,S2 dense,77,1
+3,S2 dense,78,1
+3,S2 dense,79,1
+3,S2 dense,80,1
+3,S2 dense,81,1
+3,S2 dense,82,1
+3,S2 dense,83,1
+3,S2 dense,84,1
+3,S2 dense,85,1
+3,S2 dense,86,1
+3,S2 dense,87,1
+3,S2 dense,88,1
+3,S2 dense,89,1
+3,S2 dense,90,1
+3,S2 dense,91,1
+3,S2 dense,92,1
+3,S2 dense,93,1
+3,S2 dense,94,1
+3,S2 dense,95,1
+3,S2 dense,96,1
+3,S2 dense,97,1
+3,S2 dense,98,1
+3,S2 dense,99,1
+3,S2 dense,100,1
+3,S2 dense,101,1
+3,S2 dense,102,1
+3,S2 dense,103,1
+3,S2 dense,104,1
+3,S2 dense,105,1
+3,S2 dense,106,1
+3,S2 dense,107,1
+3,S2 dense,108,1
+3,S2 dense,109,1
+3,S2 dense,110,1
+3,S2 dense,111,1
+3,S2 dense,112,1
+3,S2 dense,113,1
+3,S2 dense,114,1
+3,S2 dense,115,1
+3,S2 dense,116,1
+3,S2 dense,117,1
+3,S2 dense,118,1
+3,S2 dense,119,1
+3,S2 dense,120,1
+3,S2 dense,121,1
+3,S2 dense,122,1
+3,S2 dense,123,1
+3,S2 dense,124,1
+3,S2 dense,125,1
+3,S2 dense,126,1
+3,S2 dense,127,1
+3,S2 dense,128,1
+3,S2 dense,129,1
+3,S2 dense,130,1
+3,S2 dense,131,1
+3,S2 dense,132,1
+3,S2 dense,133,1
+3,S2 dense,134,1
+3,S2 dense,135,1
+3,S2 dense,136,1
+3,S2 dense,137,1
+3,S2 dense,138,1
+3,S2 dense,139,1
+3,S2 dense,140,1
+3,S2 dense,141,1
+3,S2 dense,142,1
+3,S2 dense,143,1
+3,S2 dense,144,1
+3,S2 dense,145,1
+3,S2 dense,146,1
+3,S2 dense,147,1
+3,S2 dense,148,1
+3,S2 dense,149,1
+3,S2 dense,150,1
+3,S2 dense,151,1
+3,S2 dense,152,1
+3,S2 dense,153,1
+3,S2 dense,154,1
+3,S2 dense,155,1
+3,S2 dense,156,1
+3,S2 dense,157,1
+3,S2 dense,158,1
+3,S2 dense,159,1
+3,S2 dense,160,1
+3,S2 dense,161,1
+3,S2 dense,162,1
+3,S2 dense,163,1
+3,S2 dense,164,1
+3,S2 dense,165,1
+3,S2 dense,166,1
+3,S2 dense,167,1
+3,S2 dense,168,1
+3,S2 dense,169,1
+3,S2 dense,170,1
+3,S2 dense,171,1
+3,S2 dense,172,1
+3,S2 dense,173,1
+3,S2 dense,174,1
+3,S2 dense,175,1
+3,S2 dense,176,1
+3,S2 dense,177,1
+3,S2 dense,178,1
+3,S2 dense,179,1
+3,S2 dense,180,1
+3,S2 dense,181,1
+3,S2 dense,182,1
+3,S2 dense,183,1
+3,S2 dense,184,1
+3,S2 dense,185,1
+3,S2 dense,186,1
+3,S2 dense,187,1
+3,S2 dense,188,1
+3,S2 dense,189,1
+3,S2 dense,190,1
+3,S2 dense,191,1
+3,S2 dense,192,1
+3,S2 dense,193,1
+3,S2 dense,194,1
+3,S2 dense,195,1
+3,S2 dense,196,1
+3,S2 dense,197,1
+3,S2 dense,198,1
+3,S2 dense,199,1
+3,S2 dense,200,1
+3,S2 dense,201,1
+3,S2 dense,202,1
+3,S2 dense,203,1
+3,S2 dense,204,1
+3,S2 dense,205,1
+3,S2 dense,206,1
+3,S2 dense,207,1
+3,S2 dense,208,1
+3,S2 dense,209,1
+3,S2 dense,210,1
+3,S2 dense,211,1
+3,S2 dense,212,1
+3,S2 dense,213,1
+3,S2 dense,214,1
+3,S2 dense,215,1
+3,S2 dense,216,1
+3,S2 dense,217,1
+3,S2 dense,218,1
+3,S2 dense,219,1
+3,S2 dense,220,1
+3,S2 dense,221,1
+3,S2 dense,222,1
+3,S2 dense,223,1
+3,S2 dense,224,1
+3,S2 dense,225,1
+3,S2 dense,226,1
+3,S2 dense,227,1
+3,S2 dense,228,1
+3,S2 dense,229,1
+3,S2 dense,230,1
+3,S2 dense,231,1
+3,S2 dense,232,1
+3,S2 dense,233,1
+3,S2 dense,234,1
+3,S2 dense,235,1
+3,S2 dense,236,1
+3,S2 dense,237,1
+3,S2 dense,238,1
+3,S2 dense,239,1
+3,S2 dense,240,1
+3,S2 dense,241,1
+3,S2 dense,242,1
+3,S2 dense,243,1
+3,S2 dense,244,1
+3,S2 dense,245,1
+3,S2 dense,246,1
+3,S2 dense,247,1
+3,S2 dense,248,1
+3,S2 dense,249,1
+3,S2 dense,250,1
+3,S2 dense,251,1
+3,S2 dense,252,1
+3,S2 dense,253,1
+3,S2 dense,254,1
+3,S2 dense,255,1
+3,S2 dense,256,1
+3,S2 dense,257,1
+3,S2 dense,258,1
+3,S2 dense,259,1
+3,S2 dense,260,1
+3,S2 dense,261,1
+3,S2 dense,262,1
+3,S2 dense,263,1
+3,S2 dense,264,1
+3,S2 dense,265,1
+3,S2 dense,266,1
+3,S2 dense,267,1
+3,S2 dense,268,1
+3,S2 dense,269,1
+3,S2 dense,270,1
+3,S2 dense,271,1
+3,S2 dense,272,1
+3,S2 dense,273,1
+3,S2 dense,274,1
+3,S2 dense,275,1
+3,S2 dense,276,1
+3,S2 dense,277,1
+3,S2 dense,278,1
+3,S2 dense,279,1
+3,S2 dense,280,1
+3,S2 dense,281,1
+3,S2 dense,282,1
+3,S2 dense,283,1
+3,S2 dense,284,1
+3,S2 dense,285,1
+3,S2 dense,286,1
+3,S2 dense,287,1
+3,S2 dense,288,1
+3,S3 fusion,1,1
+3,S3 fusion,2,1
+3,S3 fusion,3,1
+3,S3 fusion,4,1
+3,S3 fusion,5,1
+3,S3 fusion,6,1
+3,S3 fusion,7,1
+3,S3 fusion,8,1
+3,S3 fusion,9,1
+3,S3 fusion,10,1
+3,S3 fusion,11,1
+3,S3 fusion,12,1
+3,S3 fusion,13,1
+3,S3 fusion,14,1
+3,S3 fusion,15,1
+3,S3 fusion,16,1
+3,S3 fusion,17,1
+3,S3 fusion,18,1
+3,S3 fusion,19,1
+3,S3 fusion,20,1
+3,S3 fusion,21,1
+3,S3 fusion,22,1
+3,S3 fusion,23,1
+3,S3 fusion,24,1
+3,S3 fusion,25,1
+3,S3 fusion,26,1
+3,S3 fusion,27,1
+3,S3 fusion,28,1
+3,S3 fusion,29,1
+3,S3 fusion,30,1
+3,S3 fusion,31,1
+3,S3 fusion,32,1
+3,S3 fusion,33,1
+3,S3 fusion,34,1
+3,S3 fusion,35,1
+3,S3 fusion,36,1
+3,S3 fusion,37,1
+3,S3 fusion,38,1
+3,S3 fusion,39,1
+3,S3 fusion,40,1
+3,S3 fusion,41,1
+3,S3 fusion,42,1
+3,S3 fusion,43,1
+3,S3 fusion,44,1
+3,S3 fusion,45,1
+3,S3 fusion,46,1
+3,S3 fusion,47,1
+3,S3 fusion,48,1
+3,S3 fusion,49,1
+3,S3 fusion,50,1
+3,S3 fusion,51,1
+3,S3 fusion,52,1
+3,S3 fusion,53,1
+3,S3 fusion,54,1
+3,S3 fusion,55,1
+3,S3 fusion,56,1
+3,S3 fusion,57,1
+3,S3 fusion,58,1
+3,S3 fusion,59,1
+3,S3 fusion,60,1
+3,S3 fusion,61,1
+3,S3 fusion,62,1
+3,S3 fusion,63,1
+3,S3 fusion,64,1
+3,S3 fusion,65,1
+3,S3 fusion,66,1
+3,S3 fusion,67,1
+3,S3 fusion,68,1
+3,S3 fusion,69,1
+3,S3 fusion,70,1
+3,S3 fusion,71,1
+3,S3 fusion,72,1
+3,S3 fusion,73,1
+3,S3 fusion,74,1
+3,S3 fusion,75,1
+3,S3 fusion,76,1
+3,S3 fusion,77,1
+3,S3 fusion,78,1
+3,S3 fusion,79,1
+3,S3 fusion,80,1
+3,S3 fusion,81,1
+3,S3 fusion,82,1
+3,S3 fusion,83,1
+3,S3 fusion,84,1
+3,S3 fusion,85,1
+3,S3 fusion,86,1
+3,S3 fusion,87,1
+3,S3 fusion,88,1
+3,S3 fusion,89,1
+3,S3 fusion,90,1
+3,S3 fusion,91,1
+3,S3 fusion,92,1
+3,S3 fusion,93,1
+3,S3 fusion,94,1
+3,S3 fusion,95,1
+3,S3 fusion,96,1
+3,S3 fusion,97,1
+3,S3 fusion,98,1
+3,S3 fusion,99,1
+3,S3 fusion,100,1
+3,S3 fusion,101,1
+3,S3 fusion,102,1
+3,S3 fusion,103,1
+3,S3 fusion,104,1
+3,S3 fusion,105,1
+3,S3 fusion,106,1
+3,S3 fusion,107,1
+3,S3 fusion,108,1
+3,S3 fusion,109,1
+3,S3 fusion,110,1
+3,S3 fusion,111,1
+3,S3 fusion,112,1
+3,S3 fusion,113,1
+3,S3 fusion,114,1
+3,S3 fusion,115,1
+3,S3 fusion,116,1
+3,S3 fusion,117,1
+3,S3 fusion,118,1
+3,S3 fusion,119,1
+3,S3 fusion,120,1
+3,S3 fusion,121,1
+3,S3 fusion,122,1
+3,S3 fusion,123,1
+3,S3 fusion,124,1
+3,S3 fusion,125,1
+3,S3 fusion,126,1
+3,S3 fusion,127,1
+3,S3 fusion,128,1
+3,S3 fusion,129,1
+3,S3 fusion,130,1
+3,S3 fusion,131,1
+3,S3 fusion,132,1
+3,S3 fusion,133,1
+3,S3 fusion,134,1
+3,S3 fusion,135,1
+3,S3 fusion,136,1
+3,S3 fusion,137,1
+3,S3 fusion,138,1
+3,S3 fusion,139,1
+3,S3 fusion,140,1
+3,S3 fusion,141,1
+3,S3 fusion,142,1
+3,S3 fusion,143,1
+3,S3 fusion,144,1
+3,S3 fusion,145,1
+3,S3 fusion,146,1
+3,S3 fusion,147,1
+3,S3 fusion,148,1
+3,S3 fusion,149,1
+3,S3 fusion,150,1
+3,S3 fusion,151,1
+3,S3 fusion,152,1
+3,S3 fusion,153,1
+3,S3 fusion,154,1
+3,S3 fusion,155,1
+3,S3 fusion,156,1
+3,S3 fusion,157,1
+3,S3 fusion,158,1
+3,S3 fusion,159,1
+3,S3 fusion,160,1
+3,S3 fusion,161,1
+3,S3 fusion,162,1
+3,S3 fusion,163,1
+3,S3 fusion,164,1
+3,S3 fusion,165,1
+3,S3 fusion,166,1
+3,S3 fusion,167,1
+3,S3 fusion,168,1
+3,S3 fusion,169,1
+3,S3 fusion,170,1
+3,S3 fusion,171,1
+3,S3 fusion,172,1
+3,S3 fusion,173,1
+3,S3 fusion,174,1
+3,S3 fusion,175,1
+3,S3 fusion,176,1
+3,S3 fusion,177,1
+3,S3 fusion,178,1
+3,S3 fusion,179,1
+3,S3 fusion,180,1
+3,S3 fusion,181,1
+3,S3 fusion,182,1
+3,S3 fusion,183,1
+3,S3 fusion,184,1
+3,S3 fusion,185,1
+3,S3 fusion,186,1
+3,S3 fusion,187,1
+3,S3 fusion,188,1
+3,S3 fusion,189,1
+3,S3 fusion,190,1
+3,S3 fusion,191,1
+3,S3 fusion,192,1
+3,S3 fusion,193,1
+3,S3 fusion,194,1
+3,S3 fusion,195,1
+3,S3 fusion,196,1
+3,S3 fusion,197,1
+3,S3 fusion,198,1
+3,S3 fusion,199,1
+3,S3 fusion,200,1
+3,S3 fusion,201,1
+3,S3 fusion,202,1
+3,S3 fusion,203,1
+3,S3 fusion,204,1
+3,S3 fusion,205,1
+3,S3 fusion,206,1
+3,S3 fusion,207,1
+3,S3 fusion,208,1
+3,S3 fusion,209,1
+3,S3 fusion,210,1
+3,S3 fusion,211,1
+3,S3 fusion,212,1
+3,S3 fusion,213,1
+3,S3 fusion,214,1
+3,S3 fusion,215,1
+3,S3 fusion,216,1
+3,S3 fusion,217,1
+3,S3 fusion,218,1
+3,S3 fusion,219,1
+3,S3 fusion,220,1
+3,S3 fusion,221,1
+3,S3 fusion,222,1
+3,S3 fusion,223,1
+3,S3 fusion,224,1
+3,S3 fusion,225,1
+3,S3 fusion,226,1
+3,S3 fusion,227,1
+3,S3 fusion,228,1
+3,S3 fusion,229,1
+3,S3 fusion,230,1
+3,S3 fusion,231,1
+3,S3 fusion,232,1
+3,S3 fusion,233,1
+3,S3 fusion,234,1
+3,S3 fusion,235,1
+3,S3 fusion,236,1
+3,S3 fusion,237,1
+3,S3 fusion,238,1
+3,S3 fusion,239,1
+3,S3 fusion,240,1
+3,S3 fusion,241,1
+3,S3 fusion,242,1
+3,S3 fusion,243,1
+3,S3 fusion,244,1
+3,S3 fusion,245,1
+3,S3 fusion,246,1
+3,S3 fusion,247,1
+3,S3 fusion,248,1
+3,S3 fusion,249,1
+3,S3 fusion,250,1
+3,S3 fusion,251,1
+3,S3 fusion,252,1
+3,S3 fusion,253,1
+3,S3 fusion,254,1
+3,S3 fusion,255,1
+3,S3 fusion,256,1
+3,S3 fusion,257,1
+3,S3 fusion,258,1
+3,S3 fusion,259,1
+3,S3 fusion,260,1
+3,S3 fusion,261,1
+3,S3 fusion,262,1
+3,S3 fusion,263,1
+3,S3 fusion,264,1
+3,S3 fusion,265,1
+3,S3 fusion,266,1
+3,S3 fusion,267,1
+3,S3 fusion,268,1
+3,S3 fusion,269,1
+3,S3 fusion,270,1
+3,S3 fusion,271,1
+3,S3 fusion,272,1
+3,S3 fusion,273,1
+3,S3 fusion,274,1
+3,S3 fusion,275,1
+3,S3 fusion,276,1
+3,S3 fusion,277,1
+3,S3 fusion,278,1
+3,S3 fusion,279,1
+3,S3 fusion,280,1
+3,S3 fusion,281,1
+3,S3 fusion,282,1
+3,S3 fusion,283,1
+3,S3 fusion,284,1
+3,S3 fusion,285,1
+3,S3 fusion,286,1
+3,S3 fusion,287,1
+3,S3 fusion,288,1

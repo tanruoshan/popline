@@ -1,0 +1,159 @@
+{
+  "tier1": {
+    "passages": 608,
+    "idea_articles": 15,
+    "implicit_articles": 3,
+    "R0 reading order": {
+      "effort_80": 444,
+      "effort_100": 604,
+      "recall@5": 0.06666666666666667,
+      "recall@10": 0.06666666666666667,
+      "recall@20": 0.06666666666666667,
+      "passage_ndcg@10": 0.6500332220485792,
+      "matched_passages": null,
+      "implicit_recall@5": 0.3333333333333333,
+      "implicit_recall@10": 0.3333333333333333,
+      "implicit_recall@20": 0.3333333333333333
+    },
+    "B0 keyword": {
+      "effort_80": 35,
+      "effort_100": 90,
+      "recall@5": 0.13333333333333333,
+      "recall@10": 0.4,
+      "recall@20": 0.6,
+      "passage_ndcg@10": 0.8830464882589033,
+      "matched_passages": 39,
+      "implicit_recall@5": 0.0,
+      "implicit_recall@10": 0.0,
+      "implicit_recall@20": 0.0
+    },
+    "B0-literal": {
+      "effort_80": 141,
+      "effort_100": 451,
+      "recall@5": 0.3333333333333333,
+      "recall@10": 0.4,
+      "recall@20": 0.4666666666666667,
+      "passage_ndcg@10": 0.9681896059005243,
+      "matched_passages": 21,
+      "implicit_recall@5": 0.0,
+      "implicit_recall@10": 0.0,
+      "implicit_recall@20": 0.0
+    },
+    "B1 lexicon exact": {
+      "effort_80": 41,
+      "effort_100": 178,
+      "recall@5": 0.13333333333333333,
+      "recall@10": 0.26666666666666666,
+      "recall@20": 0.5333333333333333,
+      "passage_ndcg@10": 0.7162874455029682,
+      "matched_passages": 68,
+      "implicit_recall@5": 0.0,
+      "implicit_recall@10": 0.0,
+      "implicit_recall@20": 0.3333333333333333
+    },
+    "S1 lexicon fuzzy": {
+      "effort_80": 58,
+      "effort_100": 125,
+      "recall@5": 0.2,
+      "recall@10": 0.2,
+      "recall@20": 0.4666666666666667,
+      "passage_ndcg@10": 0.7967610662472993,
+      "matched_passages": 132,
+      "implicit_recall@5": 0.0,
+      "implicit_recall@10": 0.0,
+      "implicit_recall@20": 0.0
+    },
+    "S2 dense": {
+      "effort_80": 60,
+      "effort_100": 101,
+      "recall@5": 0.2,
+      "recall@10": 0.2,
+      "recall@20": 0.4666666666666667,
+      "passage_ndcg@10": 0.9305687780632227,
+      "matched_passages": null,
+      "implicit_recall@5": 0.0,
+      "implicit_recall@10": 0.0,
+      "implicit_recall@20": 0.0
+    },
+    "S3 fusion": {
+      "effort_80": 62,
+      "effort_100": 134,
+      "recall@5": 0.13333333333333333,
+      "recall@10": 0.2,
+      "recall@20": 0.4,
+      "passage_ndcg@10": 0.9216017310213247,
+      "matched_passages": null,
+      "implicit_recall@5": 0.0,
+      "implicit_recall@10": 0.0,
+      "implicit_recall@20": 0.0
+    }
+  },
+  "tier3": {
+    "passages": 288,
+    "idea_articles": 1,
+    "implicit_articles": 0,
+    "R0 reading order": {
+      "effort_80": 238,
+      "effort_100": 238,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "recall@20": 0.0,
+      "passage_ndcg@10": 0.0,
+      "matched_passages": null
+    },
+    "B0 keyword": {
+      "effort_80": 238,
+      "effort_100": 238,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "recall@20": 0.0,
+      "passage_ndcg@10": 0.0,
+      "matched_passages": 0
+    },
+    "B0-literal": {
+      "effort_80": 238,
+      "effort_100": 238,
+      "recall@5": 0.0,
+      "recall@10": 0.0,
+      "recall@20": 0.0,
+      "passage_ndcg@10": 0.0,
+      "matched_passages": 0
+    },
+    "B1 lexicon exact": {
+      "effort_80": 1,
+      "effort_100": 1,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "recall@20": 1.0,
+      "passage_ndcg@10": 0.6366824387328317,
+      "matched_passages": 2
+    },
+    "S1 lexicon fuzzy": {
+      "effort_80": 2,
+      "effort_100": 2,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "recall@20": 1.0,
+      "passage_ndcg@10": 0.44149241373678083,
+      "matched_passages": 3
+    },
+    "S2 dense": {
+      "effort_80": 4,
+      "effort_100": 4,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "recall@20": 1.0,
+      "passage_ndcg@10": 0.16812753627111746,
+      "matched_passages": null
+    },
+    "S3 fusion": {
+      "effort_80": 1,
+      "effort_100": 1,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "recall@20": 1.0,
+      "passage_ndcg@10": 0.6366824387328317,
+      "matched_passages": null
+    }
+  }
+}

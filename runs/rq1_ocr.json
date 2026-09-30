@@ -1,0 +1,172 @@
+{
+  "passages": {
+    "tier1": {
+      "n": 576,
+      "median": 0.68,
+      "q1": 0.614,
+      "q3": 0.75
+    },
+    "tier3": {
+      "n": 277,
+      "median": 0.9,
+      "q1": 0.812,
+      "q3": 0.941
+    }
+  },
+  "tier1_idea": {
+    "median_quality": 0.673,
+    "articles": {
+      "T1-01:A1": {
+        "quality": 0.631,
+        "group": "low"
+      },
+      "T1-01:A3": {
+        "quality": 0.673,
+        "group": "high"
+      },
+      "T1-01:A4": {
+        "quality": 0.679,
+        "group": "high"
+      },
+      "T1-01:A5": {
+        "quality": 0.682,
+        "group": "high"
+      },
+      "T1-03:A1": {
+        "quality": 0.607,
+        "group": "low"
+      },
+      "T1-04:A1": {
+        "quality": 0.659,
+        "group": "low"
+      },
+      "T1-04:A2": {
+        "quality": 0.667,
+        "group": "low"
+      },
+      "T1-05:A1": {
+        "quality": 0.676,
+        "group": "high"
+      },
+      "T1-06:A1": {
+        "quality": 0.624,
+        "group": "low"
+      },
+      "T1-08:A1": {
+        "quality": 0.676,
+        "group": "high"
+      },
+      "T1-09:A1": {
+        "quality": 0.693,
+        "group": "high"
+      },
+      "T1-10:A1": {
+        "quality": 0.666,
+        "group": "low"
+      },
+      "T1-12:A1": {
+        "quality": 0.624,
+        "group": "low"
+      },
+      "T1-13:A?": {
+        "quality": 0.906,
+        "group": "high"
+      },
+      "T1-14:A1": {
+        "quality": 0.937,
+        "group": "high"
+      }
+    },
+    "B0 keyword": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 24,
+        "found_in_top20": 3
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 8.5,
+        "found_in_top20": 6
+      },
+      "spearman_quality_vs_position": -0.246
+    },
+    "B0-literal": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 23,
+        "found_in_top20": 3
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 30.0,
+        "found_in_top20": 4
+      },
+      "spearman_quality_vs_position": -0.393
+    },
+    "B1 lexicon exact": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 21,
+        "found_in_top20": 3
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 13.5,
+        "found_in_top20": 5
+      },
+      "spearman_quality_vs_position": -0.425
+    },
+    "R0 reading order": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 185,
+        "found_in_top20": 1
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 253.5,
+        "found_in_top20": 0
+      },
+      "spearman_quality_vs_position": 0.3
+    },
+    "S1 lexicon fuzzy": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 46,
+        "found_in_top20": 2
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 17.5,
+        "found_in_top20": 5
+      },
+      "spearman_quality_vs_position": -0.086
+    },
+    "S2 dense": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 16,
+        "found_in_top20": 4
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 33.5,
+        "found_in_top20": 3
+      },
+      "spearman_quality_vs_position": -0.089
+    },
+    "S3 fusion": {
+      "low": {
+        "n": 7,
+        "median_first_hit": 27,
+        "found_in_top20": 2
+      },
+      "high": {
+        "n": 8,
+        "median_first_hit": 22.0,
+        "found_in_top20": 4
+      },
+      "spearman_quality_vs_position": -0.143
+    }
+  }
+}

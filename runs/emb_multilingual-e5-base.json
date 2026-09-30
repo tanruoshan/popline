@@ -1,0 +1,11 @@
+{
+  "model": "intfloat/multilingual-e5-base",
+  "model_revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+  "torch": "2.14.0+cpu",
+  "transformers": "5.17.0",
+  "passages": 1047,
+  "concepts": 3,
+  "seconds": 1161,
+  "device": "cpu",
+  "date": "2026-09-29 18:40"
+}

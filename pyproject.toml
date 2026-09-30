@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "popline"
+version = "0.1.0"
+description = "Finding the European idea in noisy interwar newspapers: retrieval and stance with historians in the loop"
+requires-python = ">=3.11"
+# Core: everything except the embedding run, the LLM run and the figures. Exact versions of the study run:
+# requirements.txt.
+dependencies = [
+    "pymupdf>=1.28",
+    "rank-bm25==0.2.2",
+    "rapidfuzz>=3.0",
+    "numpy>=1.26",
+    "pyyaml>=6.0",
+    "wordfreq>=3.1",
+]
+
+[project.optional-dependencies]
+embed = ["torch>=2.0", "transformers>=4.40"]          # scripts/embed.py (S2 vectors)
+stance = ["openai>=1.0", "python-dotenv>=1.0"]        # scripts/stance.py (RQ2 run)
+figures = ["matplotlib>=3.8"]                         # scripts/figures.py
+dev = ["pytest>=8.0", "ruff>=0.6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]      # tests also run without the editable install
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/popline/stance.py" = ["E501"]   # the prompt text stays exactly as it was run
+"scripts/md2pdf.py" = ["E501"]       # CSS for team documents, not part of the study

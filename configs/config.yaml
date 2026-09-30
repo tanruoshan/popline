@@ -1,0 +1,36 @@
+# One place for paths and fixed settings. Change a value here, never in code.
+seed: 20260929
+
+paths:
+  # Arcanum PDFs are subscription material: they stay out of git (see .gitignore).
+  raw_dir: data/raw             # the 19 keyword extracts + the 50-page BDZ run, original file names
+  packs_dir: data/packs         # annotated page packs as returned by Bea and Simon
+  bea_dir: data/packs/bea       # tier1_must/, tier2_should/, tier3_control/
+  simon_dir: data/packs/simon   # kappa_pages/
+  manifest_pages: data/manifest_pages.csv
+  manifest_kappa: data/manifest_kappa.csv
+  runs_dir: runs
+
+packs:
+  unselected_run: BanaterDeutscheZeitung_1929_08-1708646825__pages1-50.pdf
+  unselected_skip_pages: [17]   # page 17 is already a keyword extract (tier 1)
+  tier3_n_pages: 10
+  kappa_n_pages: 8
+
+passages:
+  min_words: 40        # blocks shorter than this are merged with the block below in the same column
+  max_words: 250       # merging stops once a passage reaches this length
+  in_rect_share: 0.5   # a passage belongs to a rectangle if at least this share of its area lies inside
+
+bm25:                  # B1 and S1 (rank_bm25 BM25Okapi). These are the library defaults, written out so they are visible.
+  k1: 1.5              # term-frequency saturation
+  b: 0.75              # length normalisation
+  epsilon: 0.25        # a negative IDF (term in more than half of the passages) becomes epsilon x mean IDF
+  idf_scope: tier      # IDF is fitted on the passages of the tier that is ranked (tier 1 is keyword-selected,
+                       # so "paneuropa" is common there and gets a lower IDF than in tier 3)
+
+evaluation:
+  unit: article        # methods rank passages; an article is found when any of its passages is read
+  k_values: [5, 10, 20]
+  effort_recall: 0.8   # reading effort = passages read until this share of relevant articles is found
+  relevant_grade: 2    # 2 = IDEA only; MENTION (1) counts as not relevant for the main table

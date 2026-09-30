@@ -1,0 +1,113 @@
+tier,article,method,first_position,implicit,stance
+1,T1-01:A1,R0 reading order,2,True,NEUTRAL
+1,T1-01:A3,R0 reading order,34,False,NEUTRAL
+1,T1-01:A4,R0 reading order,39,True,NEUTRAL
+1,T1-01:A5,R0 reading order,52,True,NEUTRAL
+1,T1-03:A1,R0 reading order,120,False,NEUTRAL
+1,T1-04:A1,R0 reading order,128,False,NEUTRAL
+1,T1-04:A2,R0 reading order,185,False,NEUTRAL
+1,T1-05:A1,R0 reading order,190,False,NEUTRAL
+1,T1-06:A1,R0 reading order,275,False,NEUTRAL
+1,T1-08:A1,R0 reading order,317,False,UNSURE
+1,T1-09:A1,R0 reading order,403,False,CONTRA
+1,T1-10:A1,R0 reading order,444,False,PRO
+1,T1-12:A1,R0 reading order,538,False,PRO
+1,T1-13:A?,R0 reading order,557,False,PRO
+1,T1-14:A1,R0 reading order,604,False,PRO
+1,T1-01:A1,B0 keyword,41,True,NEUTRAL
+1,T1-01:A3,B0 keyword,9,False,NEUTRAL
+1,T1-01:A4,B0 keyword,77,True,NEUTRAL
+1,T1-01:A5,B0 keyword,90,True,NEUTRAL
+1,T1-03:A1,B0 keyword,11,False,NEUTRAL
+1,T1-04:A1,B0 keyword,1,False,NEUTRAL
+1,T1-04:A2,B0 keyword,18,False,NEUTRAL
+1,T1-05:A1,B0 keyword,20,False,NEUTRAL
+1,T1-06:A1,B0 keyword,24,False,NEUTRAL
+1,T1-08:A1,B0 keyword,6,False,UNSURE
+1,T1-09:A1,B0 keyword,7,False,CONTRA
+1,T1-10:A1,B0 keyword,33,False,PRO
+1,T1-12:A1,B0 keyword,35,False,PRO
+1,T1-13:A?,B0 keyword,8,False,PRO
+1,T1-14:A1,B0 keyword,2,False,PRO
+1,T1-01:A1,B0-literal,23,True,NEUTRAL
+1,T1-01:A3,B0-literal,55,False,NEUTRAL
+1,T1-01:A4,B0-literal,60,True,NEUTRAL
+1,T1-01:A5,B0-literal,73,True,NEUTRAL
+1,T1-03:A1,B0-literal,141,False,NEUTRAL
+1,T1-04:A1,B0-literal,2,False,NEUTRAL
+1,T1-04:A2,B0-literal,9,False,NEUTRAL
+1,T1-05:A1,B0-literal,206,False,NEUTRAL
+1,T1-06:A1,B0-literal,291,False,NEUTRAL
+1,T1-08:A1,B0-literal,3,False,UNSURE
+1,T1-09:A1,B0-literal,4,False,CONTRA
+1,T1-10:A1,B0-literal,451,False,PRO
+1,T1-12:A1,B0-literal,17,False,PRO
+1,T1-13:A?,B0-literal,5,False,PRO
+1,T1-14:A1,B0-literal,1,False,PRO
+1,T1-01:A1,B1 lexicon exact,13,True,NEUTRAL
+1,T1-01:A3,B1 lexicon exact,16,False,NEUTRAL
+1,T1-01:A4,B1 lexicon exact,101,True,NEUTRAL
+1,T1-01:A5,B1 lexicon exact,33,True,NEUTRAL
+1,T1-03:A1,B1 lexicon exact,178,False,NEUTRAL
+1,T1-04:A1,B1 lexicon exact,7,False,NEUTRAL
+1,T1-04:A2,B1 lexicon exact,40,False,NEUTRAL
+1,T1-05:A1,B1 lexicon exact,41,False,NEUTRAL
+1,T1-06:A1,B1 lexicon exact,20,False,NEUTRAL
+1,T1-08:A1,B1 lexicon exact,11,False,UNSURE
+1,T1-09:A1,B1 lexicon exact,9,False,CONTRA
+1,T1-10:A1,B1 lexicon exact,49,False,PRO
+1,T1-12:A1,B1 lexicon exact,21,False,PRO
+1,T1-13:A?,B1 lexicon exact,3,False,PRO
+1,T1-14:A1,B1 lexicon exact,2,False,PRO
+1,T1-01:A1,S1 lexicon fuzzy,28,True,NEUTRAL
+1,T1-01:A3,S1 lexicon fuzzy,27,False,NEUTRAL
+1,T1-01:A4,S1 lexicon fuzzy,125,True,NEUTRAL
+1,T1-01:A5,S1 lexicon fuzzy,106,True,NEUTRAL
+1,T1-03:A1,S1 lexicon fuzzy,46,False,NEUTRAL
+1,T1-04:A1,S1 lexicon fuzzy,1,False,NEUTRAL
+1,T1-04:A2,S1 lexicon fuzzy,58,False,NEUTRAL
+1,T1-05:A1,S1 lexicon fuzzy,12,False,NEUTRAL
+1,T1-06:A1,S1 lexicon fuzzy,3,False,NEUTRAL
+1,T1-08:A1,S1 lexicon fuzzy,17,False,UNSURE
+1,T1-09:A1,S1 lexicon fuzzy,5,False,CONTRA
+1,T1-10:A1,S1 lexicon fuzzy,48,False,PRO
+1,T1-12:A1,S1 lexicon fuzzy,90,False,PRO
+1,T1-13:A?,S1 lexicon fuzzy,18,False,PRO
+1,T1-14:A1,S1 lexicon fuzzy,14,False,PRO
+1,T1-01:A1,S2 dense,77,True,NEUTRAL
+1,T1-01:A3,S2 dense,40,False,NEUTRAL
+1,T1-01:A4,S2 dense,93,True,NEUTRAL
+1,T1-01:A5,S2 dense,60,True,NEUTRAL
+1,T1-03:A1,S2 dense,101,False,NEUTRAL
+1,T1-04:A1,S2 dense,1,False,NEUTRAL
+1,T1-04:A2,S2 dense,16,False,NEUTRAL
+1,T1-05:A1,S2 dense,27,False,NEUTRAL
+1,T1-06:A1,S2 dense,12,False,NEUTRAL
+1,T1-08:A1,S2 dense,19,False,UNSURE
+1,T1-09:A1,S2 dense,4,False,CONTRA
+1,T1-10:A1,S2 dense,14,False,PRO
+1,T1-12:A1,S2 dense,24,False,PRO
+1,T1-13:A?,S2 dense,2,False,PRO
+1,T1-14:A1,S2 dense,44,False,PRO
+1,T1-01:A1,S3 fusion,74,True,NEUTRAL
+1,T1-01:A3,S3 fusion,26,False,NEUTRAL
+1,T1-01:A4,S3 fusion,105,True,NEUTRAL
+1,T1-01:A5,S3 fusion,134,True,NEUTRAL
+1,T1-03:A1,S3 fusion,54,False,NEUTRAL
+1,T1-04:A1,S3 fusion,1,False,NEUTRAL
+1,T1-04:A2,S3 fusion,24,False,NEUTRAL
+1,T1-05:A1,S3 fusion,13,False,NEUTRAL
+1,T1-06:A1,S3 fusion,3,False,NEUTRAL
+1,T1-08:A1,S3 fusion,25,False,UNSURE
+1,T1-09:A1,S3 fusion,19,False,CONTRA
+1,T1-10:A1,S3 fusion,27,False,PRO
+1,T1-12:A1,S3 fusion,62,False,PRO
+1,T1-13:A?,S3 fusion,9,False,PRO
+1,T1-14:A1,S3 fusion,18,False,PRO
+3,T3-09:A1,R0 reading order,238,False,PRO
+3,T3-09:A1,B0 keyword,238,False,PRO
+3,T3-09:A1,B0-literal,238,False,PRO
+3,T3-09:A1,B1 lexicon exact,1,False,PRO
+3,T3-09:A1,S1 lexicon fuzzy,2,False,PRO
+3,T3-09:A1,S2 dense,4,False,PRO
+3,T3-09:A1,S3 fusion,1,False,PRO

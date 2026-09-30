@@ -1,0 +1,19 @@
+# Exact versions of the study run (Python 3.13, Windows; also checked with Python 3.11, Linux).
+# Setup: python -m venv .venv; .\.venv\Scripts\Activate.ps1; pip install -r requirements.txt; pip install -e .
+pymupdf==1.28.2
+rank-bm25==0.2.2
+wordfreq==3.1.1
+rapidfuzz==3.14.6
+numpy>=1.26
+pyyaml>=6.0
+# figures.py
+matplotlib>=3.8
+# embed.py (S2 vectors)
+torch==2.14.0
+transformers==5.17.0
+# stance.py (RQ2 run)
+openai==3.19.2
+python-dotenv==1.2.3
+# tests and lint
+pytest>=8.0
+ruff>=0.6
