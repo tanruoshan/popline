@@ -8,6 +8,7 @@ Historians search digitised newspaper archives by keyword, download the matching
 
 | Document | What it is |
 |---|---|
+| [`paper/From_Keyword_Hits_to_Relevant_Passages.pdf`](paper/From_Keyword_Hits_to_Relevant_Passages.pdf) | the paper (PDF): *From Keyword Hits to Relevant Passages* |
 | [`runs/`](runs/) | results: `rq1_results.json` (Tables 2-4), `rq1_ocr.json`, `rq2_results.json` + `rq2_table.csv` (Table 5) |
 | [`docs/annotation_guideline.md`](docs/annotation_guideline.md) | how the gold standard is marked (v3) |
 

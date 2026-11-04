@@ -5,6 +5,7 @@ data/packs/
 *.pdf
 !report/overleaf-popline/main.pdf
 !report/overleaf-popline/figures/*.pdf
+!paper/*.pdf
 report/overleaf-popline/figures/*.png
 docs/Popline_*/
 *.zip
